@@ -1,0 +1,56 @@
+name: jekyll
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=2_gnu
+  - _sysroot_linux-64_curr_repodata_hack=3=h69a702a_16
+  - binutils=2.38=h1680402_1
+  - binutils_impl_linux-64=2.38=h2a08ee3_1
+  - binutils_linux-64=2.38.0=hc2dff05_0
+  - bzip2=1.0.8=h5eee18b_6
+  - c-compiler=1.5.2=h0b41bf4_0
+  - ca-certificates=2024.7.2=h06a4308_0
+  - compilers=1.5.2=ha770c72_0
+  - cxx-compiler=1.5.2=hf52228f_0
+  - expat=2.6.2=h6a678d5_0
+  - fortran-compiler=1.5.2=hdb1a99f_0
+  - gcc=11.2.0=h702ea55_10
+  - gcc_impl_linux-64=11.2.0=h1234567_1
+  - gcc_linux-64=11.2.0=h5c386dc_0
+  - gdbm=1.18=h0a1914f_2
+  - gfortran=11.2.0=h8811e0c_10
+  - gfortran_impl_linux-64=11.2.0=h7a446d4_16
+  - gfortran_linux-64=11.2.0=hc2dff05_0
+  - gmp=6.2.1=h295c915_3
+  - gxx=11.2.0=h702ea55_10
+  - gxx_impl_linux-64=11.2.0=h1234567_1
+  - gxx_linux-64=11.2.0=hc2dff05_0
+  - kernel-headers_linux-64=3.10.0=h4a8ded7_16
+  - ld_impl_linux-64=2.38=h1181459_1
+  - libffi=3.4.4=h6a678d5_1
+  - libgcc-devel_linux-64=11.2.0=h1234567_1
+  - libgcc-ng=14.1.0=h77fa898_0
+  - libgfortran5=13.2.0=ha4646dd_0
+  - libgomp=14.1.0=h77fa898_0
+  - libstdcxx-devel_linux-64=11.2.0=h1234567_1
+  - libstdcxx-ng=11.2.0=h1234567_1
+  - libuuid=1.41.5=h5eee18b_0
+  - libxcrypt1=4.4.36=hd590300_1
+  - ncurses=6.4=h6a678d5_0
+  - openssl=3.0.14=h5eee18b_0
+  - pip=24.0=py312h06a4308_0
+  - python=3.12.4=h5148396_1
+  - readline=8.2=h5eee18b_0
+  - ruby=3.2.2=h2d74bed_0
+  - setuptools=69.5.1=py312h06a4308_0
+  - sqlite=3.45.3=h5eee18b_0
+  - sysroot_linux-64=2.17=h4a8ded7_16
+  - tk=8.6.14=h39e8969_0
+  - tzdata=2024a=h04d1e81_0
+  - wheel=0.43.0=py312h06a4308_0
+  - xz=5.4.6=h5eee18b_1
+  - yaml=0.2.5=h7f98852_2
+  - zlib=1.2.13=h5eee18b_1
+prefix: /home/bsm/.conda/envs/jekyll
