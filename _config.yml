@@ -30,11 +30,12 @@ url: "https://nordan-conference.github.io" # the base hostname & protocol for yo
 baseurl: /nordan-conference.github.io
 twitter_username: 
 github_username:  nordan-conference
-
+show_downloads: false
 # Build settings
-theme: minima
+theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
