@@ -30,7 +30,7 @@ twitter_username:
 github_username:  nordan-conference
 show_downloads: false
 # Build settings
-theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
