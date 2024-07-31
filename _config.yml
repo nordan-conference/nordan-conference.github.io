@@ -26,9 +26,9 @@ baseurl: ''
 url: "https://nordan-conference.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  nordan-conference
-show_downloads: false
+show_downloads: true
 # Build settings
-#remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
