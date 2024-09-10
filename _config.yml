@@ -104,33 +104,33 @@ conference:
     # logo:
     #   img: ''
     links:
-      - name: Program
-        relative_url: /program/
-      - name: How to get there
-        relative_url: /location/
-      - name: Tickets
-        disabled: true
-        absolute_url: ''
+      #- name: Program
+      #  relative_url: /program/
+      #- name: How to get there
+      #  relative_url: /location/
+      #- name: Tickets
+      #  disabled: true
+      #  absolute_url: ''
 
   # Information boxes
   info_bars:
-    - title: Welcome to the Conference Theme for Jekyll!
-      color: primary
-      main_only: true
-      text: |
-        The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
+    #- title: Welcome to the Conference Theme for Jekyll!
+    #  color: primary
+    #  main_only: true
+    #  text: |
+    #    The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
 
-        ---
+    #    ---
 
-        See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
-    - text: This is just some random content for demonstration purposes.
-      color: warning
-      pages_only: true
+    #    See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
+    #- text: This is just some random content for demonstration purposes.
+    #  color: warning
+    #  pages_only: true
 
   # Live indications
   live:
-    date: 01.01.2020
-    timezone: GMT+1
+    date: 011.09.2024
+    timezone: GMT+0
     stop:       240  # in minutes
     streaming:
       enable: true
