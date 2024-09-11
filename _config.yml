@@ -67,9 +67,9 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: Nordic Complex Analysis Meeting
+      name: NORDAN
       # img: ''
-      url: 'https://digitale-gesellschaft.ch/'
+      url: 'https://nordan-conference.github.io/'
     breakpoint: md
     links:
       - name: Program
