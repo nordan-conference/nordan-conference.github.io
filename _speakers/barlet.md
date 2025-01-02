@@ -1,4 +1,3 @@
-
 ---
 name: Daniel Barlet
 first_name: Daniel

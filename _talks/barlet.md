@@ -1,5 +1,5 @@
 ---
-name: tba
+name: db:tba
 speakers:
   - Daniel Barlet
 categories:

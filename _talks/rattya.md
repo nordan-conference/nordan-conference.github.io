@@ -1,5 +1,5 @@
 ---
-name: tba
+name: jr:tba
 speakers:
   - Jouni Rättyä
 categories:
