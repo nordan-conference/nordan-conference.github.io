@@ -72,8 +72,8 @@ conference:
       url: 'https://nordan-conference.github.io/'
     breakpoint: md
     links:
-      - name: Program
-        relative_url: /program/
+#      - name: Program
+#        relative_url: /program/
       - name: Talks
         relative_url: /talks/
       - name: Speakers
@@ -166,7 +166,7 @@ conference:
     navbar_title: 'Location'
     # Show map on location main page.  Set `map: false` if you don't want to
     # display it.
-    map: false
+    map: true
       ## Initial map center point
       #home_coord: 47.37808, 8.53935
       ## Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
