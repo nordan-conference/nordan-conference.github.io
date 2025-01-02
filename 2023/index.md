@@ -1,4 +1,4 @@
-# Lund University
+
 
 The 23th Nordan conference was held May 5th to 7th at the Rydebäck near 
 Helsingborg, Sweden. 
