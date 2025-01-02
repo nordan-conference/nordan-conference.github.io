@@ -80,6 +80,8 @@ conference:
         relative_url: /speakers/
       - name: Location
         relative_url: /location/
+      - name: Kaus
+        relative_url: /kaus/
       - name: Registration
         relative_url: /registration/
       - name: Previous Editions
@@ -90,6 +92,7 @@ conference:
             relative_url: /2024/
           - name: 2023
             relative_url: /2023/
+            
 
   # Link Preview for Sharing
   link_preview:
