@@ -173,7 +173,7 @@ conference:
     navbar_title: 'Location'
     # Show map on location main page.  Set `map: false` if you don't want to
     # display it.
-    map: false
+    map: true
       ## Initial map center point
       #home_coord: 47.37808, 8.53935
       ## Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
