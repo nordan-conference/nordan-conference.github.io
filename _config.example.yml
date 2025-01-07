@@ -86,6 +86,8 @@ conference:
             relative_url: /2019/
           - name: 2018
             relative_url: /2018/
+          - name: Previous Editions of KAUS
+            relative_url: /2018/
 
   # Link Preview for Sharing
   link_preview:
