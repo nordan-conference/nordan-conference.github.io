@@ -3,6 +3,8 @@ Here are some relics from previous editions of KAUS.
 
 ## 2024	Östanskär, Sweden
 
+![KAUS_2024](/assets/images/KAUS_2024.png)
+
 ## 2011 Göteborg, Sweden
 
 If anyone finds a copy of the brochure from KAUS 2011, please email it to alfheidur@hi.is for us to complete the collection.
