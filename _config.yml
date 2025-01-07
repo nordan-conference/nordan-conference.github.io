@@ -94,6 +94,9 @@ conference:
             relative_url: /2023/
           - name: 1997-2019
             relative_url: /1997-2019/
+          - name: Previous Editions of KAUS
+            relative_url: /oldKAUS/
+
 
   # Link Preview for Sharing
   link_preview:
