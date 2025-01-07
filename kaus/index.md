@@ -9,4 +9,4 @@ Organizers:
 
 
 
-![KAUS_logo_white](/assets/images/KAUS_logo_white.png)
+![KAUS_logo_white](/assets/images/KAUS_logo_white_tiny.png)
