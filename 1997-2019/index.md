@@ -1,5 +1,3 @@
-# Nordan 1997-2019
-
 ## 2019	Lunteren, Netherlands
 
 Organized by the University of Amsterdam.
