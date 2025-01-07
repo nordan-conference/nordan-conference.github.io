@@ -1,4 +1,4 @@
 ---
 layout: speaker-overview
 ---
-[Test 4](_speakers/andersson.md)
+[Test 4](andersson.md)
