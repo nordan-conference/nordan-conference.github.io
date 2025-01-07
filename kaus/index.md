@@ -6,3 +6,7 @@ Schedule will be posted after registration is completed.
 Organizers:
  - [Tryggvi Kalman Jónsson](mailto:tkj3@hi.is), University of Iceland
  - [Mar Saiz Aparicio](mailto:mar.saizaparicio@uis.no), University of Stavanger
+
+
+
+![KAUS_logo_white](/assets/images/KAUS_logo_white.png)
