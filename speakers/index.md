@@ -1,4 +1,4 @@
-#Speakers:
+# Speakers:
  - [Mats Andersson](andersson)
  - [Daniel Barlet](barlet)
  - [Gianmarco Brocchi](brocchi)
