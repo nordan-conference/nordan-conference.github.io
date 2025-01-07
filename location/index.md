@@ -1,6 +1,4 @@
-How to get to the conference
-
-You can adapt the design as well as the section shown on the map by copying the `assets/js/main.js` from the theme's repository and editing it. See also the subsection [Location / Room Overview](https://github.com/DigitaleGesellschaft/jekyll-theme-conference/#location--room-overview) section of the theme's README file.
+The first step is to reach Iceland, that is mostly done by plane. From KEF airport, we recommend you to take Islandia bus to Reykjavík, and it ends at BSÍ Bus terminal. We gather at the University of Iceland, and from there we take a bus to our destination.
 
 
 ## University of Iceland
