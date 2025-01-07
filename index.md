@@ -16,4 +16,4 @@ Organizers:
 - Álfheiður Edda Sigurðardóttir, IMFM, Ljubljana
 - Bergur Snorrason, University of Iceland
 
-![Takn_blatt](/assets/images/Takn_blatt.svg)
+![Takn_blatt](/assets/images/Takn_blatt_minna.svg)
