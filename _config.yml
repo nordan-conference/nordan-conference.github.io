@@ -149,13 +149,13 @@ conference:
       duration: 300  # in seconds
       pause:     10  # in seconds
 
-  talks:
-    # Talk categories
-    main_categories:
-      #- name: Cat A
-      #  color: info
-      - name: Main
-        color: success
+  #talks:
+    ## Talk categories
+    #main_categories:
+      ##- name: Cat A
+      ##  color: info
+      #- name: Main
+        #color: success
 
     # Hide icons on talk overview page
     hide_icons: false
