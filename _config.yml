@@ -67,7 +67,7 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: NORDAN
+#      name: NORDAN
       # img: ''
       url: 'https://nordan-conference.github.io/'
     breakpoint: md
