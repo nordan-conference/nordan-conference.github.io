@@ -1,4 +1,3 @@
-Test 1
 ---
 layout: speaker-overview
 ---
