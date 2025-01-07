@@ -74,13 +74,13 @@ conference:
     links:
 #      - name: Program
 #        relative_url: /program/
-      - name: Talks
-        relative_url: /talks/
+#      - name: Talks
+#        relative_url: /talks/
       - name: Speakers
         relative_url: /speakers/
       - name: Location
         relative_url: /location/
-      - name: Kaus
+      - name: KAUS
         relative_url: /kaus/
       - name: Registration
         relative_url: /registration/
