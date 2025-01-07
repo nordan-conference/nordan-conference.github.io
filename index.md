@@ -15,3 +15,5 @@ Organizers:
 - Benedikt Steinar Magnússon, University of Iceland
 - Álfheiður Edda Sigurðardóttir, IMFM, Ljubljana
 - Bergur Snorrason, University of Iceland
+
+![HI](/assets/images/Tákn blátt.svg)
