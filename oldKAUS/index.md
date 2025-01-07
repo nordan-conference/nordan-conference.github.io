@@ -1,3 +1,5 @@
+![KAUS_logo_white](/assets/images/KAUS_logo_white.png)
+
 Here are some relics from previous editions of KAUS.
 
 
