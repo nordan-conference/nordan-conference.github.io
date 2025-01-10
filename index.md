@@ -4,8 +4,8 @@ layout: home
 
 ![Hekla](/assets/images/Hekla.png)
 
-Nordan 2025: 26th Annual Nordic Conference on Complex Analysis
-May 23–25, 2025 | Hotel Stracta, Hella, Iceland
+**Nordan 2025: 26th Annual Nordic Conference on Complex Analysis**
+*May 23–25, 2025 | Hotel Stracta, Hella, Iceland*
 
 We are pleased to announce the 26th iteration of Nordan, the annual Nordic conference on complex analysis, which will be held in Iceland in 2025. The event will take place from May 23–25 at Hotel Stracta, located in Hella on the south coast of Iceland.
 
