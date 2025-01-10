@@ -4,14 +4,27 @@ layout: home
 
 ![Hekla](/assets/images/Hekla.png)
 
-Nordan is an annual Nordic conference on complex analysis. Its 26th iteration will be held in Iceland 2025, May 23-25, at Hotel Stracta in Hella on the south coast of Iceland.
+Nordan 2025: 26th Annual Nordic Conference on Complex Analysis
+May 23–25, 2025 | Hotel Stracta, Hella, Iceland
 
-We gather at the University of Iceland on Friday, May 23, and take a bus from there at around 18:00. The drive to Hella takes around an hour and a half. The dinner on Friday will be at Hotel Stracta. There will be three talks before lunch on Saturday, and two talks after lunch. There will be three talks on Sunday before lunch, and the bus back to Reykjavík will arrive before 18:00. 
+We are pleased to announce the 26th iteration of Nordan, the annual Nordic conference on complex analysis, which will be held in Iceland in 2025. The event will take place from May 23–25 at Hotel Stracta, located in Hella on the south coast of Iceland.
 
-Note that most flights from Iceland to Europe leave very early in the morning, so many of you will need to leave on the Monday and arrange a hotel in Reykjavík May 25-26.
+Conference Schedule:
 
-The deadline for registration and payment is **March 24, 2025**.
+Friday, May 23:
+Participants will gather at the University of Iceland in Reykjavík. A bus will depart for Hotel Stracta at approximately 18:00, with an expected travel time of 1.5 hours. Upon arrival at the hotel, attendees will enjoy a welcome dinner.
 
+Saturday, May 24:
+The day will feature three talks before lunch, followed by two talks after lunch.
+
+Sunday, May 25:
+The final day will include three talks before lunch, with the return bus to Reykjavík departing after the last session. The bus will arrive in Reykjavík by 18:00.
+
+Important note: Many flights from Iceland to Europe leave early in the morning, so attendees may need to arrange accommodation in Reykjavík for the night of May 25-26.
+The registration deadline is March 24, 2025.
+
+
+We look forward to welcoming you to Iceland!
 
 Organizers: 
 - Benedikt Steinar Magnússon, University of Iceland
