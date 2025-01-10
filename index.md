@@ -30,4 +30,5 @@ Organizers:
 - Benedikt Steinar Magnússon, University of Iceland
 - Álfheiður Edda Sigurðardóttir, IMFM, Ljubljana
 - Bergur Snorrason, University of Iceland
-- ![Takn_blatt](/assets/images/Takn_blatt_minnst.svg)
+
+![Takn_blatt](/assets/images/Takn_blatt_minnst.svg)
