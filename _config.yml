@@ -68,7 +68,7 @@ conference:
   navigation:
     logo:
       name: Nordan
-      img: 'logo.svg' # insice /assets/images/
+      img: 'compass-icon.svg' # insice /assets/images/
       url: 'https://nordan-conference.github.io/'
     breakpoint: md
     links:
