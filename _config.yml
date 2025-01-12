@@ -68,7 +68,7 @@ conference:
   navigation:
     logo:
 #      name: NORDAN
-      # img: ''
+      img: '/assets/logo.svg'
       url: 'https://nordan-conference.github.io/'
     breakpoint: md
     links:
