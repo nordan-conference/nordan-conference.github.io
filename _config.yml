@@ -108,8 +108,8 @@ conference:
 
   # Main landing page
   main:
-    # logo:
-    #   img: ''
+    logo:
+      img: 'full-logo.svg'
     links:
       #- name: Program
       #  relative_url: /program/
