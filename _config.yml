@@ -6,7 +6,7 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nordan-conference.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
-#theme: jekyll-theme-conference
+theme: jekyll-theme-conference
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
 # Build settings
 markdown: kramdown
@@ -108,8 +108,8 @@ conference:
 
   # Main landing page
   main:
-    #logo:
-      #img: 'full-logo.svg'
+    logo:
+      img: 'full-logo.svg'
     links:
       #- name: Program
       #  relative_url: /program/
