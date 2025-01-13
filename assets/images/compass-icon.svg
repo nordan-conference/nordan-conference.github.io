@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="207.33784"
-   height="264.17865"
-   viewBox="0 0 207.33784 264.17865"
+   width="160"
+   height="162.15039"
+   viewBox="0 0 160 162.15039"
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
-   sodipodi:docname="nordanicon.svg"
+   sodipodi:docname="compass-icon.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
-     inkscape:zoom="1.2089284"
-     inkscape:cx="-52.525857"
-     inkscape:cy="76.100454"
+     inkscape:zoom="2.3638693"
+     inkscape:cx="43.784147"
+     inkscape:cy="103.2206"
      inkscape:window-width="1916"
      inkscape:window-height="1041"
      inkscape:window-x="0"
@@ -38,8 +38,8 @@
     <inkscape:grid
        id="grid12"
        units="px"
-       originx="-109.95707"
-       originy="-72.915095"
+       originx="-174.22656"
+       originy="-174.94334"
        spacingx="1"
        spacingy="1"
        empcolor="#0099e5"
@@ -117,24 +117,23 @@
      inkscape:groupmode="layer"
      id="g10"
      style="display:inline"
-     transform="translate(-109.95707,-72.915095)">
+     transform="translate(-174.22657,-174.94336)">
+    <path
+       id="path1"
+       style="fill:#1a0fe8;stroke-width:11.2337;fill-opacity:1"
+       d="M 254.22657 176 A 80 80 0 0 0 227.03321 181.03125 L 240.0254 193.03125 A 64.800003 64.800003 0 0 1 254.22657 191.20117 A 64.800003 64.800003 0 0 1 319.0254 256 A 64.800003 64.800003 0 0 1 311.13477 286.64453 L 319.06837 302.40234 A 80 80 0 0 0 334.22657 256 A 80 80 0 0 0 254.22657 176 z M 191.70899 206.39649 A 80 80 0 0 0 174.22657 256 A 80 80 0 0 0 254.22657 336 A 80 80 0 0 0 284.23829 329.95508 L 271.58399 318.26758 A 64.800003 64.800003 0 0 1 254.22657 320.80078 A 64.800003 64.800003 0 0 1 189.42579 256 A 64.800003 64.800003 0 0 1 199.47462 221.82031 L 191.70899 206.39649 z " />
     <path
        id="path93"
        style="display:none;fill:#ffd30b;stroke-width:11.095"
        inkscape:label=".O.... (sex arma)"
        d="m 113.50671,89.212394 23.27108,7.712096 4.95666,-24.009395 4.95668,24.009395 23.27107,-7.712095 -18.31441,16.297305 18.31442,16.29729 -23.27108,-7.71209 -4.95668,24.0094 -4.95666,-24.00939 -23.27109,7.71209 18.3144,-16.29731 z" />
     <path
-       id="path94"
-       style="display:inline;fill:#ffd30b;stroke-width:11.095"
-       inkscape:label=".O.... (sjö arma)"
-       d="m 141.73446,74.169447 4.30123,23.662989 21.18225,-11.390792 -15.81869,18.116476 22.11259,9.45891 -24.02683,-1.07212 6.39171,23.18586 -14.14226,-19.45338 -14.14227,19.45338 6.3917,-23.18586 -24.02682,1.07212 22.1126,-9.45891 -15.8187,-18.116476 21.18225,11.390792 z" />
-    <path
        id="path10"
        style="display:inline;fill:url(#linearGradient11);fill-opacity:1;stroke-width:19.143;stroke-dasharray:none"
        inkscape:transform-center-x="0.46017891"
        inkscape:transform-center-y="-0.47855361"
        d="m 164.22568,168.31337 75.87508,104.32685 107.67268,71.04571 -75.87508,-104.32684 z m 89.91211,77.90331 a 9.931673,9.931673 0 0 1 11.40752,8.19518 9.931673,9.931673 0 0 1 -8.19517,11.40751 9.931673,9.931673 0 0 1 -11.40752,-8.19517 9.931673,9.931673 0 0 1 8.19517,-11.40752 z"
-       transform="matrix(0.78924116,0.12933501,-0.12933501,0.78924116,87.268431,20.863387)"
-       inkscape:label="Áttavitinn" />
+       inkscape:label="Áttavitinn"
+       transform="matrix(0.78924116,0.12933501,-0.12933501,0.78924116,87.268431,20.863387)" />
   </g>
 </svg>
