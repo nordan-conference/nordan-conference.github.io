@@ -11,7 +11,6 @@
    sodipodi:docname="compass-icon.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -24,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
-     inkscape:zoom="3.5712916"
-     inkscape:cx="27.721063"
-     inkscape:cy="94.363619"
+     inkscape:zoom="2.9337078"
+     inkscape:cx="56.24282"
+     inkscape:cy="103.964"
      inkscape:window-width="1916"
      inkscape:window-height="1041"
      inkscape:window-x="0"
@@ -52,26 +51,6 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
-    <linearGradient
-       id="linearGradient24"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#da0e15;stop-opacity:1;"
-         offset="0"
-         id="stop21" />
-      <stop
-         style="stop-color:#da0e15;stop-opacity:1;"
-         offset="0.5"
-         id="stop22" />
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0.5"
-         id="stop23" />
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="1"
-         id="stop24" />
-    </linearGradient>
     <rect
        x="-369.28787"
        y="110.65769"
@@ -90,16 +69,6 @@
        width="6.0887866"
        height="15.983065"
        id="rect2" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient24"
-       id="linearGradient11"
-       gradientUnits="userSpaceOnUse"
-       x1="164.22964"
-       y1="168.31795"
-       x2="347.78418"
-       y2="343.69696"
-       gradientTransform="matrix(0.78924116,0.12933501,-0.12933501,0.78924116,88.330931,20.863387)" />
     <rect
        x="73.319153"
        y="186.5462"
@@ -130,10 +99,16 @@
        d="m 114.56921,89.212394 23.27108,7.712096 4.95666,-24.009395 4.95668,24.009395 23.27107,-7.712095 -18.31441,16.297305 18.31442,16.29729 -23.27108,-7.71209 -4.95668,24.0094 -4.95666,-24.00939 -23.27109,7.71209 18.3144,-16.29731 z" />
     <path
        id="path10"
-       style="display:inline;fill:url(#linearGradient11);fill-opacity:1;stroke-width:15.31;stroke-dasharray:none"
+       style="display:inline;fill:#da0e15;fill-opacity:1;stroke-width:15.31;stroke-dasharray:none"
        inkscape:transform-center-x="0.46017891"
        inkscape:transform-center-y="-0.47855361"
        d="m 196.17579,174.94336 46.39062,92.15234 75.79101,69.99805 -46.39062,-92.15234 z m 60.88671,73.11328 A 7.9430361,7.9430361 0 0 1 265.00586,256 7.9430361,7.9430361 0 0 1 257.0625,263.94336 7.9430361,7.9430361 0 0 1 249.11914,256 a 7.9430361,7.9430361 0 0 1 7.94336,-7.94336 z"
        inkscape:label="Áttavitinn" />
+    <path
+       id="path2"
+       style="stroke-width:11.095"
+       inkscape:transform-center-x="6.3421441"
+       inkscape:transform-center-y="0.68278767"
+       d="M 271.9668 244.94141 L 263.47266 251.3418 A 7.9430361 7.9430361 0 0 1 265.00587 256 A 7.9430361 7.9430361 0 0 1 257.06251 263.94336 A 7.9430361 7.9430361 0 0 1 250.90626 260.81055 L 242.56641 267.0957 L 318.35743 337.09375 L 271.9668 244.94141 z " />
   </g>
 </svg>
