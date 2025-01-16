@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 The first step is to reach Iceland, that is mostly done by plane. From KEF airport, we recommend you to take Islandia bus to Reykjavík, and it ends at BSÍ Bus terminal. We gather at the University of Iceland, and from there we take a bus to our destination.
 
 

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## 2019	Lunteren, Netherlands
 
 Organized by the University of Amsterdam.

@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # Mid Sweden University and Umeå University
 

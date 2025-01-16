@@ -1,3 +1,6 @@
+---
+layout: default
+---
 Titles and abstracts will be provided at a later date.
 # Speakers
  - [Mats Andersson](andersson)
