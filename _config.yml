@@ -1,4 +1,5 @@
 title: NORDAN 2025
+tagline: bergur
 email: bsm@hi.is
 preposition: at
 description: >-
@@ -12,7 +13,6 @@ remote_theme: "nordan-conference/jekyll-theme-conference"
 markdown: kramdown
 sass:
   style: compressed
-
 
 # Additional exclude from processing
 exclude:
@@ -34,12 +34,9 @@ collections:
   rooms:
     output: true
     permalink: /:collection/:title/
-  oldKAUS:
+  previous-editions-kaus:
     output: true
     permalink: /kaus/previous-editions/:title/
-  previous-editions:
-    output: true
-    permalink: /kaus/:collection/:title/
 
 defaults:
   - scope:
