@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-![1997 - Trosa](/assets/images/1997-Trosa.jpg)
+[![1997 - Trosa](/assets/images/1997-Trosa.jpg)](https://nordan-conference.github.io/assets/images/1997-Trosa.jpg)
 *The participants of the first Nordan in Trosa 1997*
 
 ## 2019	Lunteren, Netherlands
