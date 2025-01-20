@@ -19,8 +19,10 @@ The day will feature three talks before lunch, followed by two talks after lunch
 - **Sunday, May 25:**
 The final day will include three talks before lunch, with the return bus to Reykjavík departing after the last session. The bus will arrive in Reykjavík by 18:00.
 
-Important note: Many flights from Iceland to Europe leave early in the morning, so attendees may need to arrange accommodation in Reykjavík for the night of May 25-26.
 The registration deadline is **March 24, 2025.**
+
+Important note: Many flights from Iceland to Europe leave early in the morning, so attendees may need to arrange accommodation in Reykjavík for the night of May 25-26.
+
 
 
 We look forward to welcoming you to Iceland!
