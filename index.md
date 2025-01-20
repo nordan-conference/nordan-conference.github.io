@@ -3,7 +3,7 @@ layout: home
 ---
 
 
-## **Nordan 2025: 26th Annual Nordic Conference on Complex Analysis** <br>
+## **Nordic Complex Analysis Meeting** <br>
 *May 23–25, 2025 | Hotel Stracta, Hella, Iceland*
 
 We are pleased to announce the 26th iteration of Nordan, the annual Nordic conference on complex analysis, which will be held in Iceland in 2025. The event will take place from May 23–25 at Hotel Stracta, located in Hella on the south coast of Iceland. In conjunction with Nordan, there will be a KAUS meeting for graduate students May 22-23. See more about KAUS [here](https://nordan-conference.github.io/kaus/). 
