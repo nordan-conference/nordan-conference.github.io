@@ -29,7 +29,7 @@ We look forward to welcoming you to Iceland!
 
 Organizers: 
 - Benedikt Steinar Magnússon, University of Iceland
-- Álfheiður Edda Sigurðardóttir, IMFM, Ljubljana
+- Álfheiður Edda Sigurðardóttir, IMFM Ljubljana
 - Bergur Snorrason, University of Iceland
 
 
