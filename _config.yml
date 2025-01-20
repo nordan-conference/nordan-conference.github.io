@@ -1,5 +1,4 @@
 title: NORDAN 2025
-tagline: bergur
 email: bsm@hi.is
 preposition: at
 description: >-
@@ -34,9 +33,6 @@ collections:
   rooms:
     output: true
     permalink: /:collection/:title/
-  previous-editions-kaus:
-    output: true
-    permalink: /kaus/previous-editions/:title/
 
 defaults:
   - scope:
