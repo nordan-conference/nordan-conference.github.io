@@ -26,6 +26,8 @@ Part of the 27th Nordic Congress of Mathematics
 
 Organized by the University of Iceland.
 
+[Titles and abstracts](/1997-2019/nordan2015.pdf)
+
 ## 2014	Luminy, France
 
 Held at CIRM
@@ -37,6 +39,10 @@ Organized by the University of Oslo.
 ## 2012	Kiruna, Sweden
 
 Organized by the Mid Sweden University and Umeå University.
+
+[Program (including abstracts and participants)](/1997-2019/nordan2012.pdf)
+
+[Website](http://apachepersonal.miun.se/~stebor/nadron/index.html)
 
 ## 2011	Röstånga, Sweden 
 
