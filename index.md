@@ -10,13 +10,13 @@ We are pleased to announce the 26th iteration of Nordan, the annual Nordic confe
 
 Conference Schedule:
 
-- **Friday, May 23:**
+- Friday, May 23:
 Participants will gather at the University of Iceland in Reykjavík. A bus will depart for Hotel Stracta at approximately 18:00, with an expected travel time of 1.5 hours. Upon arrival at the hotel, attendees will enjoy a welcome dinner.
 
-- **Saturday, May 24:**
+- Saturday, May 24:
 The day will feature three talks before lunch, followed by two talks after lunch.
 
-- **Sunday, May 25:**
+- Sunday, May 25:
 The final day will include three talks before lunch, with the return bus to Reykjavík departing after the last session. The bus will arrive in Reykjavík by 18:00.
 
 The registration deadline is **March 24, 2025.**
