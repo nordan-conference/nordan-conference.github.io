@@ -3,9 +3,6 @@ tagline: bergur
 email: bsm@hi.is
 preposition: at
 description: >-
-  **Nordan 2025: 26th Annual Nordic Conference on Complex Analysis** <br>
-  *May 23–25, 2025 | Hotel Stracta, Hella, Iceland*
-  # Nordic Complex Analysis Meeting
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nordan-conference.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
