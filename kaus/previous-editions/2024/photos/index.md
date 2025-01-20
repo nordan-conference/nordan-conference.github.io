@@ -82,33 +82,11 @@ Olof Rubin, during his talk.
 Aron Persson, during his talk.
 
 <img
-    src="rahim-talking.jpg"
-    alt="Rahim during his talk"
-    width="100%"
-/> \\
-Rahim Nkunzimana during his talk.
-
-<img
     src="rahim-done-talking.jpg"
     alt="Rahim after his talk"
     width="100%"
 /> \\
-Rahim Nkunzimana after his talk.
-
-<img
-    src="hike.jpg"
-    alt="Selfie taken during a group hike"
-    width="100%"
-/> \\
-Left to right:
-  Álfheiður,
-  Rahim,
-  Tyson Ritter (not a KAUS 2024 participant),
-  Andreas,
-  Ludvig,
-  Aleksandra,
-  Celine,
-  Suprokash.
+Rahim Nkunzimana during his talk.
 
 <img
     src="crowd.jpg"
