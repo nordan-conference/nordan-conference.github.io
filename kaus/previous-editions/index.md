@@ -2,7 +2,6 @@
 layout: default
 ---
 
-Here are some relics from previous editions of KAUS.
 
 ## 2024	Östanskär, Sweden
 [Program](2024/program) \\
