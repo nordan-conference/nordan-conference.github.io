@@ -2,7 +2,6 @@
 layout: home
 ---
 
-![Hekla](/assets/images/Hekla.png)
 
 **Nordan 2025: 26th Annual Nordic Conference on Complex Analysis** <br>
 *May 23–25, 2025 | Hotel Stracta, Hella, Iceland*
@@ -31,4 +30,5 @@ Organizers:
 - Álfheiður Edda Sigurðardóttir, IMFM, Ljubljana
 - Bergur Snorrason, University of Iceland
 
-![Takn_blatt](/assets/images/Takn_blatt_minnst.svg)
+
+![Hekla](/assets/images/Hekla.png)
