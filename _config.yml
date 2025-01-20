@@ -2,7 +2,6 @@ title: NORDAN 2025
 email: bsm@hi.is
 preposition: at
 description: >-
-  Nordic Complex Analysis Meeting
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nordan-conference.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -66,7 +65,7 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: Nordan
+#      name: Nordan
       #img: 'compass-icon.svg' # inside /assets/images/
       url: 'https://nordan-conference.github.io/'
     breakpoint: md
@@ -83,7 +82,7 @@ conference:
         relative_url: /kaus/
       - name: Registration
         relative_url: /registration/
-      - name: Previous Editions
+      - name: Previous Editions of Nordan
         menu:
           - name: 2025 (current)
             disabled: true
@@ -208,7 +207,7 @@ conference:
         - name: NORDAN
           relative_url: /
           activatable: false
-        - name: Previous Editions
+        - name: Previous Editions of KAUS
           relative_url: /kaus/previous-editions/
           activatable: true
 
