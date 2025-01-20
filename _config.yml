@@ -195,13 +195,13 @@ conference:
     title: KAUS 2025
     navigation:
       links:
-        - name: Program
+#        - name: Program
           relative_url: /kaus/program/
           activatable: true
-        - name: Speakers
+#        - name: Speakers
           relative_url: /kaus/speakers/
           activatable: true
-        - name: Location
+#        - name: Location
           relative_url: /kaus/location/
           activatable: true
         - name: NORDAN
