@@ -2,11 +2,29 @@
 layout: default
 ---
 
-<img
-    src="group-photo1.jpg"
-    alt="Group photo (with Mi Hu missing)"
-    width="100%"
-/> \\
+<div
+    style=
+    "
+        width:100%;
+        height:600px;
+        overflow:hidden;
+    "
+>
+    <div
+        style=
+        "
+            position:relative;
+            top:-100px;
+            left:-100px;
+        "
+    >
+        <img
+            src="group-photo1.jpg"
+            alt="Group photo (with Mi Hu missing)"
+            width="100%"
+        />
+    </div>
+</div> 
 From left to right:
   Beatriz,
   Álfheiður,
@@ -23,11 +41,28 @@ From left to right:
   Aron,
   Mar.
 
-<img
-    src="group-photo2.jpg"
-    alt="Group photo (with Celine missing)"
-    width="100%"
-/> \\
+<div
+    style=
+    "
+        width:100%;
+        height:600px;
+        overflow:hidden;
+    "
+>
+    <div
+        style=
+        "
+            position:relative;
+            top:-140px;
+        "
+    >
+        <img
+            src="group-photo2.jpg"
+            alt="Group photo (with Celine missing)"
+            width="100%"
+        />
+    </div>
+</div>
 From left to right:
   Celine,
   Aleksandra,
@@ -44,11 +79,28 @@ From left to right:
   Aron,
   Beatriz.
 
-<img
-    src="dinner-photo.jpg"
-    alt="Group photo during dinner"
-    width="100%"
-/> \\
+<div
+    style=
+    "
+        width:100%;
+        height:800px;
+        overflow:hidden;
+    "
+>
+    <div
+        style=
+        "
+            position:relative;
+            top:-500px;
+        "
+    >
+        <img
+            src="dinner-photo.jpg"
+            alt="Group photo during dinner"
+            width="100%"
+        /> 
+    </div>
+</div>
 Left, front to back:
   Celine,
   Beatriz,
