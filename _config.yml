@@ -191,6 +191,8 @@ conference:
     show_alltimes: true
 
   kaus:
+    logo:
+      img: 'kaus.svg'
     url: /kaus/
     title: KAUS 2025
     navigation:
