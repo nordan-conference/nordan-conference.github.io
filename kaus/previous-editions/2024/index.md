@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: kaus-default
 ---
 
 ## 2024	Östanskär, Sweden
