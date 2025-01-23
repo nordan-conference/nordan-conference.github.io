@@ -23,14 +23,23 @@ The registration deadline is **March 24, 2025.**
 
 Important note: Many flights from Iceland to Europe leave early in the morning, so attendees may need to arrange accommodation in Reykjavík for the night of May 25-26.
 
-
-
 We look forward to welcoming you to Iceland!
 
 Organizers: 
-- Benedikt Steinar Magnússon, University of Iceland
-- Álfheiður Edda Sigurðardóttir, IMFM, Ljubljana
-- Bergur Snorrason, University of Iceland
+<div class="row">
+    <div class="column" style="width:90%;">
+        <ul>
+            <li> Benedikt Steinar Magnússon, University of Iceland </li>
+            <li> Álfheiður Edda Sigurðardóttir, IMFM, Ljubljana </li>
+            <li> Bergur Snorrason, University of Iceland </li>
+        </ul>
+    </div>
+    <div class="column" style="width:6%;">
+        <div style="width:100%;">
+            <img src="/assets/images/Takn_blatt.svg" alt="Sigil of the Univeristy of Iceland">
+        </div>
+    </div>
+</div>
 
 
 ![Hekla](/assets/images/Hekla.png)
