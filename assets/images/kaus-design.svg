@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="900"
+   height="900"
+   viewBox="0 0 238.125 238.125"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="kaus-design.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.52279083"
+     inkscape:cx="589.14575"
+     inkscape:cy="564.27921"
+     inkscape:window-width="1916"
+     inkscape:window-height="1041"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="font-size:50.8px;line-height:0.65;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;text-anchor:middle;display:inline;fill:#10099f;fill-opacity:1;stroke-width:27.0027"
+       d="M 4.4166667e-5,0 H 26.458377 V 52.916667 L 130.57135,0 h 58.40359 L 47.802271,71.757646 100.00052,238.125 H 72.224106 L 26.458377,92.604167 V 238.125 H 4.4166667e-5 Z"
+       id="text2"
+       aria-label="K"
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:label="K" />
+    <path
+       id="rect3"
+       style="stroke-width:5.95311;fill:#10099f;fill-opacity:1"
+       d="m 119.0625,105.83333 h 26.45833 v 105.83334 h 66.14584 V 105.83333 L 119.0625,82.020833 V 52.916667 L 223.05963,0 238.125,0.24067482 V 22.024446 L 158.16792,62.70193 v 2.028647 L 238.125,85.285792 V 105.83333 238.125 H 119.0625 Z"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:label="S" />
+    <path
+       style="font-size:50.8px;line-height:0.65;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;text-anchor:middle;display:none;fill:#cf3a3a;fill-opacity:1;stroke-width:27.0027"
+       d="M 192.5089,-31.476286 204.49757,-7.8899292 142.27686,23.736041 121.94531,34.070289 -7.7796298,100.00778 -19.768271,76.421428 Z"
+       id="text2-1"
+       aria-label="K"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="Stika" />
+    <path
+       id="rect4"
+       style="fill:#1aa718;fill-opacity:1;stroke-width:4.99999"
+       d="m 13.229167,79.375 v 158.75 H 26.458333 V 171.97917 H 51.421667 L 72.224015,238.125 H 86.112573 L 34.082157,79.375 Z M 26.458333,92.604167 47.261198,158.75 H 26.458333 Z"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:label="a" />
+    <path
+       id="rect5"
+       style="fill:#1aa718;fill-opacity:1;stroke-width:4.99999"
+       d="m 132.29167,105.83333 h 13.22916 v 105.83334 h 66.14584 V 105.83333 h 13.22916 v 119.0625 h -92.60416 z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:label="u" />
+  </g>
+</svg>
