@@ -26,7 +26,7 @@ Part of the 27th Nordic Congress of Mathematics.
 
 Organized by the University of Iceland.\\
 [Titles and abstracts](2015-nordan-titles-and-abstracts.pdf)\\
-[Scheduel](2015-nordan-schedule.pdf)\\
+[Schedule](2015-nordan-schedule.pdf)\\
 [Workshop program](2015-nordan-workshops-program.pdf)\\
 [Information](2015-nordan-information.pdf)
 
