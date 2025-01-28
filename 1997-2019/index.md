@@ -20,29 +20,32 @@ Organized by the Chalmers University of Technology and University of Gothenburg.
 
 ## 2016	Stockholm, Sweden
 
-Part of the 27th Nordic Congress of Mathematics
+Part of the 27th Nordic Congress of Mathematics.
 
 ## 2015	Reykjavík, Iceland
 
-Organized by the University of Iceland.
-
-[Titles and abstracts](/1997-2019/nordan2015.pdf)
+Organized by the University of Iceland.\\
+[Titles and abstracts](2015-nordan-titles-and-abstrcts.pdf)\\
+[Scheduel](2015-nordan-scheduel.pdf)\\
+[Workshop program](2015-nordan-workshops-program.pdf)\\
+[Information](2015-nordan-information.pdf)
 
 ## 2014	Luminy, France
 
-Held at CIRM
+Held at CIRM.\\
+[Program](2014-nordan-program.pdf)
 
 ## 2013	Svolvær, Norway
 
-Organized by the University of Oslo.
+Organized by the University of Oslo.\\
+[Program](2013-nordan-program.pdf)
 
 ## 2012	Kiruna, Sweden
 
-Organized by the Mid Sweden University and Umeå University.
-
-[Program (including abstracts and participants)](/1997-2019/nordan2012.pdf)
-
+Organized by the Mid Sweden University and Umeå University.\\
+[Program](2012-nordan-program.pdf)\\
 [Website](http://apachepersonal.miun.se/~stebor/nadron/index.html)
+
 
 ## 2011	Röstånga, Sweden 
 
@@ -50,7 +53,7 @@ Organized by the Lund University.
 
 ## 2010	Lökeberg, Sweden 
 
-Organized by the Chalmers University of Technology and University of Gothenburg
+Organized by the Chalmers University of Technology and University of Gothenburg.
 
 ## 2009	 Reykholt, Iceland
 
@@ -98,7 +101,7 @@ Organized by the Stockholm University.
 
 ## 1998	Marstrand, Sweden
 
-Organized by the Chalmers University of Technology and University of Gothenburg
+Organized by the Chalmers University of Technology and University of Gothenburg.
 
 ## 1997	Trosa, Sweden
 
