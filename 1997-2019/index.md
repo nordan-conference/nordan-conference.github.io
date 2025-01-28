@@ -25,8 +25,8 @@ Part of the 27th Nordic Congress of Mathematics.
 ## 2015	Reykjavík, Iceland
 
 Organized by the University of Iceland.\\
-[Titles and abstracts](2015-nordan-titles-and-abstrcts.pdf)\\
-[Scheduel](2015-nordan-scheduel.pdf)\\
+[Titles and abstracts](2015-nordan-titles-and-abstracts.pdf)\\
+[Scheduel](2015-nordan-schedule.pdf)\\
 [Workshop program](2015-nordan-workshops-program.pdf)\\
 [Information](2015-nordan-information.pdf)
 
@@ -45,6 +45,7 @@ Organized by the University of Oslo.\\
 Organized by the Mid Sweden University and Umeå University.\\
 [Program](2012-nordan-program.pdf)\\
 [Website](http://apachepersonal.miun.se/~stebor/nadron/index.html)
+\[[Archive](https://web.archive.org/web/20250120101224/http://apachepersonal.miun.se/~stebor/nadron/index.html)\]
 
 
 ## 2011	Röstånga, Sweden 
