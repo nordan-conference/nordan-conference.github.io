@@ -134,7 +134,7 @@ Olof Rubin, during his talk.
 Aron Persson, during his talk.
 
 <img
-    src="rahim-done-talking.jpg"
+    src="rahim-talking.jpg"
     alt="Rahim after his talk"
     width="100%"
 /> \\
