@@ -20,7 +20,9 @@ Organized by the Chalmers University of Technology and University of Gothenburg.
 
 ## 2016	Stockholm, Sweden
 
-Part of the 27th Nordic Congress of Mathematics.
+Part of the 27th Nordic Congress of Mathematics.\\
+[Abstracts](2016-nordan-program.pdf)\\
+[Schedule](2016-nordan-schedule.pdf)\\
 
 ## 2015	Reykjavík, Iceland
 
@@ -51,7 +53,7 @@ Organized by the Mid Sweden University and Umeå University.\\
 ## 2011	Röstånga, Sweden 
 
 Organized by the Lund University.\\
-[Program](2011-program.pdf)\\
+[Program](2011-nordan-program.pdf)\\
 
 ## 2010	Lökeberg, Sweden 
 
@@ -60,14 +62,14 @@ Organized by the Chalmers University of Technology and University of Gothenburg.
 ## 2009	 Reykholt, Iceland
 
 Organized by the University of Iceland.\\
-[Program](2009-program.pdf)\\
+[Program](2009-nordan-program.pdf)\\
 
 
 ## 2008	Mariehamn, Åland
 
 Organized by the Stockholm University and was part of a program at the Mittag-Leffler Institute.\\
-[Program](2008-program.pdf)\\
-[Booklet](2008-booklet)\\
+[Program](2008-nordan-program.pdf)\\
+[Booklet](2008-nordan-booklet.pdf)\\
 
 ## 2007	Drøbak, Norway
 
@@ -76,57 +78,57 @@ Organized by the University of Oslo.
 ## 2006	Sundsvall, Sweden 
 
 Organized by the Mid Sweden University and Umeå University.\\
-[Booklet](2006-booklet)\\
+[Booklet](2006-nordan-booklet.pdf)\\
 
 ## 2005	Sigtuna, Sweden
 
 Organized by the Uppsala University.\\
-[Program](2005-program.pdf)\\
-[Booklet](2005-booklet)\\
+[Program](2005-nordan-program.pdf)\\
+[Booklet](2005-nordan-booklet.pdf)\\
 
 ## 2004	Nösund, Orust, Sweden
 
 Organized by the  Chalmers University of Technology and University of Gothenburg.\\
-[Program](2004-program.pdf)\\
-[Booklet](2004-booklet)\\
+[Program](2004-nordan-program.pdf)\\
+[Booklet](2004-nordan-booklet.pdf)\\
 
 ## 2003	Visby, Sweden 
 
 Organized by the Stockholm University.\\
-[Booklet](2003-booklet)\\
+[Booklet](2003-nordan-booklet.pdf)\\
 
 ## 2002	Reykjavík, Iceland
 
 Organized by the University of Iceland.\\
-[Booklet](2002-booklet)\\
+[Booklet](2002-nordan-booklet.pdf)\\
 
 ## 2001	Voksenåsen, Norway
 
 Organized by the University of Oslo.\\
-[Program](2001-program.pdf)\\
-[Booklet](2001-booklet)\\
+[Program](2001-nordan-program.pdf)\\
+[Booklet](2001-nordan-booklet.pdf)\\
 
 ## 2000	Örnköldsvik, Sweden
 
 Organized by the Mid Sweden University and Umeå University.\\
 [Program](2000-program.pdf)\\
-[Booklet](2000-booklet)\\
+[Booklet](2000-nordan-booklet.pdf)\\
 
 ## 1999	Saltsjöbaden, Sweden
 
 Organized by the Stockholm University.\\
-[Program](1999-program.pdf)\\
-[Booklet](1999-booklet)\\
+[Program](1999-nordan-program.pdf)\\
+[Booklet](1999-nordan-booklet.pdf)\\
 
 ## 1998	Marstrand, Sweden
 
 Organized by the Chalmers University of Technology and University of Gothenburg.\\
-[Program](1998-program.pdf)\\
-[Booklet](1998-booklet)\\
+[Program](1998-nordan-program.pdf)\\
+[Booklet](1998-nordan-booklet.pdf)\\
 
 ## 1997	Trosa, Sweden
 
 Organized by the Stockholm University.\\
-[Announcement](1997-announcement.pdf)\\
-[Program](1997-program.pdf)\\
-[Booklet](1997-booklet)\\
+[Announcement](1997-nordan-announcement.pdf)\\
+[Program](1997-nordan-program.pdf)\\
+[Booklet](1997-nordan-booklet.pdf)\\
