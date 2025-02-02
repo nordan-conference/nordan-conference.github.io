@@ -50,7 +50,8 @@ Organized by the Mid Sweden University and Umeå University.\\
 
 ## 2011	Röstånga, Sweden 
 
-Organized by the Lund University.
+Organized by the Lund University.\\
+[Program](2011-program.pdf)\\
 
 ## 2010	Lökeberg, Sweden 
 
@@ -58,11 +59,15 @@ Organized by the Chalmers University of Technology and University of Gothenburg.
 
 ## 2009	 Reykholt, Iceland
 
-Organized by the University of Iceland.
+Organized by the University of Iceland.\\
+[Program](2009-program.pdf)\\
+
 
 ## 2008	Mariehamn, Åland
 
-Organized by the Stockholm University and was part of a program at the Mittag-Leffler Institute.
+Organized by the Stockholm University and was part of a program at the Mittag-Leffler Institute.\\
+[Program](2008-program.pdf)\\
+[Booklet](2008-booklet)\\
 
 ## 2007	Drøbak, Norway
 
@@ -70,40 +75,58 @@ Organized by the University of Oslo.
 
 ## 2006	Sundsvall, Sweden 
 
-Organized by the Mid Sweden University and Umeå University.
+Organized by the Mid Sweden University and Umeå University.\\
+[Booklet](2006-booklet)\\
 
 ## 2005	Sigtuna, Sweden
 
-Organized by the Uppsala University.
+Organized by the Uppsala University.\\
+[Program](2005-program.pdf)\\
+[Booklet](2005-booklet)\\
 
 ## 2004	Nösund, Orust, Sweden
 
-Organized by the  Chalmers University of Technology and University of Gothenburg.
+Organized by the  Chalmers University of Technology and University of Gothenburg.\\
+[Program](2004-program.pdf)\\
+[Booklet](2004-booklet)\\
 
 ## 2003	Visby, Sweden 
 
-Organized by the Stockholm University.
+Organized by the Stockholm University.\\
+[Booklet](2003-booklet)\\
 
 ## 2002	Reykjavík, Iceland
 
-Organized by the University of Iceland.
+Organized by the University of Iceland.\\
+[Booklet](2002-booklet)\\
 
 ## 2001	Voksenåsen, Norway
 
-Organized by the University of Oslo.
+Organized by the University of Oslo.\\
+[Program](2001-program.pdf)\\
+[Booklet](2001-booklet)\\
 
 ## 2000	Örnköldsvik, Sweden
 
-Organized by the Mid Sweden University and Umeå University.
+Organized by the Mid Sweden University and Umeå University.\\
+[Program](2000-program.pdf)\\
+[Booklet](2000-booklet)\\
 
 ## 1999	Saltsjöbaden, Sweden
 
-Organized by the Stockholm University.
+Organized by the Stockholm University.\\
+[Program](1999-program.pdf)\\
+[Booklet](1999-booklet)\\
 
 ## 1998	Marstrand, Sweden
 
-Organized by the Chalmers University of Technology and University of Gothenburg.
+Organized by the Chalmers University of Technology and University of Gothenburg.\\
+[Program](1998-program.pdf)\\
+[Booklet](1998-booklet)\\
 
 ## 1997	Trosa, Sweden
 
-Organized by the Stockholm University.
+Organized by the Stockholm University.\\
+[Announcement](1997-announcement.pdf)\\
+[Program](1997-program.pdf)\\
+[Booklet](1997-booklet)\\
