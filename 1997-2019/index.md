@@ -12,7 +12,9 @@ Organized by the University of Amsterdam.
 
 ## 2018	Hjelmeland, Norway
 
-Organized by the University of Stavanger.
+Organized by the University of Stavanger.\\
+[Schedule and abstracts](2018-nordan-titles-abstracts.pdf)\\
+[Website](https://sites.google.com/view/nordan-2018/home)
 
 ## 2017	Tollered, Sweden
 
@@ -72,6 +74,7 @@ Organized by the Stockholm University and was part of a program at the Mittag-Le
 [Booklet](2008-nordan-booklet.pdf)
 
 ## 2007	Drøbak, Norway
+[Schedule](2007-nordan-schedule.pdf)
 
 Organized by the University of Oslo.
 
