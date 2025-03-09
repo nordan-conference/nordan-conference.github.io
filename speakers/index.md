@@ -19,7 +19,7 @@ Titles and abstracts will be provided at a later date.
    
  - [Jouni Rättyä](rattya)
 
- - [Sibel Şahin](rattya)
+ - [Sibel Şahin](sahin)
 
 
 
