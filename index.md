@@ -32,6 +32,7 @@ Organizers:
             <li> Benedikt Steinar Magnússon, University of Iceland </li>
             <li> Álfheiður Edda Sigurðardóttir, IMFM, Ljubljana </li>
             <li> Bergur Snorrason, University of Iceland </li>
+            <li> Gianmarco Brocchi, University of Iceland</li>
         </ul>
     </div>
     <div class="column" style="width:6%;">
