@@ -74,9 +74,9 @@ Organized by the Stockholm University and was part of a program at the Mittag-Le
 [Booklet](2008-nordan-booklet.pdf)
 
 ## 2007	Drøbak, Norway
+Organized by the University of Oslo.
 [Schedule](2007-nordan-schedule.pdf)
 
-Organized by the University of Oslo.
 
 ## 2006	Sundsvall, Sweden 
 
