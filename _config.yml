@@ -5,7 +5,7 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nordan-conference.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
-##theme: jekyll-theme-conference
+#theme: jekyll-theme-conference
 remote_theme: "nordan-conference/jekyll-theme-conference"
 # Build settings
 markdown: kramdown
@@ -22,33 +22,7 @@ exclude:
   - purgecss.config.js
 
 # Collections and their defaults
-collections:
-  talks:
-    output: true
-    permalink: /:collection/:title/
-  speakers:
-    output: true
-    permalink: /:collection/:title/
-  rooms:
-    output: true
-    permalink: /:collection/:title/
-
-defaults:
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-  - scope:
-      path: ""
-      type: speakers
-    values:
-      layout: speaker
-  - scope:
-      path: ""
-      type: rooms
-    values:
-      layout: room
+# who needs them
 
 
 conference:
@@ -70,12 +44,8 @@ conference:
       url: 'https://nordan-conference.github.io/'
     breakpoint: md
     links:
-#      - name: Program
-#        relative_url: /program/
-#      - name: Talks
-#        relative_url: /talks/
-      - name: Speakers
-        relative_url: /speakers/
+      - name: Program
+        relative_url: /program/
       - name: Location
         relative_url: /location/
       - name: KAUS
