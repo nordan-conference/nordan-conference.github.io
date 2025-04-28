@@ -1,4 +1,5 @@
 ---
+layout: speaker
 name: Gianmarco Brocchi
 first_name: Gianmarco
 last_name: Brocchi

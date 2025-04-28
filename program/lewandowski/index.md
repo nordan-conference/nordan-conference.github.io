@@ -1,4 +1,5 @@
 ---
+layout: speaker
 name: Arkadiusz Lewandowski 
 first_name: Arkadiusz 
 last_name: Lewandowski

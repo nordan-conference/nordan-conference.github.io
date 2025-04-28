@@ -1,4 +1,5 @@
 ---
+layout: speaker
 name: Tyson Ritter
 first_name: Tyson
 last_name: Ritter

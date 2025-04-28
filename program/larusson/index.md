@@ -1,4 +1,5 @@
 ---
+layout: speaker
 name: Finnur Lárusson
 first_name: Finnur
 last_name: Lárusson

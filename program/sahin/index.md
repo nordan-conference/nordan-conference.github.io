@@ -1,4 +1,5 @@
 ---
+layout: speaker
 name: Sibel Şahin
 first_name: Sibel
 last_name: Şahin

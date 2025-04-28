@@ -1,4 +1,5 @@
 ---
+layout: speaker
 name: Jouni Rättyä
 first_name: Jouni
 last_name: Rättyä

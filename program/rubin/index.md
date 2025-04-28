@@ -1,4 +1,5 @@
 ---
+layout: speaker
 name: Olof Rubin
 first_name: Olof
 last_name: Rubin

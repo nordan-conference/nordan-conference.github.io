@@ -1,4 +1,5 @@
 ---
+layout: speaker
 name: Mats Andersson
 first_name: Mats
 last_name: Andersson

@@ -1,4 +1,5 @@
 ---
+layout: speaker
 name: Daniel Barlet
 first_name: Daniel
 last_name: Barlet
