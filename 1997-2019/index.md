@@ -24,7 +24,7 @@ Organized by the Chalmers University of Technology and University of Gothenburg.
 
 Part of the 27th Nordic Congress of Mathematics.\\
 [Abstracts](2016-nordan-abstracts.pdf)\\
-[Schedule](2016-nordan-schedule.pdf)\\
+[Schedule](2016-nordan-schedule.pdf)
 
 ## 2015	Reykjavík, Iceland
 
