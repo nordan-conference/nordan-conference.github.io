@@ -3,9 +3,9 @@ layout: speaker
 name: Gianmarco Brocchi
 first_name: Gianmarco
 last_name: Brocchi
-links:
-  - name: Homepage
-    absolute_url: https://poisson.phc.dm.unipi.it/~brocchi/
+title: TBA
+abstract: TBA
 ---
 
-Assistant Professor of mathematics at the University of Iceland. 
+Assistant Professor of mathematics at
+<a href="https://poisson.phc.dm.unipi.it/~brocchi/">the University of Iceland</a>.

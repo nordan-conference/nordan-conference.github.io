@@ -3,9 +3,10 @@ layout: speaker
 name: Mats Andersson
 first_name: Mats
 last_name: Andersson
-links:
-  - name: Homepage
-    absolute_url: https://www.chalmers.se/en/persons/matsa/
+title: TBA
+abstract: TBA
 ---
 
-Professor of Mathematics at Chalmers University of Technology. 
+Professor of Mathematics at
+<a href="https://www.chalmers.se/en/persons/matsa/">Chalmers University of Technology</a>.
+
