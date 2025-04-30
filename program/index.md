@@ -35,7 +35,7 @@ Titles and abstracts will be provided at a later date.
         <th style="font-weight: inherit"> 10:20 </th>
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 11:10 </th>
-        <th style="padding: 0px 0px 0px 10px"><a href="barlet">Danial Barlet</a></th>
+        <th style="padding: 0px 0px 0px 10px"><a href="barlet">Daniel Barlet</a></th>
     </tr>
     <tr>
         <th style="font-weight: inherit"> 11:10 </th>
