@@ -4,7 +4,7 @@ layout: default
 Titles and abstracts will be provided at a later date.
 # Program
 <H4>
-    <th> Friday: </th>
+    Friday:
 </H4>
 <table>
     <tr>
@@ -16,7 +16,7 @@ Titles and abstracts will be provided at a later date.
 </table>
 
 <H4>
-    <th> Saturday: </th>
+    Saturday:
 </H4>
 <table>
     <tr>
@@ -64,7 +64,7 @@ Titles and abstracts will be provided at a later date.
 </table>
 
 <H4>
-Sunday
+Sunday:
 </H4>
 <table>
     <tr>
