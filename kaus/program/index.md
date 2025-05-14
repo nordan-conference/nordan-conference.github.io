@@ -8,12 +8,6 @@ Titles and abstracts will be provided at a later date.
 </H4>
 <table>
     <tr>
-        <th style="font-weight: inherit"> 16:00 </th>
-        <th style="font-weight: inherit"> - </th>
-        <th style="font-weight: inherit"> 16:25 </th>
-        <th style="padding: 0px 0px 0px 10px">Tryggvi Kalman Jónsson</th>
-    </tr>
-    <tr>
         <th style="font-weight: inherit"> 16:30 </th>
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 16:55 </th>
