@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-Titles and abstracts will be provided at a later date.
 # Program
 <H4>
     Friday:
