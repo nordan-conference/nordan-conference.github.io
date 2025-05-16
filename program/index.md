@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-Titles and abstracts will be provided at a later date.
 # Program
 <H4>
     Friday:
@@ -59,7 +58,13 @@ Titles and abstracts will be provided at a later date.
         <th style="font-weight: inherit"> 15:00 </th>
         <th style="font-weight: inherit"> </th>
         <th style="font-weight: inherit"> </th>
-        <th style="font-weight: inherit; padding: 0px 0px 0px 10px"><i> Activity </i></th>
+        <th style="font-weight: inherit; padding: 0px 0px 0px 10px"><i> Excursion </i></th>
+    </tr>
+    <tr>
+        <th style="font-weight: inherit"> </th>
+        <th style="font-weight: inherit"> </th>
+        <th style="font-weight: inherit"> </th>
+        <th style="font-weight: inherit; padding: 0px 0px 0px 10px"><i> Info </i></th>
     </tr>
 </table>
 
