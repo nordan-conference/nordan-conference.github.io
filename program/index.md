@@ -64,7 +64,7 @@ layout: default
         <th style="font-weight: inherit"> </th>
         <th style="font-weight: inherit"> </th>
         <th style="font-weight: inherit"> </th>
-        <th style="font-weight: inherit; padding: 0px 0px 0px 10px"><i> Info </i></th>
+        <th style="font-weight: inherit; padding: 0px 0px 0px 10px"><i> If weather allows, we will make a trip to Þórsmörk ridge with the option of a hike to Valahnúkur. On the way back we stop at Seljalandsfoss waterfall. We recommend bringing a waterproof layer.  </i></th>
     </tr>
 </table>
 
