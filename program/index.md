@@ -64,9 +64,10 @@ layout: default
         <th style="font-weight: inherit"> </th>
         <th style="font-weight: inherit"> </th>
         <th style="font-weight: inherit"> </th>
-        <th style="font-weight: inherit; padding: 0px 0px 0px 10px"><i> Info </i></th>
+        <th style="font-weight: inherit; padding: 0px 0px 0px 10px"><i>   </i></th>
     </tr>
 </table>
+Excursion: If weather allows, we will make a trip to Þórsmörk ridge. From there it is optional to hike Valahnúkur, a 4,2km hike with 266m of elevation and a panoramic view of the area. Those who do not wish to hike can enjoy the area at their leasure. We recommend bringing a waterproof layer.
 
 <H4>
 Sunday:

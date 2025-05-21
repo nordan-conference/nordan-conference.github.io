@@ -4,7 +4,11 @@ name: Mats Andersson
 first_name: Mats
 last_name: Andersson
 title: Singular metrics on holomorphic vector bundles
-abstract: Let $E\to X$ be a holomorphic vector bundle over a complex manifold $X$. I will discuss how one can define Chern form, Segre form and curvature tensor, associated with a class of singular metrics on $E$. I will also present some recent results in joint works in progress with Kalm, Lärkäng, and Sera.  
+abstract: Let $E\to X$ be a holomorphic vector bundle over a complex
+            manifold $X$. I will discuss how one can define Chern form,
+            Segre form and curvature tensor, associated with a class of
+            singular metrics on $E$. I will also present some recent results
+            in joint works in progress with Kalm, Lärkäng, and Sera.  
 ---
 
 Professor of Mathematics at
