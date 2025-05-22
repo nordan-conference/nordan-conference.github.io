@@ -48,7 +48,7 @@ To see titles and abstracts, click the speakers' names.
         <th></th><th></th><th></th>
         <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <i>
-                Title: TBA
+                Holomorphic matrices - an argument principle
             </i>
         </th>
     </tr>
@@ -56,7 +56,16 @@ To see titles and abstracts, click the speakers' names.
         <th></th><th></th><th></th>
         <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
         <p style="width: 50%">
-            Abstract: TBA
+            Suppose f is a matrix of holomorphic functions in several
+            variables. If f is surjective outside the origin, one can define
+            the Buchsbaum-Rim multiplicity of f, generalising the order of
+            vanishing of a single variable function. We show that we get a
+            representation of the Buchsbaum-Rim multiplicity as a product of
+            a smooth form and a residue current. This can be seen as an
+            argument principle for holomorpic matrices, and it generalises a
+            result of Andersson, where row matrices were considered, as well
+            as a previous result of the speaker, where direct sums of row
+            matrices were considered. 
         </p>
         </th>
     </tr>
@@ -224,14 +233,6 @@ To see titles and abstracts, click the speakers' names.
         <th><button style="padding: 0px 0px 0px 10px; border-width: 0px 0px 0px 0px" class="btn default">
             <b>Ludvig Svensson</b>
         </button></th>
-    </tr>
-    <tr class="collapse svensson">
-        <th></th><th></th><th></th>
-        <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-            <i>
-                Title
-            </i>
-        </th>
     </tr>
     <tr class="collapse svensson">
         <th></th><th></th><th></th>
