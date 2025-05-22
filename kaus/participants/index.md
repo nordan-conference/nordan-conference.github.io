@@ -9,6 +9,7 @@ Atte Pennanen\
 Benjamin Marim de Moura\
 Beno Učakar\
 Bergur Snorrason\
+Eggert Karl Hafsteinsson\
 Fani Xerakia\
 Gaofeng Huang\
 João Fontinha\
@@ -16,6 +17,8 @@ Johannes Testorf\
 Ludvig Svensson\
 Mar Saiz Aparicio\
 Michał Kudra\
+Mårten Nilsson\
+Olof Rubin\
 Rahim Nkunzimana\
 Rolf Andreasson\
 Setareh Eskandari\
