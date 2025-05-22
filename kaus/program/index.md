@@ -11,7 +11,11 @@ To see titles and abstracts, click the speakers' names.
         <th style="font-weight: inherit"> 16:30 </th>
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 16:55 </th>
-        <th><button style="padding: 0px 0px 0px 10px; border-width: 0px 0px 0px 0px" class="btn default"><b>Suprokash Hazra</b></button></th>
+        <th><button style="padding: 0px 0px 0px 10px; border-width: 0px 0px 0px 0px" class="btn default">
+            <b>
+                Suprokash Hazra
+            </b
+        ></button></th>
     </tr>
     <tr class="collapse hazra">
         <th></th><th></th><th></th>
@@ -24,7 +28,7 @@ To see titles and abstracts, click the speakers' names.
     <tr class="collapse hazra">
         <th></th><th></th><th></th>
         <th style="font-weight: inherit; padding: 0px 0px 0px 10px">
-        <p style="width: 50%">
+        <p>
             We consider the notion of envelope of holomorphy of a domain
             in $\mathbb{C}^n$ and discuss the schlichtness of it by reviewing
             some known results. Next by addressing two motivating
@@ -42,7 +46,11 @@ To see titles and abstracts, click the speakers' names.
         <th style="font-weight: inherit"> 17:00 </th>
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 17:25 </th>
-        <th><button style="padding: 0px 0px 0px 10px; border-width: 0px 0px 0px 0px" class="btn default"><b>Rahim Nkunzimana</b></button></th>
+        <th><button style="padding: 0px 0px 0px 10px; border-width: 0px 0px 0px 0px" class="btn default">
+            <b>
+                Rahim Nkunzimana
+            </b
+        ></button></th>
     </tr>
     <tr class="collapse nkunzimana">
         <th></th><th></th><th></th>
@@ -55,7 +63,7 @@ To see titles and abstracts, click the speakers' names.
     <tr class="collapse nkunzimana">
         <th></th><th></th><th></th>
         <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-        <p style="width: 50%">
+        <p>
             Suppose $f$ is a matrix of holomorphic functions in several
             variables. If $f$ is surjective outside the origin, one can define
             the Buchsbaum-Rim multiplicity of $f$, generalising the order of
@@ -75,7 +83,11 @@ To see titles and abstracts, click the speakers' names.
         <th style="font-weight: inherit"> 17:30 </th>
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 17:55 </th>
-        <th><button style="padding: 0px 0px 0px 10px; border-width: 0px 0px 0px 0px" class="btn default"><b>Benjamin Marim de Moura</b></button></th>
+        <th><button style="padding: 0px 0px 0px 10px; border-width: 0px 0px 0px 0px" class="btn default">
+            <b>
+                Benjamin Marim de Moura
+            </b
+        ></button></th>
     </tr>
     <tr class="collapse moura">
         <th></th><th></th><th></th>
@@ -88,7 +100,7 @@ To see titles and abstracts, click the speakers' names.
     <tr class="collapse moura">
         <th></th><th></th><th></th>
         <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-        <p style="width: 50%">
+        <p>
             We present results describing the degeneration process of the
             boundary of the Milnor fiber of a holomorphic function $f$ into
             the link of the analytic set defined by the critical values of
@@ -107,7 +119,7 @@ To see titles and abstracts, click the speakers' names.
     <tr class="collapse activites">
         <th></th><th></th><th></th>
         <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-        <p style="width: 50%">
+        <p>
             TBA
         </p>
         </th>
@@ -121,7 +133,11 @@ To see titles and abstracts, click the speakers' names.
         <th style="font-weight: inherit"> 10:00 </th>
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 10:25 </th>
-        <th><button style="padding: 0px 0px 0px 10px; border-width: 0px 0px 0px 0px" class="btn default"><b>Gaofeng Huang</b></button></th>
+        <th><button style="padding: 0px 0px 0px 10px; border-width: 0px 0px 0px 0px" class="btn default">
+            <b>
+                Gaofeng Huang
+            </b
+        ></button></th>
     </tr>
     <tr class="collapse huang">
         <th></th><th></th><th></th>
@@ -134,7 +150,7 @@ To see titles and abstracts, click the speakers' names.
     <tr class="collapse huang">
         <th></th><th></th><th></th>
         <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-        <p style="width: 50%">
+        <p>
             In this talk, we survey a few results in the study of large
             holomorphic automorphism groups. First we give an historical
             account of the so-called Andersen-Lempert theory, the core of
@@ -148,7 +164,7 @@ To see titles and abstracts, click the speakers' names.
             Kutzschebauch has substantially enlarged the classes of
             examples. We will also encounter two recent developments, one is
             a generalization of this criterion, and the other is a
-            specification of this criterion to smooth affine SL2-varieties.
+            specification of this criterion to smooth affine $SL_2$-varieties.
         </p>
         </th>
     </tr>
@@ -157,7 +173,9 @@ To see titles and abstracts, click the speakers' names.
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 10:55 </th>
         <th><button style="padding: 0px 0px 0px 10px; border-width: 0px 0px 0px 0px" class="btn default">
-            <b>Fani Xerakia</b>
+            <b>
+                Fani Xerakia
+            </b>
         </button></th>
     </tr>
     <tr class="collapse xerakia">
@@ -171,7 +189,7 @@ To see titles and abstracts, click the speakers' names.
     <tr class="collapse xerakia">
         <th></th><th></th><th></th>
         <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-        <p style="width: 50%">
+        <p>
             The Diederich-Fornæss worm domain, constructed as the first
             smoothly bounded pseudoconvex domain without a Stein
             neighbourhood basis, is a key counterexample in Several
@@ -189,7 +207,9 @@ To see titles and abstracts, click the speakers' names.
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 11:25 </th>
         <th><button style="padding: 0px 0px 0px 10px; border-width: 0px 0px 0px 0px" class="btn default">
-            <b>Ai My Aleksandra Le</b>
+            <b>
+                Ai My Aleksandra Le
+            </b>
         </button></th>
     </tr>
     <tr class="collapse le">
@@ -203,7 +223,7 @@ To see titles and abstracts, click the speakers' names.
     <tr class="collapse le">
         <th></th><th></th><th></th>
         <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-        <p style="width: 50%">
+        <p>
             In this talk I will introduce a new numerical algorithm solving
             the Dirichlet problem for real Monge-Ampere equation. The
             algorithm is based on Bellman's principle which enables to
@@ -231,13 +251,23 @@ To see titles and abstracts, click the speakers' names.
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 12:55 </th>
         <th><button style="padding: 0px 0px 0px 10px; border-width: 0px 0px 0px 0px" class="btn default">
-            <b>Ludvig Svensson</b>
+            <b>
+                Ludvig Svensson
+            </b>
         </button></th>
     </tr>
     <tr class="collapse svensson">
         <th></th><th></th><th></th>
         <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-        <p style="width: 50%">
+            <i>
+                Critical inverse temperatures as solutions to discrete optimization problems
+            </i>
+        </th>
+    </tr>
+    <tr class="collapse svensson">
+        <th></th><th></th><th></th>
+        <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+        <p>
             Consider a system of $N$ point particles at positions
             $p_1, \dots, p_N$ on the $2$-dimensional sphere $\mathbb{S}^2$
             that interact according to the <i>Coulomb potential</i>
@@ -265,7 +295,9 @@ To see titles and abstracts, click the speakers' names.
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 13:25 </th>
         <th><button style="padding: 0px 0px 0px 10px; border-width: 0px 0px 0px 0px" class="btn default">
-            <b>Rolf Andreasson</b>
+            <b>
+                Rolf Andreasson
+            </b>
         </button></th>
     </tr>
     <tr class="collapse andreasson">
@@ -279,7 +311,7 @@ To see titles and abstracts, click the speakers' names.
     <tr class="collapse andreasson">
         <th></th><th></th><th></th>
         <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-        <p style="width: 50%">
+        <p>
             I will describe a work in progress together with Ludvig
             Svensson. We study the two component plasma in two dimensions, a
             well-studied model in mathematical physics describing positive
@@ -301,7 +333,9 @@ To see titles and abstracts, click the speakers' names.
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 13:55 </th>
         <th><button style="padding: 0px 0px 0px 10px; border-width: 0px 0px 0px 0px" class="btn default">
-            <b>Johannes Testorf</b>
+            <b>
+                Johannes Testorf
+            </b>
         </button></th>
     </tr>
     <tr class="collapse testorf">
@@ -315,7 +349,7 @@ To see titles and abstracts, click the speakers' names.
     <tr class="collapse testorf">
         <th></th><th></th><th></th>
         <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-        <p style="width: 50%">
+        <p>
             I will discuss an Ohsawa takegoshi $L^2$ extension result which
             associates an estimate to a $\mathbb C^*$ degeneration of a
             Kähler manifold. In particular, I will focus on the estimates
@@ -339,7 +373,9 @@ To see titles and abstracts, click the speakers' names.
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 14:55 </th>
         <th><button style="padding: 0px 0px 0px 10px; border-width: 0px 0px 0px 0px" class="btn default">
-            <b>Setareh Eskandari</b>
+            <b>
+                Setareh Eskandari
+            </b>
         </button></th>
     </tr>
     <tr class="collapse eskandari">
@@ -353,12 +389,12 @@ To see titles and abstracts, click the speakers' names.
     <tr class="collapse eskandari">
         <th></th><th></th><th></th>
         <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-        <p style="width: 50%">
+        <p>
             This talk explores the boundedness of bilinear Hankel forms and
             Hankel operators within weighted Bergman spaces, where the
             weights satisfy an upper-doubling condition. We will also
             discuss the connection of these operators to Hankel measures.
-            Our goal is to characterize p-Hankel measures for $p \leq 2$,
+            Our goal is to characterize $p$-Hankel measures for $p \leq 2$,
             using duality and factorization techniques from weighted Bergman
             spaces, along with recent results on two-weight fractional
             derivatives.
@@ -372,7 +408,9 @@ To see titles and abstracts, click the speakers' names.
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 15:25 </th>
         <th><button style="padding: 0px 0px 0px 10px; border-width: 0px 0px 0px 0px" class="btn default">
-            <b>Beno Učakar</b>
+            <b>
+                Beno Učakar
+            </b>
         </button></th>
     </tr>
     <tr class="collapse ucakar">
@@ -386,7 +424,7 @@ To see titles and abstracts, click the speakers' names.
     <tr class="collapse ucakar">
         <th></th><th></th><th></th>
         <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-        <p style="width: 50%">
+        <p>
             The classical Carleman approximation theorem states that any
             complex-valued continuous function on the real line can be
             approximated by an entire holomorphic function, such that their
@@ -408,7 +446,9 @@ To see titles and abstracts, click the speakers' names.
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 15:55 </th>
         <th><button style="padding: 0px 0px 0px 10px; border-width: 0px 0px 0px 0px" class="btn default">
-            <b>Atte Pennanen</b>
+            <b>
+                Atte Pennanen
+            </b>
         </button></th>
     </tr>
     <tr class="collapse pennanen">
@@ -422,7 +462,7 @@ To see titles and abstracts, click the speakers' names.
     <tr class="collapse pennanen">
         <th></th><th></th><th></th>
         <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-        <p style="width: 50%">
+        <p>
             In this talk, we consider generalized weighted Bergman-Zygmund
             spaces induced by doubling weights and generalized
             Lebesgue-Zygmund spaces induced by positive Borel measures. We
