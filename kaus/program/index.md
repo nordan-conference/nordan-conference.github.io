@@ -48,7 +48,7 @@ To see titles and abstracts, click the speakers' names.
         <th></th><th></th><th></th>
         <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <i>
-                Holomorphic matrices - an argument principle
+                Holomorphic matrices &mdash; an argument principle
             </i>
         </th>
     </tr>
@@ -56,9 +56,9 @@ To see titles and abstracts, click the speakers' names.
         <th></th><th></th><th></th>
         <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
         <p style="width: 50%">
-            Suppose f is a matrix of holomorphic functions in several
-            variables. If f is surjective outside the origin, one can define
-            the Buchsbaum-Rim multiplicity of f, generalising the order of
+            Suppose $f$ is a matrix of holomorphic functions in several
+            variables. If $f$ is surjective outside the origin, one can define
+            the Buchsbaum-Rim multiplicity of $f$, generalising the order of
             vanishing of a single variable function. We show that we get a
             representation of the Buchsbaum-Rim multiplicity as a product of
             a smooth form and a residue current. This can be seen as an
