@@ -46,7 +46,7 @@ conference:
       url: 'https://nordan-conference.github.io/'
     breakpoint: md
     links:
-      - name: Program
+      - name: Booklets and Program
         relative_url: /program/
       - name: Location
         relative_url: /location/
