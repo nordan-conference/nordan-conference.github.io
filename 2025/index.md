@@ -22,5 +22,6 @@ The organizers of Nordan 2025 were:
   [Booklet for KAUS 2025](/2025/2025-kaus-booklet.pdf)
 
 
-![Valahnukur](/2025/Valahnukur.JPG)
 ![Stracta](/2025/Stracta.JPG)
+![Valahnukur](/2025/Valahnukur.JPG)
+
