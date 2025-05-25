@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+# Booklets
+- [Booklet for Nordan 2025](/2025/2025-nordan-booklet.pdf) 
+- [Booklet for KAUS 2025](/2025/2025-kaus-booklet.pdf) 
+
 # Program
 <H4>
     Friday:
