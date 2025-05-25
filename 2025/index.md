@@ -23,5 +23,5 @@ The organizers of Nordan 2025 were:
 
 
 ![Stracta](/2025/Stracta.JPG)
-![Valahnukur](/2025/IMG_5419.JPG)
-
+![Valahnukur1](/2025/IMG_5419.JPG)
+![Valahnukur2](/2025/IMG_0457.JPG)
