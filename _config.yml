@@ -56,8 +56,10 @@ conference:
         relative_url: /registration/
       - name: Previous Editions of Nordan
         menu:
-          - name: 2025 (current)
+          - name: (current)
             disabled: true
+          - name: 2025
+            relative_url: /2025/
           - name: 2024
             relative_url: /2024/
           - name: 2023
