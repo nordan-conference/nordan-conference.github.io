@@ -4,7 +4,7 @@ layout: default
 
 # University of Iceland
 
-The 26th Nordan conference was held May 23rd to 25th at the Hotel Stracta in Hella, Iceland. 
+The 26th Nordan conference was held May 23rd to 25th at Hotel Stracta in Hella, Iceland. 
 The excursion was a trip to Þórsmörk with a hike to Valahnúkur and a stop at Seljalandsfoss on the way back.
 
 KAUS 2025 took place May 22nd and 23rd and was held at the University of Iceland in Reykjavík. 
