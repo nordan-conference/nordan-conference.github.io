@@ -11,6 +11,7 @@ karmdown:
   math_engine: mathjax
 sass:
   sass_dir: ./_sass/bootstrap
+  sass_dir: ./_sass
   style: compressed
 
 # Additional exclude from processing
