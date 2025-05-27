@@ -7,6 +7,8 @@ url: "https://nordan-conference.github.io" # the base hostname & protocol for yo
 
 # Build settings
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
 sass:
   style: compressed
 
