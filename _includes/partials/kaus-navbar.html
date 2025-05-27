@@ -1,0 +1,37 @@
+<nav class="navbar navbar-expand-{{ site.conference.navigation.breakpoint | default: 'md' }} navbar-light bg-light mb-3">
+  <div class="container">
+
+    <a class="navbar-brand" href="{{ site.conference.kaus.url }}/">{{ site.conference.kaus.title }}</a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        {%- for link in site.conference.kaus.navigation.links -%}
+          <li class="nav-item {% if link.activatable and (page.url contains link.relative_url) %}active{% endif %}">
+            {%- assign link_styleclass = "nav-link" -%}
+            {%- include partials/get_link.html -%}
+            {{ link_tag }}
+              {{ link.name }}
+            </a>
+          </li>
+        {%- endfor %}
+      </ul>
+    </div>
+
+    {%- if site.conference.kaus.navigation.logo %}
+      <div class="navbar-brand navbar-logo mr-0 ml-1 text-right overflow-hidden">
+        <a href="{{ site.conference.kaus.navigation.logo.url }}">
+          {%- if site.conference.kaus.navigation.logo.img %}
+            <img src="{{ site.conference.kaus.navigation.logo.img | prepend: '/assets/images/' | prepend: site.baseurl }}" class="align-middle" alt="{{ site.conference.kaus.navigation.logo.name }}" />
+          {%- else %}
+            {{ site.conference.kaus.navigation.logo.name }}
+          {%- endif %}
+        </a>
+      </div>
+    {%- endif %}
+
+  </div>
+</nav>
