@@ -10,8 +10,6 @@ markdown: kramdown
 karmdown:
   math_engine: mathjax
 sass:
-  load_paths:
-    - ./_sass
   style: compressed
 
 # Additional exclude from processing
