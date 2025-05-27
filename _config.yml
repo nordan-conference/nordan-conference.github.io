@@ -11,7 +11,6 @@ karmdown:
   math_engine: mathjax
 sass:
   load_paths:
-    - ./_sass/bootstrap
     - ./_sass
   style: compressed
 
