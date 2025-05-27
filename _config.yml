@@ -10,7 +10,7 @@ markdown: kramdown
 karmdown:
   math_engine: mathjax
 sass:
-  sass_dir: ./_sass
+  sass_dir: ./_sass/bootstrap
   style: compressed
 
 # Additional exclude from processing
