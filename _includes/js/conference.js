@@ -27,22 +27,6 @@ window.conference = {
     }
 };
 
-
-// Program
-{% include js/lib/syncscroll.js %}
-{% include js/program.js %}
-
-// Leaflet (Map Display)
-{% include partials/get_enable_map.html %}
-{% if enable_map %}
-    {%- include js/lib/leaflet.js %}
-    {%- include js/lib/leaflet-easybutton.js %}
-    {%- include js/lib/leaflet-locatecontrol.js %}
-    {%- include js/lib/leaflet-providers.js %}
-
-    {%- include js/map.js %}
-{% endif %}
-
 // Modals ("Popups")
 {% include js/modal.js %}
 

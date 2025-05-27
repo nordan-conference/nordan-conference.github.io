@@ -2,7 +2,16 @@
 <html lang="{{ site.conference.lang | default: 'en' }}">
 
 <head>
-  {% include partials/kaus-custom.html -%}
+  <link rel="icon" type="image/svg+xml" href="/assets/images/kaus-icon.svg" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        processEscapes: true
+      }
+    });
+  </script>
 
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -16,21 +25,6 @@
 
   <link rel="preload" as="font" href="{{ site.baseurl }}/assets/webfonts/fa-regular-400.woff2" type="font/woff2" crossorigin="anonymous" />
   <link rel="preload" as="font" href="{{ site.baseurl }}/assets/webfonts/fa-solid-900.woff2" type="font/woff2" crossorigin="anonymous" />
-  {%- if site.conference.live %}
-  <link rel="prefetch" as="image" href="{{ site.baseurl }}/assets/icons/live.svg" type="image/svg+xml" crossorigin="anonymous" />
-  <link rel="prefetch" as="fetch" href="{{ site.baseurl }}/assets/js/data.json" type="application/json" crossorigin="anonymous" />
-  {%- endif %}
-
-  {%- if site.conference.live.streaming.enable %}
-    {%- for room in site.rooms %}
-      {%- if room.live %}
-        {%- include partials/get_room_live_href.html %}
-        {%- if room_live_href %}
-  <link rel="preconnect" href="{{ room_live_href }}" />
-        {%- endif %}
-      {%- endif %}
-    {%- endfor %}
-  {%- endif %}
 </head>
 
 <body class="pb-4">
@@ -50,4 +44,3 @@
   </header>
   <main class="container">
 
-    {%- include partials/info_bar.html -%}
