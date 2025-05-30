@@ -4,3 +4,33 @@
 $fa-font-path: '{{ site.baseurl }}/assets/webfonts';
 
 @import 'conference';
+
+div#program input
+{
+  display: none;
+}
+
+
+div#program tr:has(input) + tr
+{
+  display: none;
+}
+div#program tr:has(input:checked) + tr
+{
+  display: table-row;
+}
+
+div#program tr:has(input)
+{
+  display: none;
+}
+div#program tr:has(input:checked)
+{
+  display: table-row;
+}
+
+
+div#program label
+{
+  margin: 1px 0px 1px 10px;
+}
