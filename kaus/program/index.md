@@ -13,13 +13,14 @@ To see titles and abstracts, click the speakers' names.
             <th style="font-weight: inherit"> - </th>
             <th style="font-weight: inherit"> 16:55 </th>
             <th>
+                <input type="checkbox" id="hazra">
                 <label for="hazra">
                     Suprokash Hazra
                 </label>
             </th>
         </tr>
         <tr>
-            <th><input type="checkbox" id="hazra"></th><th></th><th></th>
+            <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
                 <i>
                     Schlichtness of the envelope for truncated tube domains in higher complex dimension
@@ -48,13 +49,14 @@ To see titles and abstracts, click the speakers' names.
             <th style="font-weight: inherit"> - </th>
             <th style="font-weight: inherit"> 17:25 </th>
             <th>
+                <input type="checkbox" id="nkunzimana">
                 <label for="nkunzimana">
                     Rahim Nkunzimana
                 </label>
             </th>
         </tr>
         <tr>
-            <th><input type="checkbox" id="nkunzimana"></th><th></th><th></th>
+            <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
                 <i>
                     Holomorphic matrices &mdash; an argument principle
@@ -85,13 +87,14 @@ To see titles and abstracts, click the speakers' names.
             <th style="font-weight: inherit"> - </th>
             <th style="font-weight: inherit"> 17:55 </th>
             <th>
+                <input type="checkbox" id="moura">
                 <label for="moura">
                     Benjamin Marim de Moura
                 </label>
             </th>
         </tr>
         <tr>
-            <th><input type="checkbox" id="moura"></th><th></th><th></th>
+            <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
                 <i>
                     On the boundary of the Milnor fiber
@@ -127,13 +130,14 @@ To see titles and abstracts, click the speakers' names.
             <th style="font-weight: inherit"> - </th>
             <th style="font-weight: inherit"> 10:25 </th>
             <th>
+                <input type="checkbox" id="huang">
                 <label for="huang">
                     Gaofeng Huang
                 </label>
             </th>
         </tr>
         <tr>
-            <th><input type="checkbox" id="huang"></th><th></th><th></th>
+            <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
                 <i>
                     Large holomorphic automorphism groups
@@ -166,13 +170,14 @@ To see titles and abstracts, click the speakers' names.
             <th style="font-weight: inherit"> - </th>
             <th style="font-weight: inherit"> 10:55 </th>
             <th>
+                <input type="checkbox" id="xerakia">
                 <label for="xerakia">
                     Fani Xerakia
                 </label>
             </th>
         </tr>
         <tr>
-            <th><input type="checkbox" id="xerakia"></th><th></th><th></th>
+            <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
                 <i>
                     Automorphisms of the Worm Domain
@@ -200,13 +205,14 @@ To see titles and abstracts, click the speakers' names.
             <th style="font-weight: inherit"> - </th>
             <th style="font-weight: inherit"> 11:25 </th>
             <th>
+                <input type="checkbox" id="le">
                 <label for="le">
                     Ai My Aleksandra Le
                 </label>
             </th>
         </tr>
         <tr>
-            <th><input type="checkbox" id="le"></th><th></th><th></th>
+            <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
                 <i>
                     Fast Bellman algorithm for real Monge-Ampere equation
@@ -244,13 +250,14 @@ To see titles and abstracts, click the speakers' names.
             <th style="font-weight: inherit"> - </th>
             <th style="font-weight: inherit"> 12:55 </th>
             <th>
+                <input type="checkbox" id="svensson">
                 <label for="svensson">
                     Ludvig Svensson
                 </label>
             </th>
         </tr>
         <tr>
-            <th><input type="checkbox" id="svensson"></th><th></th><th></th>
+            <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
                 <i>
                     Critical inverse temperatures as solutions to discrete optimization problems
@@ -288,13 +295,14 @@ To see titles and abstracts, click the speakers' names.
             <th style="font-weight: inherit"> - </th>
             <th style="font-weight: inherit"> 13:25 </th>
             <th>
+                <input type="checkbox" id="andreasson">
                 <label for="andreasson">
                     Rolf Andreasson
                 </label>
             </th>
         </tr>
         <tr>
-            <th><input type="checkbox" id="andreasson"></th><th></th><th></th>
+            <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
                 <i>
                     Multipole phenomena for the two-component plasma
@@ -326,13 +334,14 @@ To see titles and abstracts, click the speakers' names.
             <th style="font-weight: inherit"> - </th>
             <th style="font-weight: inherit"> 13:55 </th>
             <th>
+                <input type="checkbox" id="testorf">
                 <label for="testorf">
                     Johannes Testorf
                 </label>
             </th>
         </tr>
         <tr>
-            <th><input type="checkbox" id="testorf"></th><th></th><th></th>
+            <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
                 <i>
                     Ohsawa Takegoshi and geodesics in the space of Kähler metrics
@@ -366,13 +375,14 @@ To see titles and abstracts, click the speakers' names.
             <th style="font-weight: inherit"> - </th>
             <th style="font-weight: inherit"> 14:55 </th>
             <th>
+                <input type="checkbox" id="eskandari">
                 <label for="eskandari">
                     Setareh Eskandari
                 </label>
             </th>
         </tr>
         <tr>
-            <th><input type="checkbox" id="eskandari"></th><th></th><th></th>
+            <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
                 <i>
                     Hankel forms and operators induced by measures
@@ -401,13 +411,14 @@ To see titles and abstracts, click the speakers' names.
             <th style="font-weight: inherit"> - </th>
             <th style="font-weight: inherit"> 15:25 </th>
             <th>
+                <input type="checkbox" id="ucakar">
                 <label for="ucakar">
                     Beno Učakar
                 </label>
             </th>
         </tr>
         <tr>
-            <th><input type="checkbox" id="ucakar"></th><th></th><th></th>
+            <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
                 <i>
                     Carleman approximation without critical points
@@ -439,13 +450,14 @@ To see titles and abstracts, click the speakers' names.
             <th style="font-weight: inherit"> - </th>
             <th style="font-weight: inherit"> 15:55 </th>
             <th>
+                <input type="checkbox" id="pennanen">
                 <label for="pennanen">
                     Atte Pennanen
                 </label>
             </th>
         </tr>
         <tr>
-            <th><input type="checkbox" id="pennanen"></th><th></th><th></th>
+            <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
                 <i>
                     Carleson measures for Bergman-Zygmund spaces induced by doubling weights

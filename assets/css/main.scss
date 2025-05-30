@@ -11,6 +11,7 @@ div#program input
 }
 
 
+
 div#program tr:has(input) + tr
 {
   display: none;
@@ -20,17 +21,26 @@ div#program tr:has(input:checked) + tr
   display: table-row;
 }
 
-div#program tr:has(input)
+div#program tr:has(input) + tr + tr
 {
   display: none;
 }
-div#program tr:has(input:checked)
+div#program tr:has(input:checked) + tr + tr
 {
   display: table-row;
 }
 
 
+
 div#program label
 {
   margin: 1px 0px 1px 10px;
+}
+div#program label::before
+{
+  content: "▷";
+}
+div#program input:checked + label::before
+{
+  content: "▽";
 }
