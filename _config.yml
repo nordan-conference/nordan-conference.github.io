@@ -5,11 +5,9 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nordan-conference.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
-#theme: jekyll-theme-conference
-remote_theme: "nordan-conference/jekyll-theme-conference"
 # Build settings
 markdown: kramdown
-karmdown:
+kramdown:
   math_engine: mathjax
 sass:
   style: compressed
@@ -46,6 +44,8 @@ conference:
       url: 'https://nordan-conference.github.io/'
     breakpoint: md
     links:
+      - name: Photos
+        relative_url: /photos/
       - name: Booklets and Program
         relative_url: /program/
       - name: Location
@@ -140,19 +140,7 @@ conference:
     # URL of location / room overview page
     url: '/location'
     # Main page title shown on location/room navigation bar
-    navbar_title: 'Location'
-    # Show map on location main page.  Set `map: false` if you don't want to
-    # display it.
     map: false
-      ## Initial map center point
-      #home_coord: 47.37808, 8.53935
-      ## Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
-      ## The following do match the Bootstrap design not too badly:
-      ##   - Thunderforest.Neighbourhood
-      ##   - Esri.WorldTopoMap
-      #map_provider: "OpenStreetMap.Mapnik"
-      #default_zoom: 17
-
 
   program:
     # URL of program page

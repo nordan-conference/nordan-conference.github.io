@@ -1,0 +1,25 @@
+{%- assign speaker = page -%}
+
+{%- include partials/header.html -%}
+
+<h1 class="font-weight-light mb-3 text-break">
+  {{ speaker.first_name }} {{ speaker.last_name }}
+</h1>
+
+{{ content }}
+
+<h5 class="mt-4 mb-0">Title: {{ speaker.title }}</h5>
+<h5 class="mt-4 mb-0">Abstract:</h5>
+{% for par in page.abstract %}
+    <p>
+        {{ par }}
+    </p>
+{% endfor %}
+
+<p class="d-print-none mt-5">
+<a href="/program" class="btn btn-light">
+<i class="fas fa-users"></i>&nbsp;Program
+</a>
+</p>
+
+{%- include partials/footer.html -%}
