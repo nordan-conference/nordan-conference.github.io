@@ -18,8 +18,9 @@ The organizers of Nordan 2025 were:
 - Gianmarco Brocchi, University of Iceland
 
 
-  [Website](/2025-nordan)\
+  [Website for Nordan 2025](/2025-nordan)\
   [Booklet for Nordan 2025](/2025/2025-nordan-booklet.pdf)\
+  [Website for KAUS 2025](/2025-nordan/kaus)\
   [Booklet for KAUS 2025](/2025/2025-kaus-booklet.pdf)
 
 
