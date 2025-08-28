@@ -55,7 +55,7 @@ conference:
       - name: Registration
         relative_url: /registration/
       - name: Previous Editions of Nordan
-          relative_url: /archives
+        relative_url: /archives
 
 
   # Link Preview for Sharing
