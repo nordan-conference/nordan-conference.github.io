@@ -4,7 +4,7 @@ layout: default
 
 The most convenient way to reach Joensuu is by plane. On May 22, there is a flight from Helsinki to Joensuu by Finnair at 16:05, landing at 17:10. At the arrival, there is a public bus transportation from the Joensuu airport to the city center (bus stop: Koskikatu I) departing approximately 20 minutes after the actual landing. The bus waits for delayed flights at most 45 minutes. The bus ticket can be bought on the bus by cash or card. The airport bus takes about 15 minutes.
 
-On the way back, the bus from the city of Joensuu (bus stop: Koskikatu L) to the Joensuu airport leaves 65 minutes before the scheduled departure time of the flight. One may either take the flight on Sunday evening at 17:30, or in the Monday morning at 05:30.
+On the way back, the bus from the city of Joensuu (bus stop: Koskikatu L) to the Joensuu airport leaves 65 minutes before the scheduled departure time of the flight. One may either take the flight on Sunday evening at 17:30, or in the Monday morning at 05:30. From the Sunday flight one may reach, for example Oslo by 19:45 and Stockholm by 20:25, by Finnair.
 
 
 ## University of Eastern Finland, Metria building
