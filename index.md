@@ -12,14 +12,18 @@ We are pleased to announce the 27th iteration of Nordan, the annual Nordic confe
 
 Conference Schedule:
 
-- Friday, May 22:
-Participants will gather at the city center of Joensuu, where attendees will enjoy a welcome dinner.
+- Friday, May 22: The conference begins with a welcome dinner in the city center of Joensuu, offering participants a chance to meet and connect in a relaxed setting.
 
-- Saturday, May 23:
-The day will feature four talks before excursion to Koli national park.
+<!--
+Participants will gather at the city center of Joensuu, where attendees will enjoy a welcome dinner. -->
+
+- Saturday, May 23: The day will feature four engaging talks, followed by an afternoon excursion to the scenic Koli National Park (see the picture below).
+
+<!--
+The day will feature four talks before excursion to Koli national park. -->
 
 - Sunday, May 24:
-The final day will include five talks. The conference ends at 15:30.
+The final day will include five talks. The conference will conclude at 15:30.
 
 The registration deadline is **March 23, 2026.**
 
