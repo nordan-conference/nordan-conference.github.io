@@ -1,5 +1,5 @@
-title: Nordan 2025
-email: bsm@hi.is
+title: Nordan 2026
+email: janne.grohn@uef.fi
 preposition: at
 description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -146,7 +146,7 @@ conference:
     logo:
       img: 'kaus.svg'
     url: /kaus
-    title: KAUS 2025
+    title: KAUS 2026
     navigation:
       links:
         - name: Program
