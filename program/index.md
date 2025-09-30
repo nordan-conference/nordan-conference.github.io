@@ -31,13 +31,13 @@ Booklets for the Nordan and KAUS 2026 are to be announced later.
         <th style="font-weight: inherit"> 09:00 </th>
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 09:10 </th>
-        <th style="padding: 0px 0px 0px 10px"><a href="larusson">Welcome words</a></th>
+        <th style="padding: 0px 0px 0px 10px">Welcome words</th>
     </tr>
      <tr>
         <th style="font-weight: inherit"> 9:10 </th>
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 9:50 </th>
-        <th style="padding: 0px 0px 0px 10px"><a href="barlet">Talk 1/a></th>
+        <th style="padding: 0px 0px 0px 10px">Talk 1</th>
     </tr>
     <tr>
         <th style="font-weight: inherit"> 09:50 </th>
@@ -49,13 +49,13 @@ Booklets for the Nordan and KAUS 2026 are to be announced later.
         <th style="font-weight: inherit"> 10:20 </th>
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 11:00 </th>
-        <th style="padding: 0px 0px 0px 10px"><a href="barlet">Talk 2</a></th>
+        <th style="padding: 0px 0px 0px 10px">Talk 2</th>
     </tr>
     <tr>
         <th style="font-weight: inherit"> 11:10 </th>
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 11:50 </th>
-        <th style="padding: 0px 0px 0px 10px"><a href="lewandowski">Talk 3</a></th>
+        <th style="padding: 0px 0px 0px 10px">Talk 3</th>
     </tr>
     <tr>
         <th style="font-weight: inherit"> 11:50 </th>
@@ -67,7 +67,7 @@ Booklets for the Nordan and KAUS 2026 are to be announced later.
         <th style="font-weight: inherit"> 14:00 </th>
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 14:40 </th>
-        <th style="padding: 0px 0px 0px 10px"><a href="andersson">Talk 4</a></th>
+        <th style="padding: 0px 0px 0px 10px">Talk 4</th>
     </tr>
     <tr>
         <th style="font-weight: inherit"> 15:00 </th>
