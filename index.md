@@ -17,7 +17,7 @@ Conference Schedule:
 <!--
 Participants will gather at the city center of Joensuu, where attendees will enjoy a welcome dinner. -->
 
-- Saturday, May 23: The day will feature four engaging talks, followed by an afternoon excursion to the scenic Koli National Park (see the picture below).
+- Saturday, May 23: The day will feature four talks, followed by an afternoon excursion to the scenic Koli National Park (see the picture below).
 
 <!--
 The day will feature four talks before excursion to Koli national park. -->
