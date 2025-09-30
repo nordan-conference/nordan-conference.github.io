@@ -4,35 +4,34 @@ layout: home
 
 
 ## **Nordic Complex Analysis Meeting** <br>
-*May 23–25, 2025 | Hotel Stracta, Hella, Iceland*
+*May 22–24, 2025 | Joensuu, Finland*
 
-We are pleased to announce the 26th iteration of Nordan, the annual Nordic conference on Complex Analysis. The conference will be held this year in Iceland and marks the retirement of Jón Magnússon and Ragnar Sigurðsson. The event will take place May 23–25 at Hotel Stracta, located in Hella on the south coast of Iceland. In conjunction with Nordan, there will be a KAUS meeting for graduate students May 22-23. See more about KAUS [here](https://nordan-conference.github.io/kaus/). 
+We are pleased to announce the 27th iteration of Nordan, the annual Nordic conference on complex analysis. The conference will be held this year in Finland, first time in the history of Nordan. The event will take place May 22–24 at the Joensuu campus of the University of Eastern Finland. In conjunction with Nordan, there will be a KAUS meeting for graduate students May 21-22. See more about KAUS [here](https://nordan-conference.github.io/kaus/). 
 
 Conference Schedule:
 
-- Friday, May 23:
-Participants will gather at the [Tæknigarður](https://maps.app.goo.gl/e6owLLxcQwnjdRjy6) building at the University of Iceland in Reykjavík. A bus will depart for Hotel Stracta at approximately 18:00, with an expected travel time of 1.5 hours. Upon arrival at the hotel, attendees will enjoy a welcome dinner.
+- Friday, May 22:
+Participants will gather at the city center of Joensuu, where attendees will enjoy a welcome dinner.
 
-- Saturday, May 24:
-The day will feature three talks before lunch, followed by one talk after lunch.
+- Saturday, May 23:
+The day will feature four talks before excursion to Koli national park.
 
-- Sunday, May 25:
-The final day will include three talks before lunch, followed by two talk after lunch, with the return bus to Reykjavík departing after the last session. The bus will arrive in Reykjavík by 18:00.
+- Sunday, May 24:
+The final day will include five talks. The conference ends at 15:30.
 
-The registration deadline is **March 24, 2025.**
+The registration deadline is **March 23, 2026.**
 
-Important note: Many flights from Iceland to Europe leave early in the morning, so attendees may need to arrange accommodation in Reykjavík for the night of May 25-26.
+Important note: The most convenient way to reach Joensuu is by plane. On May 22, there is a flight from Helsinki to Joensuu by Finnair at 16:05, landing at 17:30. On the way back, there are two natural options. One may either take the flight on Sunday evening at 17:30, or in the Monday morning at 5:30. For more information on traveling, see the Location subpage.
 
-We look forward to welcoming you to Iceland!
+We look forward to welcoming you to Finland!
 
 Organizers: 
 <div class="row">
     <div class="column" style="width:90%;">
         <ul>
-            <li> Benedikt Steinar Magnússon, University of Iceland </li>
-            <li> Álfheiður Edda Sigurðardóttir, IMFM, Ljubljana </li>
-            <li> Bergur Snorrason, University of Iceland </li>
-            <li> Gianmarco Brocchi, University of Iceland</li>
+            <li> Jouni Rättyä, University of Eastern Finland </li>
+            <li> Risto Korhonen, University of Eastern Finland </li>
+            <li> Janne Gröhn, University of Eastern Finland </li>
         </ul>
     </div>
     <div class="column" style="width:6%;">
