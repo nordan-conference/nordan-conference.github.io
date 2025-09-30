@@ -1,27 +1,5 @@
 ---
 layout: kaus-default
 ---
-Here is the list of participants at KAUS 2025:
+Here is the list of participants at KAUS 2026:
 
-Ai My Aleksandra Le \
-Atte Pennanen\
-Álfheiður Edda Sigurðardóttir\
-Benjamin Marim de Moura\
-Beno Učakar\
-Bergur Snorrason\
-Eggert Karl Hafsteinsson\
-Fani Xerakia\
-Gaofeng Huang\
-João Fontinha\
-Johannes Testorf\
-Ludvig Svensson\
-Mar Saiz Aparicio\
-Michał Kudra\
-Mårten Nilsson\
-Olof Rubin\
-Rahim Nkunzimana\
-Rolf Andreasson\
-Setareh Eskandari\
-Suprokash Hazra\
-Tryggvi Kalman Jónsson\
-Wills Ton Minh Nguyen
