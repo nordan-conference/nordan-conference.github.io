@@ -10,6 +10,7 @@ Joensuu Airport is small and easy to navigate—the bus departs directly from ou
 For return travel, the airport bus departs from Koskikatu L in Joensuu 65 minutes before each scheduled flight. There are two convenient flight options via Finnair:
 - Sunday, May 24, departing from Joensuu at 17:30. This flight allows connections to Oslo (arrival at 19:45) and Stockholm (arrival at 20:25).
 - Monday, May 25, departing from Joensuu at 05:30. This early flight connects to Stockholm (arrival at 07:15), as well as Oslo and Reykjavík (arrival at 07:50).
+
 For the latest schedules and booking details, please visit the [Finnair](https://www.finnair.com) website.
 
 <!-- 
