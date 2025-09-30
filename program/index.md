@@ -18,8 +18,6 @@ Booklets for the Nordan and KAUS 2026 are to be announced later.
         <th style="font-weight: inherit; padding: 0px 0px 0px 10px"><i> Welcome dinner </i></th>
     </tr>
 </table>
-
-<br>
 <H4>
     Saturday:
 </H4>
@@ -88,7 +86,6 @@ Booklets for the Nordan and KAUS 2026 are to be announced later.
 <!--
             Excursion: If weather allows, we will make a trip to Þórsmörk ridge. From there it is optional to hike Valahnúkur, a 4,2km hike with 266m of elevation and a panoramic view of the area. Those who do not wish to hike can enjoy the area at their leasure. We recommend bringing a waterproof layer.
 -->
-<br>
 <H4>
     Sunday:
 </H4>
