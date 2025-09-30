@@ -69,7 +69,7 @@ conference:
   # Main landing page
   main:
     logo:
-      img: 'full-logo.svg'
+      img: 'Nordan2026.jpg'
     links:
       #- name: Program
       #  relative_url: /program/
