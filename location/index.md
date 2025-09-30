@@ -2,7 +2,7 @@
 layout: default
 ---
 
-The first step is to reach Iceland and that is mostly done by plane. From KEF airport, we recommend you to take the Islandia bus to Reykjavík. The bus ends at BSÍ Bus terminal, which is very close to the University of Iceland, from where we'll take a coach to our destination in Hella.
+The most convenient way to reach Joensuu is by plane. On May 22, there is a flight from Helsinki to Joensuu by Finnair at 16:05, landing at 17:30. On the way back, there are two natural options. One may either take the flight on Sunday evening at 17:30, or in the Monday morning at 05:30.
 
 
 ## University of Iceland
