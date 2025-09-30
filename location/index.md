@@ -6,6 +6,8 @@ The most convenient way to reach Joensuu is by plane. On May 22, there is a flig
 
 On the way back, the bus from the city of Joensuu (bus stop: Koskikatu L) to the Joensuu airport leaves 65 minutes before the scheduled departure time of each flight. One may either take the flight on Sunday evening at 17:30, or in the Monday morning at 05:30. From the Sunday flight one may reach, for example Oslo by 19:45 and Stockholm by 20:25, by Finnair. From the Monday flight one gets to Stockholm by 07:15, and Oslo and Reykjavík by 07:50. For further information, see the [Finnair webpage](https://www.finnair.com).
 
+An alternative way to reach Joensuu is by train, which is cheaper but takes a little bit more time. For more information, see the [VR webpage](https://www.vr.fi/en).
+
 
 ## University of Eastern Finland, Metria building
 
