@@ -27,7 +27,9 @@ The final day will include five talks. The conference will conclude at 15:30.
 
 The registration deadline is **March 23, 2026.**
 
-Important note: The most convenient way to reach Joensuu is by plane. On May 22, there is a flight from Helsinki to Joensuu by Finnair at 16:05, landing at 17:30. On the way back, there are two natural options. One may either take the flight on Sunday evening at 17:30, or in the Monday morning at 05:30. For more information on traveling, see the Location subpage.
+Important note: The most convenient way to reach Joensuu is by air. On May 22, Finnair operates a direct flight from Helsinki to Joensuu, departing at 16:05 and arriving at 17:30. For the return journey, there are two natural options: (i) a Sunday evening flight departing Joensuu at 17:30; and (ii) a Monday morning flight departing at 05:30. For detailed travel guidance and additional options, please visit the Location subpage.
+
+<!-- The most convenient way to reach Joensuu is by plane. On May 22, there is a flight from Helsinki to Joensuu by Finnair at 16:05, landing at 17:30. On the way back, there are two natural options. One may either take the flight on Sunday evening at 17:30, or in the Monday morning at 05:30. For more information on traveling, see the Location subpage. -->
 
 We look forward to welcoming you to Finland!
 
