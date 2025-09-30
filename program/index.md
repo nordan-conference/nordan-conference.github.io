@@ -2,13 +2,9 @@
 layout: default
 ---
 # Booklets
-<p></p>
+<p>
 Booklets for the Nordan and KAUS 2026 are to be announced later.
 </p>
-<!--
-- [Booklet for Nordan 2025](/2025/2025-nordan-booklet.pdf) 
-- [Booklet for KAUS 2025](/2025/2025-kaus-booklet.pdf) 
--->
 
 # Program
 <H4>
