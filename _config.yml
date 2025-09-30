@@ -40,7 +40,7 @@ conference:
   navigation:
     logo:
 #      name: Nordan
-      #img: 'compass-icon.svg' # inside /assets/images/
+      #img: 'Nordan2026.jpg' # inside /assets/images/
       url: 'https://nordan-conference.github.io/'
     breakpoint: md
     links:
