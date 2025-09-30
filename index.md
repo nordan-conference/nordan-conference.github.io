@@ -34,12 +34,14 @@ Organizers:
             <li> Janne Gröhn, University of Eastern Finland </li>
         </ul>
     </div>
+    <!--
     <div class="column" style="width:6%;">
         <div style="width:100%;">
             <img src="/assets/images/Takn_blatt.svg" alt="Sigil of the Univeristy of Iceland">
         </div>
     </div>
+    -->
 </div>
 
 
-![Hekla](/assets/images/Hekla.png)
+![Koli](/assets/images/Koli.jpg)
