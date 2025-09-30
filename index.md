@@ -6,7 +6,7 @@ layout: home
 ## **Nordic Complex Analysis Meeting** <br>
 *May 22–24, 2026 | Joensuu, Finland*
 
-We are pleased to announce the 27th iteration of Nordan, the annual Nordic conference on complex analysis. The conference will be held this year in Finland, first time in the history of Nordan. The event will take place May 22–24 at the Joensuu campus of the University of Eastern Finland. In conjunction with Nordan, there will be a KAUS meeting for graduate students May 21-22. See more about KAUS [here](https://nordan-conference.github.io/kaus/). 
+We are pleased to announce the 27th iteration of Nordan, the annual Nordic conference on complex analysis. The conference will be held this year in Finland, first time in the history of Nordan. The event will take place May 22–24 at the Joensuu campus of the University of Eastern Finland. In conjunction with Nordan, there will be a KAUS meeting for graduate students on May 22, 2026. See more about KAUS [here](https://nordan-conference.github.io/kaus/). 
 
 Conference Schedule:
 
