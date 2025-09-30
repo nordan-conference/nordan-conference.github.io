@@ -9,112 +9,6 @@ To see titles and abstracts, click the speakers' names.
 <div id="program">
     <table>
         <tr>
-            <th style="font-weight: inherit"> 16:30 </th>
-            <th style="font-weight: inherit"> - </th>
-            <th style="font-weight: inherit"> 16:55 </th>
-            <th>
-                <input type="checkbox" id="hazra">
-                <label for="hazra">
-                    Suprokash Hazra
-                </label>
-            </th>
-        </tr>
-        <tr>
-            <th></th><th></th><th></th>
-            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-                <i>
-                    Schlichtness of the envelope for truncated tube domains in higher complex dimension
-                </i>
-            </th>
-        </tr> 
-        <tr>
-            <th></th><th></th><th></th>
-            <th style="font-weight: inherit; padding: 0px 0px 0px 10px">
-            <p>
-                We consider the notion of envelope of holomorphy of a domain
-                in $\mathbb{C}^n$ and discuss the schlichtness of it by reviewing
-                some known results. Next by addressing two motivating
-                questions for research we introduce the notion of good
-                barrier, augmenting function and compact fence. Then we
-                discuss a generalization of a theorem by Jarnicki-Pflug in
-                higher complex dimension for good domains. This includes the
-                schlichtness of the envelope for truncated tube domains in
-                higher complex dimension. Finally we state some open
-                questions in this direction.
-            </p>
-            </th>
-        </tr> 
-        <tr>
-            <th style="font-weight: inherit"> 17:00 </th>
-            <th style="font-weight: inherit"> - </th>
-            <th style="font-weight: inherit"> 17:25 </th>
-            <th>
-                <input type="checkbox" id="nkunzimana">
-                <label for="nkunzimana">
-                    Rahim Nkunzimana
-                </label>
-            </th>
-        </tr>
-        <tr>
-            <th></th><th></th><th></th>
-            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-                <i>
-                    Holomorphic matrices &mdash; an argument principle
-                </i>
-            </th>
-        </tr>
-        <tr>
-            <th></th><th></th><th></th>
-            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-            <p>
-                Suppose $f$ is a matrix of holomorphic functions in several
-                variables. If $f$ is surjective outside the origin, one can define
-                the Buchsbaum-Rim multiplicity of $f$, generalising the order of
-                vanishing of a single variable function. We show that we get a
-                representation of the Buchsbaum-Rim multiplicity as a product of
-                a smooth form and a residue current. This can be seen as an
-                argument principle for holomorpic matrices, and it generalises a
-                result of Andersson, where row matrices were considered, as well
-                as a previous result of the speaker, where direct sums of row
-                matrices were considered. 
-            </p>
-            </th>
-        </tr>
-        <tr>
-        </tr>
-        <tr>
-            <th style="font-weight: inherit"> 17:30 </th>
-            <th style="font-weight: inherit"> - </th>
-            <th style="font-weight: inherit"> 17:55 </th>
-            <th>
-                <input type="checkbox" id="moura">
-                <label for="moura">
-                    Benjamin Marim de Moura
-                </label>
-            </th>
-        </tr>
-        <tr>
-            <th></th><th></th><th></th>
-            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-                <i>
-                    On the boundary of the Milnor fiber
-                </i>
-            </th>
-        </tr>
-        <tr>
-            <th></th><th></th><th></th>
-            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-            <p>
-                We present results describing the degeneration process of the
-                boundary of the Milnor fiber of a holomorphic function $f$ into
-                the link of the analytic set defined by the critical values of
-                $f$. These results address both the case where $f$ has an
-                isolated singularity at the origin and the case where the origin
-                is a non-isolated singular point.
-            </p>
-            </th>
-        </tr>
-        <tr>
             <th style="font-weight: inherit"> 18:00 </th>
             <th style="font-weight: inherit"></th>
             <th style="font-weight: inherit"></th>
@@ -126,13 +20,13 @@ To see titles and abstracts, click the speakers' names.
     </H4>
     <table>
         <tr>
-            <th style="font-weight: inherit"> 10:00 </th>
+            <th style="font-weight: inherit"> 09:00 </th>
             <th style="font-weight: inherit"> - </th>
-            <th style="font-weight: inherit"> 10:25 </th>
+            <th style="font-weight: inherit"> 09:25 </th>
             <th>
-                <input type="checkbox" id="huang">
-                <label for="huang">
-                    Gaofeng Huang
+                <input type="checkbox" id="talk1">
+                <label for="talk1">
+                    Talk 1
                 </label>
             </th>
         </tr>
@@ -140,7 +34,7 @@ To see titles and abstracts, click the speakers' names.
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
                 <i>
-                    Large holomorphic automorphism groups
+                    Title
                 </i>
             </th>
         </tr>
@@ -148,31 +42,45 @@ To see titles and abstracts, click the speakers' names.
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                In this talk, we survey a few results in the study of large
-                holomorphic automorphism groups. First we give an historical
-                account of the so-called Andersen-Lempert theory, the core of
-                which is an approximation of local biholomorphic injections by
-                global holomorphic automorphisms, developed by Andersen-Lempert
-                and Forstneric-Rosay in the 90s. Such an approximation is
-                possible on Stein manifolds with the density property, a
-                property describing the abundance of globally integrable
-                holomorphic vector fields.  It thus is fundamental to identify
-                Stein manifolds with this property. A criterion by Kaliman and
-                Kutzschebauch has substantially enlarged the classes of
-                examples. We will also encounter two recent developments, one is
-                a generalization of this criterion, and the other is a
-                specification of this criterion to smooth affine $SL_2$-varieties.
+                Abstract
+            </p>
+            </th>
+        </tr>
+<tr>
+            <th style="font-weight: inherit"> 09:00 </th>
+            <th style="font-weight: inherit"> - </th>
+            <th style="font-weight: inherit"> 09:25 </th>
+            <th>
+                <input type="checkbox" id="talk2">
+                <label for="talk2">
+                    Talk 2
+                </label>
+            </th>
+        </tr>
+        <tr>
+            <th></th><th></th><th></th>
+            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+                <i>
+                    Title
+                </i>
+            </th>
+        </tr>
+        <tr>
+            <th></th><th></th><th></th>
+            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+            <p>
+                Abstract
             </p>
             </th>
         </tr>
         <tr>
-            <th style="font-weight: inherit"> 10:30 </th>
+            <th style="font-weight: inherit"> 09:00 </th>
             <th style="font-weight: inherit"> - </th>
-            <th style="font-weight: inherit"> 10:55 </th>
+            <th style="font-weight: inherit"> 09:25 </th>
             <th>
-                <input type="checkbox" id="xerakia">
-                <label for="xerakia">
-                    Fani Xerakia
+                <input type="checkbox" id="talk3">
+                <label for="talk3">
+                    Talk 3
                 </label>
             </th>
         </tr>
@@ -180,7 +88,7 @@ To see titles and abstracts, click the speakers' names.
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
                 <i>
-                    Automorphisms of the Worm Domain
+                    Title
                 </i>
             </th>
         </tr>
@@ -188,52 +96,7 @@ To see titles and abstracts, click the speakers' names.
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                The Diederich-Fornæss worm domain, constructed as the first
-                smoothly bounded pseudoconvex domain without a Stein
-                neighbourhood basis, is a key counterexample in Several
-                Complex Variables. In this talk, we examine its automorphism
-                group in both bounded and unbounded cases and demonstrate that
-                its boundary is locally spherical everywhere except at the
-                exceptional locus and the caps.
-            </p>
-            </th>
-        </tr>
-        <tr>
-        </tr>
-        <tr>
-            <th style="font-weight: inherit"> 11:00 </th>
-            <th style="font-weight: inherit"> - </th>
-            <th style="font-weight: inherit"> 11:25 </th>
-            <th>
-                <input type="checkbox" id="le">
-                <label for="le">
-                    Ai My Aleksandra Le
-                </label>
-            </th>
-        </tr>
-        <tr>
-            <th></th><th></th><th></th>
-            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-                <i>
-                    Fast Bellman algorithm for real Monge-Ampere equation
-                </i>
-            </th>
-        </tr>
-        <tr>
-            <th></th><th></th><th></th>
-            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-            <p>
-                In this talk I will introduce a new numerical algorithm solving
-                the Dirichlet problem for real Monge-Ampere equation. The
-                algorithm is based on Bellman's principle which enables to
-                solve our fully non-linear elliptic Monge-Ampere equation by
-                approximating it with a sequence of linear elliptic differential
-                equations. Further, I will discuss the strengths and weaknesses
-                of the method whilst demonstrating its performance on many
-                examples of various degrees of degeneracy as well as compare its
-                efficiency with two other numerical methods, which emerges to be
-                3-10 times faster for smooth, convex examples and 20-100 times
-                (or even more) faster for mildly degenerate examples.
+                Abstract
             </p>
             </th>
         </tr>
@@ -245,6 +108,143 @@ To see titles and abstracts, click the speakers' names.
                 <i>Lunch</i>
             </th>
         </tr>
+        <tr>
+            <th style="font-weight: inherit"> 09:00 </th>
+            <th style="font-weight: inherit"> - </th>
+            <th style="font-weight: inherit"> 09:25 </th>
+            <th>
+                <input type="checkbox" id="talk4">
+                <label for="talk4">
+                    Talk 4
+                </label>
+            </th>
+        </tr>
+        <tr>
+            <th></th><th></th><th></th>
+            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+                <i>
+                    Title
+                </i>
+            </th>
+        </tr>
+        <tr>
+            <th></th><th></th><th></th>
+            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+            <p>
+                Abstract
+            </p>
+            </th>
+        </tr>
+        <tr>
+            <th style="font-weight: inherit"> 09:00 </th>
+            <th style="font-weight: inherit"> - </th>
+            <th style="font-weight: inherit"> 09:25 </th>
+            <th>
+                <input type="checkbox" id="talk5">
+                <label for="talk5">
+                    Talk 5
+                </label>
+            </th>
+        </tr>
+        <tr>
+            <th></th><th></th><th></th>
+            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+                <i>
+                    Title
+                </i>
+            </th>
+        </tr>
+        <tr>
+            <th></th><th></th><th></th>
+            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+            <p>
+                Abstract
+            </p>
+            </th>
+        </tr>
+        <tr>
+            <th style="font-weight: inherit"> 09:00 </th>
+            <th style="font-weight: inherit"> - </th>
+            <th style="font-weight: inherit"> 09:25 </th>
+            <th>
+                <input type="checkbox" id="talk6">
+                <label for="talk6">
+                    Talk 6
+                </label>
+            </th>
+        </tr>
+        <tr>
+            <th></th><th></th><th></th>
+            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+                <i>
+                    Title
+                </i>
+            </th>
+        </tr>
+        <tr>
+            <th></th><th></th><th></th>
+            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+            <p>
+                Abstract
+            </p>
+            </th>
+        </tr>
+        <tr>
+            <th style="font-weight: inherit"> 09:00 </th>
+            <th style="font-weight: inherit"> - </th>
+            <th style="font-weight: inherit"> 09:25 </th>
+            <th>
+                <input type="checkbox" id="talk7">
+                <label for="talk7">
+                    Talk 7
+                </label>
+            </th>
+        </tr>
+        <tr>
+            <th></th><th></th><th></th>
+            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+                <i>
+                    Title
+                </i>
+            </th>
+        </tr>
+        <tr>
+            <th></th><th></th><th></th>
+            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+            <p>
+                Abstract
+            </p>
+            </th>
+        </tr>
+<tr>
+            <th style="font-weight: inherit"> 09:00 </th>
+            <th style="font-weight: inherit"> - </th>
+            <th style="font-weight: inherit"> 09:25 </th>
+            <th>
+                <input type="checkbox" id="talk8">
+                <label for="talk8">
+                    Talk 8
+                </label>
+            </th>
+        </tr>
+        <tr>
+            <th></th><th></th><th></th>
+            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+                <i>
+                    Title
+                </i>
+            </th>
+        </tr>
+        <tr>
+            <th></th><th></th><th></th>
+            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+            <p>
+                Abstract
+            </p>
+            </th>
+        </tr>
+
+        
         <tr>
             <th style="font-weight: inherit"> 12:30 </th>
             <th style="font-weight: inherit"> - </th>
