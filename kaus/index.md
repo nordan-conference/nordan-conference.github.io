@@ -6,6 +6,8 @@ layout: kaus-home
 
 KAUS 2026 will take place in Joensuu on May 22, just before the Nordan conference. The talks will be held at the University of Eastern Finland. The detailed schedule will be posted after registration is completed. There will be ample time for socializing and networking.
 
+All participants in KAUS are expected to attend Nordan 2026. In the case of KAUS attendees, the [Nordan registration fee]([https://maps.app.goo.gl/e6owLLxcQwnjdRjy6](https://nordan-conference.github.io/registration/) (EUR 540) covers also the KAUS registration.
+
 The organizers of KAUS 2026 are:
  - Jouni Rättyä, University of Eastern Finland
  - Risto Korhonen, University of Eastern Finland
