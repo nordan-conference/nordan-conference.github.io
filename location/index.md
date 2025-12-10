@@ -3,7 +3,7 @@ layout: default
 ---
 
 <p>
-The event will be held at the <a href="https://www.uef.fi/en/joensuu-campus">Joensuu campus]</a>.
+The event will be held at the <a href="https://www.uef.fi/en/joensuu-campus">Joensuu campus</a>.
 </p>
 
 # Traveling to and from Joensuu
@@ -30,7 +30,7 @@ An alternative way to reach Joensuu is by train, which is cheaper but takes a li
 ## Conference venue: Metria building, campus of Joensuu
 
 <p>
-For Joensuu campus map, see [pdf-file](https://studentuef.sharepoint.com/:b:/s/www-documents/EUQCvKtGRbxGuhZOzvqIyMUBBPdKki03Fg479w_FKggz9Q?e=nTHemN). For general information about the Joensuu campus, please visit the link [Joensuu campus](https://www.uef.fi/en/joensuu-campus).
+For Joensuu campus map, see <a href="https://studentuef.sharepoint.com/:b:/s/www-documents/EUQCvKtGRbxGuhZOzvqIyMUBBPdKki03Fg479w_FKggz9Q?e=nTHemN">pdf-file</a>.
 </p>
 
 <div>
