@@ -30,7 +30,7 @@ An alternative way to reach Joensuu is by train, which is cheaper but takes a li
 ## Conference venue: Metria building, campus of Joensuu
 
 <p>
-For Joensuu campus map, see <a href="https://studentuef.sharepoint.com/:b:/s/www-documents/EUQCvKtGRbxGuhZOzvqIyMUBBPdKki03Fg479w_FKggz9Q?e=nTHemN">pdf-file</a>. For general information about the Joensuu campus, please visit the <a href="https://www.uef.fi/en/joensuu-campus">link</a>
+For Joensuu campus map, see <a href="https://studentuef.sharepoint.com/:b:/s/www-documents/EUQCvKtGRbxGuhZOzvqIyMUBBPdKki03Fg479w_FKggz9Q?e=nTHemN">pdf-file</a>. For general information about the Joensuu campus, please visit the <a href="https://www.uef.fi/en/joensuu-campus">link</a>.
 </p>
 
 <div>
