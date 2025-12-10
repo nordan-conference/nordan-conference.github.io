@@ -6,6 +6,11 @@ layout: default
 Booklets for the Nordan and KAUS 2026 are to be announced later.
 </p>
 
+# Posters
+<p>
+All participants are invited to present their work in the form of posters. Posters will remain accessible for viewing throughout the conference.
+</p>
+
 # Program
 <H4>
     Friday:
@@ -134,9 +139,3 @@ Booklets for the Nordan and KAUS 2026 are to be announced later.
     </tr>
     
 </table>
-<br>
-# Posters
-<p>All participants are invited to present their work in the form of posters. Posters will remain accessible for viewing throughout the conference.</p>
-
-
-
