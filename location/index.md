@@ -22,7 +22,7 @@ An alternative way to reach Joensuu is by train, which is cheaper but takes a li
 
 ## Accommodation
 
-<p>The Scandic Joensuu hotel (Kirkkokatu 20, Joensuu) will host lunches, dinners, and provide accommodation. The registration fee includes all meals and room reservations, which will be arranged by the organizers. For general information about the hotel, see <a href="https://www.scandichotels.com/en/hotels/scandic-joensuu">Scandic Joensuu</a>.</p>
+<p>The Scandic Joensuu hotel, located at Kirkkokatu 20, will host lunches, dinners, and provide accommodation. The registration fee includes all meals and room reservations, which will be arranged by the organizers. For general information about the hotel, see <a href="https://www.scandichotels.com/en/hotels/scandic-joensuu">Scandic Joensuu</a>.</p>
 
 <p>The Scandic Joensuu hotel is located within walking distance of Metria, approximately 1.2 km (about 17 minutes on foot). Should you require assistance, please contact the organizers.</p>
 
