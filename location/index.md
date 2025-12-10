@@ -3,7 +3,7 @@ layout: default
 ---
 
 <p>
-The event will be held at the [Joensuu campus](https://www.uef.fi/en/joensuu-campus) of the University of Eastern Finland.
+The event will be held at the <a href="https://www.uef.fi/en/joensuu-campus">Joensuu campus]</a>.
 </p>
 
 # Traveling to and from Joensuu
