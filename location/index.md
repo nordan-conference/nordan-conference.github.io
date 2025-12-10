@@ -2,7 +2,11 @@
 layout: default
 ---
 
-# Traveling
+<p>
+The event will be held at the [Joensuu campus](https://www.uef.fi/en/joensuu-campus) of the University of Eastern Finland.
+</p>
+
+# Traveling to and from Joensuu
 The easiest way to reach Joensuu is by air. On May 22, Finnair offers a direct flight from Helsinki to Joensuu, departing at 16:05 and arriving at 17:10. Upon arrival, a public airport bus (operated by Länsilinjat) provides transportation to the city center, stopping at Koskikatu I. The bus departs approximately 20 minutes after each landing, and will wait for delayed flights for up to 45 minutes. Tickets can be purchased onboard using cash or card.
 Joensuu Airport is small and easy to navigate—the bus departs directly from outside the terminal exit and the ride to the city center takes about 15 minutes.
 
@@ -21,7 +25,13 @@ On the way back, the bus from the city of Joensuu (bus stop: Koskikatu L) to the
 An alternative way to reach Joensuu is by train, which is cheaper but takes a little bit more time. For more information, see the [VR](https://www.vr.fi/en) website.
 
 
-## University of Eastern Finland, Metria building
+
+
+## Conference venue: Metria building, campus of Joensuu
+
+<p>
+For Joensuu campus map, see [pdf-file](https://studentuef.sharepoint.com/:b:/s/www-documents/EUQCvKtGRbxGuhZOzvqIyMUBBPdKki03Fg479w_FKggz9Q?e=nTHemN). For general information about the Joensuu campus, please visit the link [Joensuu campus](https://www.uef.fi/en/joensuu-campus).
+</p>
 
 <div>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1835.8178382786007!2d29.737376813069304!3d62.60478277626437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x469b868f7da8806f%3A0x6a8e4134ecb816b9!2sIt%C3%A4-Suomen%20yliopisto%2C%20Metria!5e0!3m2!1sen!2sfi!4v1759218828713!5m2!1sen!2sfi" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
