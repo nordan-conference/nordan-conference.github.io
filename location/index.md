@@ -35,7 +35,7 @@ For Joensuu campus map, see <a href="https://studentuef.sharepoint.com/:b:/s/www
 </p>
 
 <div>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1835.8178382786007!2d29.737376813069304!3d62.60478277626437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x469b868f7da8806f%3A0x6a8e4134ecb816b9!2sIt%C3%A4-Suomen%20yliopisto%2C%20Metria!5e0!3m2!1sen!2sfi!4v1759218828713!5m2!1sen!2sfi" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d7343.759924922889!2d29.739774030181383!3d62.602807170209246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x469b8662ee59f8d9%3A0x53122791cb2ef235!2sKirkkokatu%2020%2C%2080100%20Joensuu!3m2!1d62.602123199999994!2d29.7603153!4m5!1s0x469b868f7da8806f%3A0x6a8e4134ecb816b9!2sMetria%2C%20Yliopistokatu%2C%20Joensuu!3m2!1d62.604782799999995!2d29.739957099999998!5e0!3m2!1sen!2sfi!4v1765366860702!5m2!1sen!2sfi" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ## Joensuu, city center
