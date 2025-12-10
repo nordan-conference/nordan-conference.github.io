@@ -94,7 +94,7 @@ Booklets for the Nordan and KAUS 2026 are to be announced later.
         <th style="font-weight: inherit"> 09:00 </th>
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 09:10 </th>
-        <th style="padding: 0px 0px 0px 10px">Practical info</th>
+        <th style="font-weight: inherit; padding: 0px 0px 0px 10px"><i>Practical info</i></th>
     </tr>
      <tr>
         <th style="font-weight: inherit"> 09:10 </th>
