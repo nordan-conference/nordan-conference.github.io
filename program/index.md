@@ -32,7 +32,7 @@ Booklets for the Nordan and KAUS 2026 are to be announced later.
         <th style="font-weight: inherit"> 09:10 </th>
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 09:50 </th>
-        <th style="padding: 0px 0px 0px 10px">Talk 1</th>
+        <th style="padding: 0px 0px 0px 10px">Ilpo Laine</th>
     </tr>
     <tr>
         <th style="font-weight: inherit"> 09:50 </th>
@@ -44,13 +44,13 @@ Booklets for the Nordan and KAUS 2026 are to be announced later.
         <th style="font-weight: inherit"> 10:20 </th>
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 11:00 </th>
-        <th style="padding: 0px 0px 0px 10px">Talk 2</th>
+        <th style="padding: 0px 0px 0px 10px">Ragnar Sigurðsson</th>
     </tr>
     <tr>
         <th style="font-weight: inherit"> 11:10 </th>
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 11:50 </th>
-        <th style="padding: 0px 0px 0px 10px">Talk 3</th>
+        <th style="padding: 0px 0px 0px 10px">Jacob Stordal Christiansen</th>
     </tr>
     <tr>
         <th style="font-weight: inherit"> 11:50 </th>
@@ -62,7 +62,7 @@ Booklets for the Nordan and KAUS 2026 are to be announced later.
         <th style="font-weight: inherit"> 14:00 </th>
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 14:40 </th>
-        <th style="padding: 0px 0px 0px 10px">Talk 4</th>
+        <th style="padding: 0px 0px 0px 10px">Álfheiður Edda Sigurðardóttir</th>
     </tr>
     <tr>
         <th style="font-weight: inherit"> 15:00 </th>
@@ -100,7 +100,7 @@ Booklets for the Nordan and KAUS 2026 are to be announced later.
         <th style="font-weight: inherit"> 09:10 </th>
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 09:50 </th>
-        <th style="padding: 0px 0px 0px 10px">Talk 5</th>
+        <th style="padding: 0px 0px 0px 10px">Eero Saksman</th>
     </tr>
     <tr>
         <th style="font-weight: inherit"> 09:50 </th>
@@ -112,13 +112,13 @@ Booklets for the Nordan and KAUS 2026 are to be announced later.
         <th style="font-weight: inherit"> 10:20 </th>
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 11:00 </th>
-        <th style="padding: 0px 0px 0px 10px">Talk 6</th>
+        <th style="padding: 0px 0px 0px 10px">Elizabeth Wulcan</th>
     </tr>
     <tr>
         <th style="font-weight: inherit"> 11:10 </th>
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 11:50 </th>
-        <th style="padding: 0px 0px 0px 10px">Talk 7</th>
+        <th style="padding: 0px 0px 0px 10px">Henrik Laurberg Pedersen</th>
     </tr>
     <tr>
         <th style="font-weight: inherit"> 11:50 </th>
@@ -130,13 +130,7 @@ Booklets for the Nordan and KAUS 2026 are to be announced later.
         <th style="font-weight: inherit"> 14:00 </th>
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 14:40 </th>
-        <th style="padding: 0px 0px 0px 10px">Talk 8</th>
-    </tr>
-      <tr>
-        <th style="font-weight: inherit"> 14:50 </th>
-        <th style="font-weight: inherit"> - </th>
-        <th style="font-weight: inherit"> 15:30 </th>
-        <th style="padding: 0px 0px 0px 10px">Talk 9</th>
+        <th style="padding: 0px 0px 0px 10px">Erlend Fornæss Wold</th>
     </tr>
     
 </table>
