@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Traveling to and from Joensuu
+## Traveling to and from Joensuu
 The easiest way to reach Joensuu is by air. On May 22, Finnair offers a direct flight from Helsinki to Joensuu, departing at 16:05 and arriving at 17:10. Upon arrival, a public airport bus (operated by Länsilinjat) provides transportation to the city center, stopping at Koskikatu I. The bus departs approximately 20 minutes after each landing, and will wait for delayed flights for up to 45 minutes. Tickets can be purchased onboard using cash or card.
 Joensuu Airport is small and easy to navigate—the bus departs directly from outside the terminal exit and the ride to the city center takes about 15 minutes.
 
@@ -20,8 +20,13 @@ On the way back, the bus from the city of Joensuu (bus stop: Koskikatu L) to the
 
 An alternative way to reach Joensuu is by train, which is cheaper but takes a little bit more time. For more information, see the [VR](https://www.vr.fi/en) website.
 
+## Accommodation: Scandic Joensuu, Kirkkokatu 20, Joensuu
 
+<p>For general information about the hotel, see <a href="https://www.scandichotels.com/en/hotels/scandic-joensuu">Scandic Joensuu</a>. The registration fee includes room reservations, which will be arranged by the organizers.</p>
 
+<div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d7343.759924922889!2d29.739774030181383!3d62.602807170209246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x469b868f7da8806f%3A0x6a8e4134ecb816b9!2sMetria%2C%20Yliopistokatu%2C%20Joensuu!3m2!1d62.604782799999995!2d29.739957099999998!4m5!1s0x469b8662ee59f8d9%3A0x53122791cb2ef235!2sKirkkokatu%2020%2C%2080100%20Joensuu!3m2!1d62.602123199999994!2d29.7603153!5e0!3m2!1sen!2sfi!4v1765366563326!5m2!1sen!2sfi" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 ## Conference venue: Metria building, campus of Joensuu
 
