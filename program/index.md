@@ -135,6 +135,7 @@ Booklets for the Nordan and KAUS 2026 are to be announced later.
     
 </table>
 
+# Posters
 <p>All participants are invited to present their work in the form of posters. Posters will remain accessible for viewing throughout the conference.</p>
 
 
