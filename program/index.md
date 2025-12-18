@@ -135,7 +135,7 @@ All participants are invited to present their work in the form of posters. Poste
         <th style="font-weight: inherit"> 14:00 </th>
         <th style="font-weight: inherit"> - </th>
         <th style="font-weight: inherit"> 14:40 </th>
-        <th style="padding: 0px 0px 0px 10px">Erlend Fornæss Wold</th>
+        <th style="padding: 0px 0px 0px 10px">(to be announced later)</th>
     </tr>
     
 </table>
