@@ -4,7 +4,7 @@ layout: default
 
 All participants are required to complete the registration form no later than March 23, 2026:
 
-registration form: <link will be added soon>
+registration form: (link will be added soon)
 
 For attendees from institutions other than the University of Eastern Finland, the registration fee (540 EUR) includes accommodation at the Scandic Joensuu hotel, which will be arranged by the organizers.
 
