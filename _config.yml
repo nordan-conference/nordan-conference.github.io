@@ -52,7 +52,7 @@ conference:
         relative_url: /location/
       - name: KAUS
         relative_url: /kaus/
-      - name: Registration and abstract
+      - name: Registration and Abstract
         relative_url: /registration/
       - name: Previous Editions of Nordan
         relative_url: /archives
