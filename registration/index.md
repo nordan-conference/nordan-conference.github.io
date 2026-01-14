@@ -8,8 +8,6 @@ All participants are required to complete the registration form no later than Ma
 
 registration form: (link will be added soon)
 
-For attendees from institutions other than the University of Eastern Finland, the registration fee (540 EUR) includes accommodation at the Scandic Joensuu hotel, which will be arranged by the organizers.
-
 Participants accompanied by additional persons are kindly requested to contact the organizers in advance to coordinate accommodation and confirm any related excursion arrangements.
 
 If you need a letter of invitation or prefer to pay by invoice, please contact the organizers.
