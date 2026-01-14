@@ -6,7 +6,7 @@ layout: default
 
 All participants are required to complete the registration form no later than March 23, 2026:
 
-registration form: (link will be added soon)
+(link will be added soon)
 
 Participants accompanied by additional persons are kindly requested to contact the organizers in advance to coordinate accommodation and confirm any related excursion arrangements.
 
