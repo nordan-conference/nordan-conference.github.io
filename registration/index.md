@@ -16,7 +16,7 @@ If you need a letter of invitation or prefer to pay by invoice, please contact t
 
 # Abstract
 
-Please submit your abstract, including the title of your talk and your contact details, no later than April 15, 2026. A generic example of the <a href="https://studentuef-my.sharepoint.com/:u:/g/personal/jgrohn_uef_fi/IQCKcvAW7COLTKAjSem2XtcQASFx5BBBB8FsouEcCNG2S0I?e=MBSKli">abstract.tex</a> file is provided below:
+Please submit your abstract to <a href="mailto:janne.grohn@uef.fi?subject=Abstract (KAUS and Nordan 2026)">Janne Gröhn</a>, including the title of your talk and your contact details, no later than April 15, 2026. A generic example of the <a href="https://studentuef-my.sharepoint.com/:u:/g/personal/jgrohn_uef_fi/IQCKcvAW7COLTKAjSem2XtcQASFx5BBBB8FsouEcCNG2S0I?e=MBSKli">abstract.tex</a> file is provided below:
 
 <pre style="background-color: whitesmoke; border: 2px solid black;
 color: black; padding: 0em 1em; text-align: left; font-size: 1em; display: inline-block;
