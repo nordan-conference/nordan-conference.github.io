@@ -10,7 +10,7 @@ We are pleased to announce the 27th iteration of Nordan, the annual Nordic confe
 
 <!-- The conference will be held this year in Finland, first time in the history of Nordan. The event will take place May 22–24 at the Joensuu campus of the University of Eastern Finland. In conjunction with Nordan, there will be a KAUS meeting for graduate students on May 22, 2026. -->
 
-Conference Schedule:
+Nordan 2026 Overview:
 
 - Friday, May 22: The conference begins with a welcome dinner in the city center of Joensuu, offering participants a chance to meet and connect in a relaxed setting.
 
@@ -23,11 +23,9 @@ Participants will gather at the city center of Joensuu, where attendees will enj
 The day will feature four talks before excursion to Koli national park. -->
 
 - Sunday, May 24:
-The final day will include four talks. The conference will conclude at 15:30.
+The final day will include four talks. The conference will conclude at 14:40.
 
-The registration deadline is **March 23, 2026.** For more information, see the [Registration and Abstracts](https://nordan-conference.github.io/registration/) subpage.
-
-For detailed travel guidance, please visit the [Location](https://nordan-conference.github.io/location/) subpage.
+The registration deadline is **March 23, 2026.** For more information, see the [Registration and Abstracts](https://nordan-conference.github.io/registration/) subpage. For detailed travel guidance, please visit the [Location](https://nordan-conference.github.io/location/) subpage.
 
 <!-- The most convenient way to reach Joensuu is by plane. On May 22, there is a flight from Helsinki to Joensuu by Finnair at 16:05, landing at 17:30. On the way back, there are two natural options. One may either take the flight on Sunday evening at 17:30, or in the Monday morning at 05:30. For more information on traveling, see the Location subpage. -->
 
