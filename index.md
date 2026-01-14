@@ -23,15 +23,15 @@ Participants will gather at the city center of Joensuu, where attendees will enj
 The day will feature four talks before excursion to Koli national park. -->
 
 - Sunday, May 24:
-The final day will include five talks. The conference will conclude at 15:30.
+The final day will include four talks. The conference will conclude at 15:30.
 
-The registration deadline is **March 23, 2026.**
+The registration deadline is **March 23, 2026.** For more information, see the [Registration and Abstracts](https://nordan-conference.github.io/registration/) subpage.
 
-Important note: The most convenient way to reach Joensuu is by air. On May 22, Finnair operates a direct flight from Helsinki to Joensuu, departing at 16:05 and arriving at 17:10. For the return journey, there are two natural options: (i) a Sunday evening flight departing Joensuu at 17:30; and (ii) a Monday morning flight departing at 05:30. For detailed travel guidance and additional options, please visit the [Location](https://nordan-conference.github.io/location/) subpage.
+For detailed travel guidance, please visit the [Location](https://nordan-conference.github.io/location/) subpage.
 
 <!-- The most convenient way to reach Joensuu is by plane. On May 22, there is a flight from Helsinki to Joensuu by Finnair at 16:05, landing at 17:30. On the way back, there are two natural options. One may either take the flight on Sunday evening at 17:30, or in the Monday morning at 05:30. For more information on traveling, see the Location subpage. -->
 
-We look forward to welcoming you to Finland!
+We look forward to welcoming you to Joensuu, Finland!
 
 Organizers: 
 <div class="row">
