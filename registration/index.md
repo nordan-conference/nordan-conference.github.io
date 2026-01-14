@@ -18,7 +18,7 @@ Please submit your abstract to <a href="mailto:janne.grohn@uef.fi?subject=Abstra
 
 <pre style="background-color: whitesmoke; border: 2px solid black;
 color: black; padding: 0em 1em; text-align: left; font-size: 1em; display: inline-block;
-border-radius: 2px; font-family: 'Courier New', Courier, monospace;">
+border-radius: 2px; font-family: 'Courier New', Courier, monospace;font-size: 6em;">
 <code>
 \documentclass[12pt,a4paper]{amsart}
 
