@@ -50,10 +50,10 @@ conference:
         relative_url: /program/
       - name: Location
         relative_url: /location/
-      - name: KAUS
-        relative_url: /kaus/
       - name: Registration and Abstract
         relative_url: /registration/
+      - name: KAUS
+        relative_url: /kaus/
       - name: Previous Editions of Nordan
         relative_url: /archives
 
