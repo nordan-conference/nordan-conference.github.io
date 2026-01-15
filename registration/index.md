@@ -6,7 +6,7 @@ layout: default
 
 All participants are required to complete the registration form no later than March 23, 2026:
 
-(link will be added soon)
+<a href="https://registration.contio.fi/uef/Registration/Login?id=10171-T_10171-11706">registration form</a>
 
 Participants accompanied by additional persons are kindly requested to contact the organizers in advance to coordinate accommodation and confirm any related excursion arrangements.
 
