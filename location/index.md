@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Traveling to and from Joensuu
-Finnair has updated its flight schedule for the Helsinki–Joensuu–Helsinki route. The travel details below reflect the situation as of February 14.
+Finnair has updated the flight schedule for the Helsinki–Joensuu–Helsinki route. The travel details below reflect the situation as of Feb 14, 2026.
 
 The easiest way to reach Joensuu is by air. On May 22, Finnair offers a direct flight from Helsinki to Joensuu, departing at 17:00 and arriving at 18:05. Upon arrival, a public airport bus (operated by Länsilinjat) provides transportation to the city center, stopping at Koskikatu I. The bus departs approximately 20 minutes after each landing, and will wait for delayed flights for up to 45 minutes. Tickets can be purchased onboard using cash or card.
 Joensuu Airport is small and easy to navigate—the bus departs directly from outside the terminal exit and the ride to the city center takes about 15 minutes.
