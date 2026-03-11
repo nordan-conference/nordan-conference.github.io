@@ -3,11 +3,6 @@ layout: kaus-default
 ---
 Here is the list of participants at KAUS 2026:
 
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Conference Participants</title>
-
 <style>
     body {
         font-family: "Segoe UI", Roboto, sans-serif;
@@ -62,10 +57,6 @@ Here is the list of participants at KAUS 2026:
         max-width: 50%;
     }
 </style>
-</head>
-<body>
-
-<h1>Participants</h1>
 
 <ul class="participant-list">
 
@@ -82,6 +73,4 @@ Here is the list of participants at KAUS 2026:
 
 </ul>
 
-</body>
-</html>
 
