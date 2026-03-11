@@ -10,13 +10,13 @@ layout: kaus-default
         margin: 40px;
         color: #333;
     }
-    -->
 
     h1 {
         font-weight: 300;
         margin-bottom: 20px;
         text-align: left;
     }
+    -->
 
     .participant-list {
         max-width: 700px;
