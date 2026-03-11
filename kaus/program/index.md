@@ -26,7 +26,7 @@ To see titles and abstracts, click the speakers' names.
             <th>
                 <input type="checkbox" id="talk1">
                 <label for="talk1">
-                    Talk 1
+                    Talk 1: Przemysław Sprus
                 </label>
             </th>
         </tr>
@@ -53,7 +53,7 @@ To see titles and abstracts, click the speakers' names.
             <th>
                 <input type="checkbox" id="talk2">
                 <label for="talk2">
-                    Talk 2
+                    Talk 2: Michał Kudra
                 </label>
             </th>
         </tr>
@@ -80,7 +80,7 @@ To see titles and abstracts, click the speakers' names.
             <th>
                 <input type="checkbox" id="talk3">
                 <label for="talk3">
-                    Talk 3
+                    Talk 3: Beno Učakar
                 </label>
             </th>
         </tr>
@@ -88,7 +88,7 @@ To see titles and abstracts, click the speakers' names.
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
                 <i>
-                    Title
+                    On the geometry of unbounded wandering domains
                 </i>
             </th>
         </tr>
@@ -96,7 +96,13 @@ To see titles and abstracts, click the speakers' names.
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                Abstract
+                In 2021 Boc Thaler showed that any bounded regular open set without holes can be realised as the wandering domain of some entire function. This result was later refined by Martí-Pete, Rempe and Waterman. 
+The natural question is whether we can obtain a similar result for unbounded sets. 
+Here we run into some technical issues, namely that by just using approximation techniques it is difficult to ensure a function remains injective on an unbounded set. 
+If we instead only care about the approximate shape of a wandering domain, this turns out to not be such a big issue.
+We show that any closed set is in some sense arbitrarily close to a wandering domain. In particular this shows there exists an entire function with a wandering domain with complement of arbitrary small area.
+
+Nevertheless, prescribing the shape of an unbounded wandering domain is not completely hopeless. We show that a suitable open set contained inside a strip can in fact be realised as the wandering domain of some entire function. Thus this is a generalization of Boc Thalers result to certain unbounded sets.
             </p>
             </th>
         </tr>
