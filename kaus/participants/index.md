@@ -56,7 +56,7 @@ layout: kaus-default
 </style>
 
 
-The list of registered participants for KAUS 2026:
+The list of registered participants for KAUS 2026 (updated on Mar 11, 2026):
 
 <ul class="participant-list">
   
