@@ -1,8 +1,12 @@
 ---
 layout: kaus-default
 ---
-To see titles and abstracts, click the speakers' names.
+
 # Program
+
+> [!NOTE]
+> To see titles and abstracts, click the speakers' names.
+
 
 <H4>Thursday, May 21:</H4>
 <div id="program">
