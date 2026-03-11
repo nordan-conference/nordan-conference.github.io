@@ -118,6 +118,13 @@ The list of registered participants for Nordan 2026 (updated on Mar 11, 2026):
   </li>
 
   <li class="participant">
+  <span class="name">Henrik Laurberg Pedersen</span>
+  <ul class="affiliations">
+    <li>University of Copenhagen (Denmark)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
   <span class="name">Atte Pennanen</span>
   <ul class="affiliations">
     <li>University of Eastern Finland (Finland)</li>
@@ -133,9 +140,23 @@ The list of registered participants for Nordan 2026 (updated on Mar 11, 2026):
   </li>
 
   <li class="participant">
+  <span class="name">Ragnar Sigurðsson</span>
+  <ul class="affiliations">
+   <li>University of Iceland (Iceland)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
   <span class="name">Przemysław Sprus</span>
   <ul class="affiliations">
     <li>Jagiellonian University (Poland)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Tuyen Trung Truong</span>
+  <ul class="affiliations">
+    <li>University of Oslo (Norway)</li>
   </ul>
   </li>
 
