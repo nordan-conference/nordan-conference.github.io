@@ -3,6 +3,7 @@ layout: kaus-default
 ---
 The list of registered participants for KAUS 2026:
 
+<!--
 <style>
     body {
         font-family: "Segoe UI", Roboto, sans-serif;
@@ -73,3 +74,4 @@ The list of registered participants for KAUS 2026:
     </li>
    
 </ul>
+-->
