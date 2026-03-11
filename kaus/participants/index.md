@@ -30,7 +30,7 @@ layout: kaus-default
         box-shadow: 0 2px 6px rgba(0,0,0,0.08);
     }    
 
-    -->
+  
     
     .participant {
         display: grid;
@@ -40,6 +40,7 @@ layout: kaus-default
         border-bottom: 1px solid #ececec;
         transition: background 0.2s ease;
     }
+      -->
 
     .participant:last-child {
         border-bottom: none;
