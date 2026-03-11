@@ -1,7 +1,6 @@
 ---
 layout: kaus-default
 ---
-The list of registered participants for KAUS 2026:
 
 <style>
     body {
@@ -61,9 +60,8 @@ The list of registered participants for KAUS 2026:
     }
 </style>
 </head>
-<body>
 
-<h1>Participants of KAUS 2026</h1>
+<h1>Registered participants for KAUS 2026</h1>
 
 <ul class="participant-list">
   
@@ -149,5 +147,3 @@ The list of registered participants for KAUS 2026:
   </li>
 
 </ul>
-
-</body>
