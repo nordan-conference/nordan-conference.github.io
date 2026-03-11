@@ -19,6 +19,7 @@ layout: kaus-default
         text-align: left;
     }
 
+    <!--
     .participant-list {
         max-width: 700px;
         padding: 0;
@@ -29,7 +30,7 @@ layout: kaus-default
         box-shadow: 0 2px 6px rgba(0,0,0,0.08);
     }    
 
-    <!--
+    -->
     
     .participant {
         display: grid;
@@ -40,8 +41,6 @@ layout: kaus-default
         transition: background 0.2s ease;
     }
 
-    -->
-    
     .participant:last-child {
         border-bottom: none;
     }
