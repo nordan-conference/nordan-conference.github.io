@@ -40,7 +40,7 @@ layout: kaus-default
         border-bottom: 1px solid #ececec;
         transition: background 0.2s ease;
     }
-      -->
+     
 
     .participant:last-child {
         border-bottom: none;
@@ -65,6 +65,8 @@ layout: kaus-default
         font-size: 0.9em;
         margin-bottom: 2px;
     }
+
+  -->
 </style>
 
 
