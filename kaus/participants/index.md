@@ -19,7 +19,7 @@ The list of registered participants for KAUS 2026:
     }
 
     .participant-list {
-        max-width: 520px;
+        max-width: 720px;
         padding: 0;
         list-style: none;
         background: #ffffff;
