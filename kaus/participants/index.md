@@ -1,7 +1,7 @@
 ---
 layout: kaus-default
 ---
-Here is the list of participants at KAUS 2026:
+Here is the list of registered participants for KAUS 2026:
 
 <style>
     body {
