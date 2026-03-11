@@ -31,7 +31,7 @@ To see titles and abstracts, click the speakers' names.
         </tr>
         <tr>
             <th></th><th></th><th></th>
-            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+            <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
                     Title
                 </i>
@@ -58,7 +58,7 @@ To see titles and abstracts, click the speakers' names.
         </tr>
         <tr>
             <th></th><th></th><th></th>
-            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+            <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
                     Title
                 </i>
@@ -128,7 +128,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
         </tr>
         <tr>
             <th></th><th></th><th></th>
-            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+            <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
                     Title
                 </i>
@@ -155,7 +155,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
         </tr>
         <tr>
             <th></th><th></th><th></th>
-            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+            <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
                     Title
                 </i>
@@ -182,7 +182,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
         </tr>
         <tr>
             <th></th><th></th><th></th>
-            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+            <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
                     Title
                 </i>
@@ -217,7 +217,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
         </tr>
         <tr>
             <th></th><th></th><th></th>
-            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+            <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
                     Title
                 </i>
@@ -244,7 +244,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
         </tr>
         <tr>
             <th></th><th></th><th></th>
-            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+            <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
                     Title
                 </i>
@@ -271,7 +271,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
         </tr>
         <tr>
             <th></th><th></th><th></th>
-            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+            <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
                     Title
                 </i>
@@ -306,7 +306,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
         </tr>
         <tr>
             <th></th><th></th><th></th>
-            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+            <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
                     Title
                 </i>
@@ -333,7 +333,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
         </tr>
         <tr>
             <th></th><th></th><th></th>
-            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+            <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
                     Title
                 </i>
@@ -360,7 +360,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
         </tr>
         <tr>
             <th></th><th></th><th></th>
-            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+            <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
                     Title
                 </i>
