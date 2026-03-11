@@ -16,7 +16,7 @@ layout: kaus-default
         margin-bottom: 20px;
         text-align: left;
     }
-    -->
+    
 
     .participant-list {
         max-width: 700px;
@@ -27,7 +27,7 @@ layout: kaus-default
         overflow: hidden;
         box-shadow: 0 2px 6px rgba(0,0,0,0.08);
     }
-
+-->
     .participant {
         display: grid;
         grid-template-columns: 1fr 2fr; /* two columns */
