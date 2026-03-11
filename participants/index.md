@@ -82,6 +82,13 @@ The list of registered participants for Nordan 2026 (updated on Mar 11, 2026):
   </li>
 
   <li class="participant">
+  <span class="name">Eggert Karl Hafsteinsson</span>
+  <ul class="affiliations">
+    <li>Menntaskólinn í Reykjavík (Iceland)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
   <span class="name">Juho Halonen</span>
   <ul class="affiliations">
     <li>University of Eastern Finland (Finland)</li>
@@ -100,6 +107,13 @@ The list of registered participants for Nordan 2026 (updated on Mar 11, 2026):
   <span class="name">Michał Kudra</span>
   <ul class="affiliations">
     <li>Jagiellonian University (Poland)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Ilpo Laine</span>
+  <ul class="affiliations">
+    <li>University of Eastern Finland (Finland)</li>
   </ul>
   </li>
 
@@ -147,9 +161,23 @@ The list of registered participants for Nordan 2026 (updated on Mar 11, 2026):
   </li>
 
   <li class="participant">
+  <span class="name">Bergur Snorrason</span>
+  <ul class="affiliations">
+   <li>Landsbankinn (Iceland)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
   <span class="name">Przemysław Sprus</span>
   <ul class="affiliations">
     <li>Jagiellonian University (Poland)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Margaret Stawiska-Friedland</span>
+  <ul class="affiliations">
+    <li>AMS/Mathematical Reviews (USA)</li>
   </ul>
   </li>
 
@@ -174,6 +202,13 @@ The list of registered participants for Nordan 2026 (updated on Mar 11, 2026):
   <ul class="affiliations">
     <li>Fudan University (China)</li>
     <li>University of Eastern Finland (Finland)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Elizabeth Wulcan</span>
+  <ul class="affiliations">
+    <li>Chalmers University of Technology (Sweden)</li>
   </ul>
   </li>
 
