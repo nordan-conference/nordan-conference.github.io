@@ -2,8 +2,12 @@
 layout: kaus-default
 ---
 
+test
+
+<!--
+
 <style>
-    <!--
+    
     body {
         font-family: "Segoe UI", Roboto, sans-serif;
         background: #f9f9f9;
@@ -27,7 +31,7 @@ layout: kaus-default
         overflow: hidden;
         box-shadow: 0 2px 6px rgba(0,0,0,0.08);
     }
--->
+
     .participant {
         display: grid;
         grid-template-columns: 1fr 2fr; /* two columns */
@@ -148,3 +152,5 @@ The list of registered participants for KAUS 2026:
   </li>
 
 </ul>
+
+-->
