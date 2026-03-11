@@ -14,7 +14,7 @@ To see titles and abstracts, click the speakers' names.
             <th style="font-weight: inherit"></th>
             <th style="font-weight: inherit; padding: 0px 0px 0px 10px;"><i>Activities</i></th>
         </tr>
-    </table>
+    </table><br>
     <H4>
         Friday, May 22:
     </H4>
