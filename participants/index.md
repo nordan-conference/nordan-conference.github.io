@@ -118,6 +118,20 @@ The list of registered participants for Nordan 2026 (updated on Mar 11, 2026):
   </li>
 
   <li class="participant">
+  <span class="name">Aleksandra Le/span>
+  <ul class="affiliations">
+    <li>Lund University (Sweden)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Andreas Lind</span>
+  <ul class="affiliations">
+    <li>Mid Sweden University (Sweden)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
   <span class="name">Wenlong Liu</span>
   <ul class="affiliations">
     <li>University of Eastern Finland (Finland)</li>
@@ -128,6 +142,13 @@ The list of registered participants for Nordan 2026 (updated on Mar 11, 2026):
   <span class="name">Benjamin Marim de Moura</span>
   <ul class="affiliations">
     <li>Mid Sweden University (Sweden)</li>
+  </ul>
+  </li>
+  
+  <li class="participant">
+  <span class="name">Mitja Nedic</span>
+  <ul class="affiliations">
+    <li>Jönköping University (Sweden)</li>
   </ul>
   </li>
 
@@ -142,6 +163,22 @@ The list of registered participants for Nordan 2026 (updated on Mar 11, 2026):
   <span class="name">Atte Pennanen</span>
   <ul class="affiliations">
     <li>University of Eastern Finland (Finland)</li>
+  </ul>
+  </li>
+
+  
+  <li class="participant">
+  <span class="name">Tyson Ritter</span>
+  <ul class="affiliations">
+    <li>University of Stavanger (Norway)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Kalm Håkan Samuelsson</span>
+  <ul class="affiliations">
+    <li>Chalmers University of Technology (Sweden)</li>
+   <li>University of Gothenburg (Sweden)</li>
   </ul>
   </li>
 
@@ -209,6 +246,13 @@ The list of registered participants for Nordan 2026 (updated on Mar 11, 2026):
   <span class="name">Elizabeth Wulcan</span>
   <ul class="affiliations">
     <li>Chalmers University of Technology (Sweden)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Mingchen Xia</span>
+  <ul class="affiliations">
+    <li>University of Science and Technology of China (China)</li>
   </ul>
   </li>
 
