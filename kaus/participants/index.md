@@ -60,7 +60,7 @@ layout: kaus-default
     }
 </style>
 
-<h1>Registered participants for KAUS 2026</h1>
+The list of registered participants for KAUS 2026:
 
 <ul class="participant-list">
   
