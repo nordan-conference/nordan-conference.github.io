@@ -9,10 +9,11 @@ Here is the list of registered participants for KAUS 2026:
         background: #f9f9f9;
         margin: 40px;
         color: #333;
+        text-align: left; /* Ensures main content is left aligned */
     }
 
     h1 {
-        text-align: center;
+        text-align: left;
         font-weight: 300;
         margin-bottom: 25px;
     }
