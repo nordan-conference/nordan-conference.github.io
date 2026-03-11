@@ -2,8 +2,6 @@
 layout: kaus-default
 ---
 
-test
-
 <!--
 
 <style>
@@ -65,6 +63,8 @@ test
         margin-bottom: 2px;
     }
 </style>
+
+-->
 
 The list of registered participants for KAUS 2026:
 
@@ -153,4 +153,4 @@ The list of registered participants for KAUS 2026:
 
 </ul>
 
--->
+
