@@ -20,7 +20,7 @@ layout: default
 
   .participant {
         display: grid;
-        grid-template-columns: 1fr 2fr; /* two columns */
+        grid-template-columns: 1fr 1fr; /* two columns */
         gap: 10px;
         padding: 12px 18px;
         border-bottom: 1px solid #ececec;
