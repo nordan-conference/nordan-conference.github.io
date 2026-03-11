@@ -8,7 +8,7 @@ layout: default
     
 
     .participant-list {
-        max-width: 700px;
+        max-width: 800px;
         padding: 0;
         list-style: none;
         background: #f9f9f9;
