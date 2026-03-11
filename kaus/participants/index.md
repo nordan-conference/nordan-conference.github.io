@@ -32,7 +32,7 @@ Here is the list of participants at KAUS 2026:
         padding: 12px 18px;
         display: flex;
         justify-content: space-between;
-        align-items: center;
+        align-items: left;
         border-bottom: 1px solid #ececec;
         transition: background 0.2s ease, transform 0.15s ease;
     }
