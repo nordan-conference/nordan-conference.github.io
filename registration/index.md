@@ -8,6 +8,8 @@ All participants are required to complete the registration form no later than Ma
 
 <a href="https://registration.contio.fi/uef/Registration/Login?id=10171-T_10171-11706">registration form</a>
 
+For a list of registrated participants, see 
+
 Participants accompanied by additional persons are kindly requested to contact the organizers in advance to coordinate accommodation and confirm any related excursion arrangements.
 
 If you need a letter of invitation or prefer to pay by invoice, please contact the organizers.
