@@ -1,7 +1,7 @@
 ---
 layout: kaus-default
 ---
-Here is the list of registered participants for KAUS 2026:
+The list of registered participants for KAUS 2026:
 
 <style>
     body {
@@ -13,14 +13,13 @@ Here is the list of registered participants for KAUS 2026:
     }
 
     h1 {
-        text-align: left;
         font-weight: 300;
         margin-bottom: 25px;
+        text-align: left; /* Header left aligned */
     }
 
     .participant-list {
         max-width: 520px;
-        margin: 0 auto;
         padding: 0;
         list-style: none;
         background: #ffffff;
@@ -33,9 +32,9 @@ Here is the list of registered participants for KAUS 2026:
         padding: 12px 18px;
         display: flex;
         justify-content: space-between;
-        align-items: left;
         border-bottom: 1px solid #ececec;
         transition: background 0.2s ease, transform 0.15s ease;
+        text-align: left; /* left-aligns inside each row */
     }
 
     .participant:last-child {
@@ -54,8 +53,8 @@ Here is the list of registered participants for KAUS 2026:
     .affiliation {
         font-size: 0.9em;
         color: #666;
-        text-align: right;
         max-width: 50%;
+        text-align: left; /* Ensures affiliation text is also left aligned */
     }
 </style>
 
@@ -72,5 +71,3 @@ Here is the list of registered participants for KAUS 2026:
     </li>
    
 </ul>
-
-
