@@ -59,7 +59,6 @@ layout: kaus-default
         margin-bottom: 2px;
     }
 </style>
-</head>
 
 <h1>Registered participants for KAUS 2026</h1>
 
