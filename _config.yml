@@ -52,6 +52,8 @@ conference:
         relative_url: /location/
       - name: Registration and Abstract
         relative_url: /registration/
+      - name: Participants
+        relative_url: /participants/
       - name: KAUS
         relative_url: /kaus/
       - name: Previous Editions of Nordan
