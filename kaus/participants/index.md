@@ -3,24 +3,22 @@ layout: kaus-default
 ---
 The list of registered participants for KAUS 2026:
 
-<!--
 <style>
     body {
         font-family: "Segoe UI", Roboto, sans-serif;
         background: #f9f9f9;
         margin: 40px;
         color: #333;
-        text-align: left; /* Ensures main content is left aligned */
     }
 
     h1 {
         font-weight: 300;
-        margin-bottom: 25px;
-        text-align: left; /* Header left aligned */
+        margin-bottom: 20px;
+        text-align: left;
     }
 
     .participant-list {
-        max-width: 720px;
+        max-width: 700px;
         padding: 0;
         list-style: none;
         background: #ffffff;
@@ -30,12 +28,12 @@ The list of registered participants for KAUS 2026:
     }
 
     .participant {
+        display: grid;
+        grid-template-columns: 1fr 2fr; /* two columns */
+        gap: 10px;
         padding: 12px 18px;
-        display: flex;
-        justify-content: space-between;
         border-bottom: 1px solid #ececec;
-        transition: background 0.2s ease, transform 0.15s ease;
-        text-align: left; /* left-aligns inside each row */
+        transition: background 0.2s ease;
     }
 
     .participant:last-child {
@@ -44,34 +42,112 @@ The list of registered participants for KAUS 2026:
 
     .participant:hover {
         background: #f0f6ff;
-        transform: translateX(4px);
     }
 
     .name {
         font-weight: 600;
     }
 
-    .affiliation {
+    .affiliations {
+        margin: 0;
+        padding: 0;              /* remove indent */
+        list-style: none;        /* remove bullets */
+        color: #555;
+    }
+
+    .affiliations li {
         font-size: 0.9em;
-        color: #666;
-        max-width: 50%;
-        text-align: left; /* Ensures affiliation text is also left aligned */
+        margin-bottom: 2px;
     }
 </style>
+</head>
+<body>
+
+<h1>Participants of KAUS 2026</h1>
 
 <ul class="participant-list">
+  
+  <li class="participant">
+  <span class="name">Setareh Eskandari</span>
+  <ul class="affiliations">
+    <li>Umeå University (Sweden)</li>
+  </ul>
+  </li>
 
-    <li class="participant">
-        <span class="name">Beno Učakar</span>
-        <span class="affiliation">University of Ljubljana (Slovenia)</span>
-        <span class="affiliation">The University of Barcelona (Spain)</span>
-        <span class="affiliation">The Institute of Mathematics, Physics and Mechanics (Slovenia)</span>
-    </li>
+  <li class="participant">
+  <span class="name">João Fontinha</span>
+  <ul class="affiliations">
+    <li>University of Lisbon (Portugal)</li>
+  </ul>
+  </li>
 
-    <li class="participant">
-        <span class="name">Michał Kudra</span>
-        <span class="affiliation">Uniwersytet Jagielloński (Poland)</span>
-    </li>
-   
+  <li class="participant">
+  <span class="name">Juho Halonen</span>
+  <ul class="affiliations">
+    <li>University of Eastern Finland</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Suprokash Hazra</span>
+  <ul class="affiliations">
+    <li>Mid Sweden University (Sweden)</li>
+  </ul>
+  </li>
+
+
+  <li class="participant">
+  <span class="name">Michał Kudra</span>
+  <ul class="affiliations">
+    <li>Jagiellonian University (Poland)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Wenlong Liu</span>
+  <ul class="affiliations">
+    <li>University of Eastern Finland</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Benjamin Marim de Moura</span>
+  <ul class="affiliations">
+    <li>Mid Sweden University (Sweden)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Atte Pennanen</span>
+  <ul class="affiliations">
+    <li>University of Eastern Finland</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Przemysław Sprus</span>
+  <ul class="affiliations">
+    <li>Jagiellonian University (Poland)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Beno Učakar</span>
+  <ul class="affiliations">
+    <li>The University of Ljubljana (Slovenia)</li>
+    <li>The University of Barcelona (Spain)</li>
+    <li>The Institute of Mathematics, Physics and Mechanics (Slovenia)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Siyu Wang</span>
+  <ul class="affiliations">
+    <li>Fudan University</li>
+    <li>University of Eastern Finland</li>
+  </ul>
+  </li>
+
 </ul>
--->
+
+</body>
