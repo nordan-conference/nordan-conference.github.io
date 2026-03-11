@@ -62,9 +62,9 @@ The list of registered participants for KAUS 2026:
 
     <li class="participant">
         <span class="name">Beno Učakar</span>
-        <span class="affiliation">University of Ljubljana (Slovenia)<br>
-        The University of Barcelona (Spain)<br>
-        The Institute of Mathematics, Physics and Mechanics (Slovenia)</span>
+        <span class="affiliation">University of Ljubljana (Slovenia)</span>
+        <span class="affiliation">The University of Barcelona (Spain)</span>
+        <span class="affiliation">The Institute of Mathematics, Physics and Mechanics (Slovenia)</span>
     </li>
 
     <li class="participant">
