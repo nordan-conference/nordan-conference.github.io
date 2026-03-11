@@ -56,9 +56,16 @@ layout: default
 </style>
 
 
-The list of registered participants for KAUS 2026 (updated on Mar 11, 2026):
+The list of registered participants for Nordan 2026 (updated on Mar 11, 2026):
 
 <ul class="participant-list">
+
+  <li class="participant">
+  <span class="name">Jacob Stordal Christiansen</span>
+  <ul class="affiliations">
+    <li>Lund University (Sweden)</li>
+  </ul>
+  </li>
   
   <li class="participant">
   <span class="name">Setareh Eskandari</span>
@@ -114,6 +121,14 @@ The list of registered participants for KAUS 2026 (updated on Mar 11, 2026):
   <span class="name">Atte Pennanen</span>
   <ul class="affiliations">
     <li>University of Eastern Finland (Finland)</li>
+  </ul>
+  </li>
+
+<li class="participant">
+  <span class="name">Álfheiður Edda Sigurðardóttir</span>
+  <ul class="affiliations">
+   <li>Chalmers University of Technology (Sweden)</li>
+   <li>University of Gothenburg (Sweden)</li>
   </ul>
   </li>
 
