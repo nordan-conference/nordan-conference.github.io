@@ -2,12 +2,9 @@
 layout: kaus-default
 ---
 
- <!--
 
 <style>  
-
-
-    
+ 
     body {
         font-family: "Segoe UI", Roboto, sans-serif;
         background: #f9f9f9;
@@ -32,14 +29,7 @@ layout: kaus-default
         box-shadow: 0 2px 6px rgba(0,0,0,0.08);
     }    
     
-    .participant {
-        display: grid;
-        grid-template-columns: 1fr 2fr; /* two columns */
-        gap: 10px;
-        padding: 12px 18px;
-        border-bottom: 1px solid #ececec;
-        transition: background 0.2s ease;
-    }
+   
      
 
     .participant:last-child {
@@ -66,10 +56,8 @@ layout: kaus-default
         margin-bottom: 2px;
     }
 
- 
 </style>
 
- -->
 
 The list of registered participants for KAUS 2026:
 
