@@ -3,12 +3,14 @@ layout: kaus-default
 ---
 
 <style>
+    <!--
     body {
         font-family: "Segoe UI", Roboto, sans-serif;
         background: #f9f9f9;
         margin: 40px;
         color: #333;
     }
+    -->
 
     h1 {
         font-weight: 300;
