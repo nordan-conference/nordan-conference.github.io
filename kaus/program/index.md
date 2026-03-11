@@ -85,7 +85,7 @@ To see titles and abstracts, click the speakers' names.
         </tr>
         <tr>
             <th></th><th></th><th></th>
-            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+            <th style="font-weight: inherit; padding: 0px 0px 3px 20px">
                 <i>
                     On the geometry of unbounded wandering domains
                 </i>
