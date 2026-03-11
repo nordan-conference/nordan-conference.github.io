@@ -2,11 +2,11 @@
 layout: kaus-default
 ---
 
-
+ <!--
 
 <style>  
 
- <!--
+
     
     body {
         font-family: "Segoe UI", Roboto, sans-serif;
@@ -66,10 +66,10 @@ layout: kaus-default
         margin-bottom: 2px;
     }
 
-  -->
+ 
 </style>
 
-
+ -->
 
 The list of registered participants for KAUS 2026:
 
