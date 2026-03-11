@@ -84,7 +84,7 @@ The list of registered participants for KAUS 2026:
   <li class="participant">
   <span class="name">Juho Halonen</span>
   <ul class="affiliations">
-    <li>University of Eastern Finland</li>
+    <li>University of Eastern Finland (Finland)</li>
   </ul>
   </li>
 
@@ -106,7 +106,7 @@ The list of registered participants for KAUS 2026:
   <li class="participant">
   <span class="name">Wenlong Liu</span>
   <ul class="affiliations">
-    <li>University of Eastern Finland</li>
+    <li>University of Eastern Finland (Finland)</li>
   </ul>
   </li>
 
@@ -120,7 +120,7 @@ The list of registered participants for KAUS 2026:
   <li class="participant">
   <span class="name">Atte Pennanen</span>
   <ul class="affiliations">
-    <li>University of Eastern Finland</li>
+    <li>University of Eastern Finland (Finland)</li>
   </ul>
   </li>
 
@@ -143,8 +143,8 @@ The list of registered participants for KAUS 2026:
   <li class="participant">
   <span class="name">Siyu Wang</span>
   <ul class="affiliations">
-    <li>Fudan University</li>
-    <li>University of Eastern Finland</li>
+    <li>Fudan University (China)</li>
+    <li>University of Eastern Finland (Finland)</li>
   </ul>
   </li>
 
