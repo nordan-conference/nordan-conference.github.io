@@ -62,15 +62,14 @@ Here is the list of participants at KAUS 2026:
 
     <li class="participant">
         <span class="name">Name</span>
-        <span class="affiliation">Affiliation/span>
+        <span class="affiliation">Affiliation</span>
     </li>
 
     <li class="participant">
         <span class="name">Name</span>
-        <span class="affiliation">Affiliation/span>
+        <span class="affiliation">Affiliation</span>
     </li>
    
-
 </ul>
 
 
