@@ -96,6 +96,13 @@ The list of registered participants for Nordan 2026 (updated on Mar 11, 2026):
   </li>
 
   <li class="participant">
+  <span class="name">Janne Gröhn</span>
+  <ul class="affiliations">
+    <li>University of Eastern Finland (Finland)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
   <span class="name">Eggert Karl Hafsteinsson</span>
   <ul class="affiliations">
     <li>Menntaskólinn í Reykjavík (Iceland)</li>
@@ -113,6 +120,20 @@ The list of registered participants for Nordan 2026 (updated on Mar 11, 2026):
   <span class="name">Suprokash Hazra</span>
   <ul class="affiliations">
     <li>Mid Sweden University (Sweden)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Janne Heittokangas</span>
+  <ul class="affiliations">
+    <li>University of Eastern Finland (Finland)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Risto Korhonen</span>
+  <ul class="affiliations">
+    <li>University of Eastern Finland (Finland)</li>
   </ul>
   </li>
 
@@ -153,6 +174,13 @@ The list of registered participants for Nordan 2026 (updated on Mar 11, 2026):
   </li>
 
   <li class="participant">
+  <span class="name">Mikko Malinen</span>
+  <ul class="affiliations">
+    <li>Malinen Research (Finland)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
   <span class="name">Benjamin Marim de Moura</span>
   <ul class="affiliations">
     <li>Mid Sweden University (Sweden)</li>
@@ -185,6 +213,13 @@ The list of registered participants for Nordan 2026 (updated on Mar 11, 2026):
   <span class="name">Tyson Ritter</span>
   <ul class="affiliations">
     <li>University of Stavanger (Norway)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Jouni Rättyä</span>
+  <ul class="affiliations">
+    <li>University of Eastern Finland (Finland)</li>
   </ul>
   </li>
 
