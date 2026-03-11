@@ -19,16 +19,16 @@ layout: kaus-default
     }
 
    
-    .participant-list {
-        max-width: 700px;
-        padding: 0;
-        list-style: none;
-        background: #ffffff;
-        border-radius: 10px;
-        overflow: hidden;
-        box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-    }    
-    
+   
+
+  .participant {
+        display: grid;
+        grid-template-columns: 1fr 2fr; /* two columns */
+        gap: 10px;
+        padding: 12px 18px;
+        border-bottom: 1px solid #ececec;
+        transition: background 0.2s ease;
+    }
    
      
 
