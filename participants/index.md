@@ -60,10 +60,24 @@ The list of registered participants for Nordan 2026 (updated on Mar 11, 2026):
 
 <ul class="participant-list">
 
+<li class="participant">
+  <span class="name">Alexandru Aleman</span>
+  <ul class="affiliations">
+    <li>Lund University (Sweden)</li>
+  </ul>
+  </li>
+
   <li class="participant">
   <span class="name">Jacob Stordal Christiansen</span>
   <ul class="affiliations">
     <li>Lund University (Sweden)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Rafał Czyż</span>
+  <ul class="affiliations">
+    <li>Jagiellonian University (Poland)</li>
   </ul>
   </li>
   
@@ -238,6 +252,20 @@ The list of registered participants for Nordan 2026 (updated on Mar 11, 2026):
   <span class="name">Siyu Wang</span>
   <ul class="affiliations">
     <li>Fudan University (China)</li>
+    <li>University of Eastern Finland (Finland)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Frank Wikström</span>
+  <ul class="affiliations">
+    <li>Lund University (Sweden)</li>
+  </ul>
+  </li>
+  
+  <li class="participant">
+  <span class="name">Fanglei Wu</span>
+  <ul class="affiliations">
     <li>University of Eastern Finland (Finland)</li>
   </ul>
   </li>
