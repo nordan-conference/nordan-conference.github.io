@@ -98,7 +98,7 @@ layout: kaus-default
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p style="text-align: justify; margin: 0;">
-                <strong>Abstract.</strong> In 2021 Boc Thaler showed that any bounded regular open set without holes can be realised as the wandering domain of some entire function. This result was later refined by Martí-Pete, Rempe and Waterman. 
+                <strong style="color: #d3d3d3;">Abstract.</strong> In 2021 Boc Thaler showed that any bounded regular open set without holes can be realised as the wandering domain of some entire function. This result was later refined by Martí-Pete, Rempe and Waterman. 
 The natural question is whether we can obtain a similar result for unbounded sets. 
 Here we run into some technical issues, namely that by just using approximation techniques it is difficult to ensure a function remains injective on an unbounded set. 
 If we instead only care about the approximate shape of a wandering domain, this turns out to not be such a big issue.
