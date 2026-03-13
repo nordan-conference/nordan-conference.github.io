@@ -44,7 +44,7 @@ layout: kaus-default
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #555555;">Abstract.</strong> 
+                <strong style="color: #888888;">Abstract.</strong> 
             </p>
             </th>
         </tr>
@@ -71,7 +71,7 @@ layout: kaus-default
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #555555;">Abstract.</strong> 
+                <strong style="color: #888888;">Abstract.</strong> 
             </p>
             </th>
         </tr>
@@ -98,7 +98,7 @@ layout: kaus-default
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p style="text-align: justify; margin: 0;">
-                <strong style="color: #555555;">Abstract.</strong> In 2021 Boc Thaler showed that any bounded regular open set without holes can be realised as the wandering domain of some entire function. This result was later refined by Martí-Pete, Rempe and Waterman. 
+                <strong style="color: #888888;">Abstract.</strong> In 2021 Boc Thaler showed that any bounded regular open set without holes can be realised as the wandering domain of some entire function. This result was later refined by Martí-Pete, Rempe and Waterman. 
 The natural question is whether we can obtain a similar result for unbounded sets. 
 Here we run into some technical issues, namely that by just using approximation techniques it is difficult to ensure a function remains injective on an unbounded set. 
 If we instead only care about the approximate shape of a wandering domain, this turns out to not be such a big issue.
@@ -141,7 +141,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #555555;">Abstract.</strong> 
+                <strong style="color: #888888;">Abstract.</strong> 
             </p>
             </th>
         </tr>
@@ -168,7 +168,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #555555;">Abstract.</strong> 
+                <strong style="color: #888888;">Abstract.</strong> 
             </p>
             </th>
         </tr>
@@ -195,7 +195,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #555555;">Abstract.</strong> 
+                <strong style="color: #888888;">Abstract.</strong> 
             </p>
             </th>
         </tr>
@@ -230,7 +230,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #555555;">Abstract.</strong> 
+                <strong style="color: #888888;">Abstract.</strong> 
             </p>
             </th>
         </tr>
@@ -257,7 +257,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #555555;">Abstract.</strong> 
+                <strong style="color: #888888;">Abstract.</strong> 
             </p>
             </th>
         </tr>
@@ -284,7 +284,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #555555;">Abstract.</strong> 
+                <strong style="color: #888888;">Abstract.</strong> 
             </p>
             </th>
         </tr>
@@ -319,7 +319,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #555555;">Abstract.</strong> 
+                <strong style="color: #888888;">Abstract.</strong> 
             </p>
             </th>
         </tr>
@@ -346,7 +346,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #555555;">Abstract.</strong> 
+                <strong style="color: #888888;">Abstract.</strong> 
             </p>
             </th>
         </tr>
@@ -373,7 +373,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #555555;">Abstract.</strong> 
+                <strong style="color: #888888;">Abstract.</strong> 
             </p>
             </th>
         </tr>
