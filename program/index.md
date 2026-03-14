@@ -15,13 +15,13 @@ layout: default
     --eating-bg: #ADD8E6; /* light blue for eating */
 
     max-width: 700px;
-    margin: 0 auto;
+    margin: 0;
     padding: 0px;
 <!--
     font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji"; -->
     color: var(--ink);
     background: transparent;
-    line-height: 1.6;
+    line-height: 1;
   }
 
   .mathconf-wrap header {
