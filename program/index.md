@@ -42,7 +42,7 @@ layout: default
     display: inline-flex;
     gap: 10px;
     flex-wrap: wrap;
-    justify-content: left;
+    justify-content: center;
     margin-top: 8px;
     color: var(--muted);
   }
