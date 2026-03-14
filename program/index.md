@@ -63,7 +63,7 @@ layout: default
     background: var(--card);
     border: 1px solid var(--border);
     border-radius: 12px;
-    padding: 16px;
+    padding: 8px;
   }
 
   /* Break highlighting */
