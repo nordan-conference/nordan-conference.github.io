@@ -135,7 +135,7 @@ layout: default
 <!-- ====== Embeddable Conference Program ====== -->
 <div class="mathconf-wrap" role="region" aria-label="Conference Program">
 
- <div style="height:10px;"></div>
+ <div style="height:20px;"></div>
 
  <h2>Friday 22, 2026</h2>
 
@@ -157,7 +157,7 @@ layout: default
   </section>
   </div>
   
- <div style="height:10px;"></div>
+ <div style="height:20px;"></div>
   
 
     <h2>Saturday 23, 2026</h2>
