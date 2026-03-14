@@ -128,7 +128,7 @@ layout: default
 
 <h1>Posters</h1>
 
-<p>All participants are invited to present their work in the form of posters. Posters will remain accessible for viewing throughout the conference. </p>
+<p>All participants are invited to present their work in the form of posters. Posters will remain accessible for viewing throughout the conference. </p><br>
 
 <h1>Conference Program</h1>
 
