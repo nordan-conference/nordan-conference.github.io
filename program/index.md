@@ -12,7 +12,7 @@ layout: default
     --card: #fff;
     --border: #ddd;
     --break-bg: #f2f2f2; /* light gray for breaks */
-    --eating-bg: #F0FFFF; /* light blue for eating */
+    --eating-bg: #E3F1F1; /* light blue for eating */
 
     max-width: 700px;
     margin: 0;
