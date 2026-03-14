@@ -25,7 +25,7 @@ layout: default
   }
 
   .mathconf-wrap header {
-    text-align: center;
+    text-align: left;
     padding: 24px 16px 8px;
   }
   .mathconf-wrap header h1 {
