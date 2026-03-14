@@ -15,9 +15,6 @@
 
 
     .container {
-      max-width: 900px;
-      margin: 0;
-      padding: 0px 10px 0px;
     }
 
     /* Header */
