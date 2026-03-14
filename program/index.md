@@ -124,13 +124,13 @@ layout: default
 
 <h1>Booklets</h1>
 
-<p>Booklets for the Nordan and KAUS 2026 are to be announced later.</p><br>
+<p>Booklets for the Nordan and KAUS 2026 are to be announced later.</p>
 
 <h1>Posters</h1>
 
-<p>All participants are invited to present their work in the form of posters. Posters will remain accessible for viewing throughout the conference. </p><br>
+<p>All participants are invited to present their work in the form of posters. Posters will remain accessible for viewing throughout the conference. </p>
 
-<h1>Conference Program</h1><br>
+<h1>Conference Program</h1>
 
 <!-- ====== Embeddable Conference Program ====== -->
 <div class="mathconf-wrap" role="region" aria-label="Conference Program">
