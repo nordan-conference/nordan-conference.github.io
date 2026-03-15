@@ -208,6 +208,12 @@ The list of registered participants for Nordan 2026 (updated on Mar 11, 2026):
   </ul>
   </li>
 
+<li class="participant">
+  <span class="name">Alexander Rashkovskii</span>
+  <ul class="affiliations">
+    <li>University of Stavanger (Norway)</li>
+  </ul>
+  </li>
   
   <li class="participant">
   <span class="name">Tyson Ritter</span>
