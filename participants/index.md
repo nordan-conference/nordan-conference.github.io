@@ -229,6 +229,14 @@ The list of registered participants for Nordan 2026 (updated on Mar 11, 2026):
   </ul>
   </li>
 
+<li class="participant">
+  <span class="name">Eero Saksman</span>
+  <ul class="affiliations">
+    <li>University of Helsinki (Finland)</li>
+  </ul>
+  </li>
+
+
   <li class="participant">
   <span class="name">Kalm Håkan Samuelsson</span>
   <ul class="affiliations">
