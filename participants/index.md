@@ -56,7 +56,7 @@ layout: default
 </style>
 
 
-The list of registered participants for Nordan 2026 (updated on Mar 16, 2026):
+The list of registered participants for Nordan 2026 (updated on Mar 17, 2026):
 
 <ul class="participant-list">
 
@@ -205,6 +205,13 @@ The list of registered participants for Nordan 2026 (updated on Mar 16, 2026):
   <span class="name">Atte Pennanen</span>
   <ul class="affiliations">
     <li>University of Eastern Finland (Finland)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Antti Perälä</span>
+  <ul class="affiliations">
+    <li>Umeå University (Sweden)</li>
   </ul>
   </li>
 
