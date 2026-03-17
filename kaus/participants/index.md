@@ -56,9 +56,16 @@ layout: kaus-default
 </style>
 
 
-The list of registered participants for KAUS 2026 (updated on Mar 11, 2026):
+The list of registered participants for KAUS 2026 (updated on Mar 17, 2026):
 
 <ul class="participant-list">
+
+<li class="participant">
+  <span class="name">Anand Chavan</span>
+  <ul class="affiliations">
+    <li>Jagiellonian University (Poland)</li>
+  </ul>
+  </li>
   
   <li class="participant">
   <span class="name">Setareh Eskandari</span>
