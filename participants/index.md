@@ -68,6 +68,13 @@ The list of registered participants for Nordan 2026 (updated on Mar 17, 2026):
   </li>
 
   <li class="participant">
+  <span class="name">Anand Chavan</span>
+  <ul class="affiliations">
+    <li>Jagiellonian University (Poland)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
   <span class="name">Jacob Stordal Christiansen</span>
   <ul class="affiliations">
     <li>Lund University (Sweden)</li>
