@@ -193,6 +193,13 @@ The list of registered participants for Nordan 2026 (updated on Mar 18, 2026):
   </ul>
   </li>
 
+<li class="participant">
+  <span class="name">Benedikt Magnússon</span>
+  <ul class="affiliations">
+    <li>Science Institute, University of Iceland (Iceland)</li>
+  </ul>
+  </li>
+
   <li class="participant">
   <span class="name">Mikko Malinen</span>
   <ul class="affiliations">
