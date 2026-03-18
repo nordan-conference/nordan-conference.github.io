@@ -144,6 +144,12 @@ The list of registered participants for Nordan 2026 (updated on Mar 18, 2026):
   </ul>
   </li>
 
+  <li class="participant">
+  <span class="name">Mika Koskenoja</span>
+  <ul class="affiliations">
+    <li>University of Helsinki (Finland)</li>
+  </ul>
+  </li>
 
   <li class="participant">
   <span class="name">Michał Kudra</span>
