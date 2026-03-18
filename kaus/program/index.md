@@ -268,7 +268,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th>
                 <input type="checkbox" id="talk9">
                 <label for="talk9">
-                    Talk 9
+                    Setareh Eskandari
                 </label>
             </th>
         </tr>
