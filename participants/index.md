@@ -56,7 +56,7 @@ layout: default
 </style>
 
 
-The list of registered participants for Nordan 2026 (updated on Mar 17, 2026):
+The list of registered participants for Nordan 2026 (updated on Mar 18, 2026):
 
 <ul class="participant-list">
 
@@ -163,6 +163,13 @@ The list of registered participants for Nordan 2026 (updated on Mar 17, 2026):
   <span class="name">Aleksandra Le</span>
   <ul class="affiliations">
     <li>Lund University (Sweden)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Nan Li</span>
+  <ul class="affiliations">
+    <li>Qilu Normal University (China)</li>
   </ul>
   </li>
 
