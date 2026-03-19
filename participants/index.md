@@ -56,7 +56,7 @@ layout: default
 </style>
 
 
-The list of registered participants for Nordan 2026 (updated on Mar 18, 2026):
+The list of registered participants for Nordan 2026 (updated on Mar 19, 2026):
 
 <ul class="participant-list">
 
@@ -134,6 +134,13 @@ The list of registered participants for Nordan 2026 (updated on Mar 18, 2026):
   <span class="name">Janne Heittokangas</span>
   <ul class="affiliations">
     <li>University of Eastern Finland (Finland)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Björn Ivarsson</span>
+  <ul class="affiliations">
+    <li>Aalto University (Finland)</li>
   </ul>
   </li>
 
