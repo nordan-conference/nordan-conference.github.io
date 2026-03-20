@@ -152,6 +152,14 @@ The list of registered participants for Nordan 2026 (updated on Mar 19, 2026):
   </li>
 
   <li class="participant">
+  <span class="name">Marta Kosek</span>
+  <ul class="affiliations">
+    <li>Jagiellonian University (Poland)</li>
+  </ul>
+  </li>
+
+
+  <li class="participant">
   <span class="name">Mika Koskenoja</span>
   <ul class="affiliations">
     <li>University of Helsinki (Finland)</li>
