@@ -132,6 +132,14 @@ The list of registered participants for KAUS 2026 (updated on Mar 17, 2026):
   </li>
 
   <li class="participant">
+  <span class="name">Álfheiður Edda Sigurðardóttir</span>
+  <ul class="affiliations">
+   <li>Chalmers University of Technology (Sweden)</li>
+   <li>University of Gothenburg (Sweden)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
   <span class="name">Przemysław Sprus</span>
   <ul class="affiliations">
     <li>Jagiellonian University (Poland)</li>
