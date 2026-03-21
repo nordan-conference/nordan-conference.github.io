@@ -56,7 +56,7 @@ layout: default
 </style>
 
 
-The list of registered participants for Nordan 2026 (updated on Mar 19, 2026):
+The list of registered participants for Nordan 2026 (updated on Mar 21, 2026):
 
 <ul class="participant-list">
 
@@ -233,6 +233,13 @@ The list of registered participants for Nordan 2026 (updated on Mar 19, 2026):
   <span class="name">Mitja Nedic</span>
   <ul class="affiliations">
     <li>Jönköping University (Sweden)</li>
+  </ul>
+  </li>
+
+   <li class="participant">
+  <span class="name">Wills Nguyen</span>
+  <ul class="affiliations">
+    <li>Institute of Mathematics, Physics and Mechanics (Slovenia)</li>
   </ul>
   </li>
 
