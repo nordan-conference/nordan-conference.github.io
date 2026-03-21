@@ -56,7 +56,7 @@ layout: kaus-default
 </style>
 
 
-The list of registered participants for KAUS 2026 (updated on Mar 17, 2026):
+The list of registered participants for KAUS 2026 (updated on Mar 21, 2026):
 
 <ul class="participant-list">
 
@@ -121,6 +121,13 @@ The list of registered participants for KAUS 2026 (updated on Mar 17, 2026):
   <span class="name">Benjamin Marim de Moura</span>
   <ul class="affiliations">
     <li>Mid Sweden University (Sweden)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Wills Nguyen</span>
+  <ul class="affiliations">
+    <li>Institute of Mathematics, Physics and Mechanics (Slovenia)</li>
   </ul>
   </li>
 
