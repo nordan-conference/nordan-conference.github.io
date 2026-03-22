@@ -191,7 +191,7 @@ layout: default
       </div>
       <div class="mathconf-divider"></div>
       <div class="mathconf-abstract">
-        Abstract text
+        <u>Abstract.</u> 
       </div>
     </section>
 
@@ -213,7 +213,7 @@ layout: default
       </div>
       <div class="mathconf-divider"></div>
       <div class="mathconf-abstract">
-        Abstract text
+        <u>Abstract.</u> 
       </div>
       </section>
 
@@ -227,7 +227,7 @@ layout: default
       </div>
       <div class="mathconf-divider"></div>
       <div class="mathconf-abstract">
-        Abstract text
+        <u>Abstract.</u> 
       </div>
       </section>
 
@@ -249,7 +249,7 @@ layout: default
       </div>
       <div class="mathconf-divider"></div>
       <div class="mathconf-abstract">
-        Abstract text
+        <u>Abstract.</u> 
       </div>
       </section>
 
@@ -300,7 +300,7 @@ layout: default
       </div>
       <div class="mathconf-divider"></div>
       <div class="mathconf-abstract">
-        Abstract text
+        <u>Abstract.</u> 
       </div>
     </section>
 
@@ -322,7 +322,7 @@ layout: default
       </div>
       <div class="mathconf-divider"></div>
       <div class="mathconf-abstract">
-        Abstract text
+        <u>Abstract.</u> 
       </div>
       </section>
 
@@ -336,7 +336,7 @@ layout: default
       </div>
       <div class="mathconf-divider"></div>
       <div class="mathconf-abstract">
-        Abstract text
+        <u>Abstract.</u> 
       </div>
       </section>
 
