@@ -349,14 +349,21 @@ layout: default
          <!-- Talk 8 -->
     <section class="mathconf-slot" aria-labelledby="t8-title">
       <div class="mathconf-time">14:00 – 14:40</div>
-      <h2 id="t8-title">Title</h2>
+      <h2 id="t8-title">Images and preimages of polynomial selfmaps</h2>
       <div class="mathconf-speaker">
 	<span class="name">Tuyen Trung Truong</span>
 	<span class="affil">University of Oslo (Norway)</span>
       </div>
       <div class="mathconf-divider"></div>
       <div class="mathconf-abstract">
-        Abstract text
+	  <p>
+        Properties of images and preimages of a polynomial selfmap $P:K^n\rightarrow K^n$, here $K$ is $\mathbb{R}$ or $\mathbb{C}$, are useful for many questions in analysis and algebra. In this talk I will present 2 main results: </p>
+<p>
+- Result 1: For any algebraic subvariety $Z\subset \mathbb{C}^N$ of codimension at least $2$, there is a subvariety $W\subset \mathbb{C}^N$ birational to $Z$ and a surjective  algebraic map $F:\mathbb{C}^N\rightarrow \mathbb{C}^N\backslash W$. This makes Chevalley's theorem more explicit. This is joint work with Viktor Balch Barth.
+</p>
+<p>
+- Result 2: There are linear algebra criteria to check if a polynomial map $P$ is proper/non-proper.  
+</p>
       </div>
       </section>
 
