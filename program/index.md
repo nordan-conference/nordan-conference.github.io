@@ -133,22 +133,14 @@ layout: default
 
 <h1>Conference Program</h1>
 
-<div class="mathconf-meta" aria-label="Event Details">
-      <span class="mathconf-pill" aria-label="Venue">
-	  <button onclick="location.href='#fri-section'">
-    Jump to Friday!
-</button>
-	  </span>
-    </div>
-
 <button onclick="location.href='#fri-section'">
-    Jump to Friday!
+    Jump to Friday
 </button>
 <button onclick="location.href='#sat-section'">
-    Jump to Saturday!
+    Jump to Saturday
 </button>
 <button onclick="location.href='#sun-section'">
-    Jump to Sunday!
+    Jump to Sunday
 </button>
 
 
