@@ -10,7 +10,7 @@ layout: default
     --muted: #555;
     --bg: #fff;
     --card: #fff;
-    --border: #E3F1F1; <!-- #ddd; -->
+    --border: #ddd;
     --break-bg: #f2f2f2; /* light gray for breaks */
     --eating-bg: #E3F1F1; /* light blue for eating */
 
@@ -105,7 +105,7 @@ layout: default
   }
 
   .mathconf-divider {
-    height: 2px;
+    height: 1px;
     background: linear-gradient(90deg, transparent, var(--border), transparent);
     margin: 12px 0;
   }
