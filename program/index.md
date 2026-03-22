@@ -133,13 +133,45 @@ layout: default
 
 <h1>Conference Program</h1>
 
-<button onclick="location.href='#fri-section'">
+<button onclick="location.href='#fri-section'" style="
+            background-color: #E3F1F1;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 6px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: 0.2s ease;
+        "
+        onmouseover="this.style.backgroundColor='#d3e6e6'"
+        onmouseout="this.style.backgroundColor='#E3F1F1'">
     Jump to Friday
 </button>
-<button onclick="location.href='#sat-section'">
+<button onclick="location.href='#sat-section'"
+style="
+            background-color: #E3F1F1;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 6px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: 0.2s ease;
+        "
+        onmouseover="this.style.backgroundColor='#d3e6e6'"
+        onmouseout="this.style.backgroundColor='#E3F1F1'">
     Jump to Saturday
 </button>
-<button onclick="location.href='#sun-section'">
+<button onclick="location.href='#sun-section'"
+style="
+            background-color: #E3F1F1;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 6px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: 0.2s ease;
+        "
+        onmouseover="this.style.backgroundColor='#d3e6e6'"
+        onmouseout="this.style.backgroundColor='#E3F1F1'">
     Jump to Sunday
 </button>
 
