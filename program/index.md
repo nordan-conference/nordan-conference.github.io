@@ -134,7 +134,7 @@ layout: default
 <h1>Conference Program</h1>
 
 <button onclick="location.href='#fri-section'" style="
-            background-color: #E3F1F1;
+            background-color: #FFDDD3;
             border: none;
             padding: 12px 24px;
             border-radius: 6px;
@@ -148,7 +148,7 @@ layout: default
 </button>
 <button onclick="location.href='#sat-section'"
 style="
-            background-color: #E3F1F1;
+            background-color: #FFDDD3;
             border: none;
             padding: 12px 24px;
             border-radius: 6px;
@@ -162,7 +162,7 @@ style="
 </button>
 <button onclick="location.href='#sun-section'"
 style="
-            background-color: #E3F1F1;
+            background-color: #FFDDD3;
             border: none;
             padding: 12px 24px;
             border-radius: 6px;
