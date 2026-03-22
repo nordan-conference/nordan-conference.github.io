@@ -56,7 +56,7 @@ layout: default
 </style>
 
 
-The list of registered participants for Nordan 2026 (updated on Mar 21, 2026):
+The list of registered participants for Nordan 2026 (updated on Mar 22, 2026):
 
 <ul class="participant-list">
 
@@ -350,6 +350,13 @@ The list of registered participants for Nordan 2026 (updated on Mar 21, 2026):
     <li>University of Ljubljana (Slovenia)</li>
     <li>University of Barcelona (Spain)</li>
     <li>Institute of Mathematics, Physics and Mechanics (Slovenia)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Jani Virtanen</span>
+  <ul class="affiliations">
+    <li>University of Eastern Finland (Finland)</li>
   </ul>
   </li>
 
