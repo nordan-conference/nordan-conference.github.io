@@ -14,7 +14,7 @@ layout: default
     --break-bg: #f2f2f2; /* light gray for breaks */
     --eating-bg: #E3F1F1; /* light blue for eating */
 
-    max-width: 700px;
+    max-width: 800px;
     margin: 0;
     padding: 0px;
 <!--
