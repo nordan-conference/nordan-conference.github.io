@@ -97,7 +97,7 @@ layout: default
     align-items: baseline;
   }
   .mathconf-speaker .name {
-    font-weight: 700;
+    font-weight: 500;
   }
   .mathconf-speaker .affil {
     color: var(--muted);
