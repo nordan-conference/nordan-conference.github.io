@@ -357,7 +357,7 @@ layout: default
       <div class="mathconf-divider"></div>
       <div class="mathconf-abstract">
 	  <p>
-        Properties of images and preimages of a polynomial selfmap $P:K^n\rightarrow K^n$, here $K$ is $\mathbb{R}$ or $\mathbb{C}$, are useful for many questions in analysis and algebra. In this talk I will present 2 main results: </p>
+        <strong>Abstract.</strong> Properties of images and preimages of a polynomial selfmap $P:K^n\rightarrow K^n$, here $K$ is $\mathbb{R}$ or $\mathbb{C}$, are useful for many questions in analysis and algebra. In this talk I will present 2 main results: </p>
 <p>
 - Result 1: For any algebraic subvariety $Z\subset \mathbb{C}^N$ of codimension at least $2$, there is a subvariety $W\subset \mathbb{C}^N$ birational to $Z$ and a surjective  algebraic map $F:\mathbb{C}^N\rightarrow \mathbb{C}^N\backslash W$. This makes Chevalley's theorem more explicit. This is joint work with Viktor Balch Barth.
 </p>
