@@ -389,6 +389,13 @@ The list of registered participants for Nordan 2026 (updated on Mar 22, 2026):
   </ul>
   </li>
 
+<li class="participant">
+  <span class="name">Fani Xerakia</span>
+  <ul class="affiliations">
+    <li>University of Vienna (Austria)</li>
+  </ul>
+  </li>
+
   <li class="participant">
   <span class="name">Mingchen Xia</span>
   <ul class="affiliations">
