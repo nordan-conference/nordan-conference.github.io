@@ -107,7 +107,7 @@ layout: default
   .mathconf-divider {
     height: 1px;
     background: linear-gradient(90deg, transparent, var(--border), transparent);
-    margin: 12px 0;
+    margin: 16px 0;
   }
 
   .mathconf-abstract {
