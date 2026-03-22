@@ -56,7 +56,7 @@ layout: kaus-default
 </style>
 
 
-The list of registered participants for KAUS 2026 (updated on Mar 21, 2026):
+The list of registered participants for KAUS 2026 (updated on Mar 22, 2026):
 
 <ul class="participant-list">
 
@@ -167,6 +167,13 @@ The list of registered participants for KAUS 2026 (updated on Mar 21, 2026):
   <ul class="affiliations">
     <li>Fudan University (China)</li>
     <li>University of Eastern Finland (Finland)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
+  <span class="name">Fani Xerakia</span>
+  <ul class="affiliations">
+    <li>University of Vienna (Austria)</li>
   </ul>
   </li>
 
