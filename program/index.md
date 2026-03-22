@@ -133,12 +133,24 @@ layout: default
 
 <h1>Conference Program</h1>
 
+
+<button onclick="location.href='#fri-section'">
+    Jump to Friday!
+</button>
+<button onclick="location.href='#sat-section'">
+    Jump to Saturday!
+</button>
+<button onclick="location.href='#sun-section'">
+    Jump to Sunday!
+</button>
+
+
 <!-- ====== Embeddable Conference Program ====== -->
 <div class="mathconf-wrap" role="region" aria-label="Conference Program">
 
  <div style="height:10px;"></div>
 
- <h2>Friday 22, 2026</h2>
+ <h2 id="fri-section">Friday 22, 2026</h2>
 
   <!--
     <div class="mathconf-meta" aria-label="Event Details">
@@ -150,7 +162,6 @@ layout: default
 
   <div class="mathconf-schedule">
 
-    <!-- Excursion (highlighted) -->
     <section class="mathconf-slot mathconf-eating" aria-labelledby="lunch-title">
   <div class="mathconf-time">19:00 –</div>
   <h3 id="coffee-title">Welcome dinner</h3>
@@ -161,7 +172,7 @@ layout: default
  <div style="height:30px;"></div>
   
 
-    <h2>Saturday 23, 2026</h2>
+    <h2 id="sat-section">Saturday 23, 2026</h2>
 
   <!--
     <div class="mathconf-meta" aria-label="Event Details">
@@ -253,7 +264,6 @@ layout: default
       </div>
       </section>
 
-        <!-- Excursion (highlighted) -->
     <section class="mathconf-slot mathconf-break" aria-labelledby="lunch-title">
       <div class="mathconf-time">15:00 – 20:00</div>
       <h3 id="coffee-title">Excursion to Koli National Park</h3>
@@ -270,7 +280,7 @@ layout: default
 
  <div style="height:30px;"></div>
 
-        <h2>Sunday 24, 2026</h2>
+        <h2 id="sun-section">Sunday 24, 2026</h2>
 
 <!--
     <div class="mathconf-meta" aria-label="Event Details">
