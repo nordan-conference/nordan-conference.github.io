@@ -303,7 +303,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th>
                 <input type="checkbox" id="talk10">
                 <label for="talk10">
-                    Talk 10
+                    Fani Xerakia
                 </label>
             </th>
         </tr>
