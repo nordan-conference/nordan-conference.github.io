@@ -153,6 +153,13 @@ The list of registered participants for KAUS 2026 (updated on Mar 22, 2026):
   </ul>
   </li>
 
+   <li class="participant">
+  <span class="name">Johannes Testorf</span>
+  <ul class="affiliations">
+    <li>Norwegian University of Science and Technology (Norway)</li>
+  </ul>
+  </li>
+
   <li class="participant">
   <span class="name">Beno Učakar</span>
   <ul class="affiliations">
