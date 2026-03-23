@@ -133,6 +133,7 @@ layout: default
 
 <h1>Conference Program</h1>
 
+<!--
 <button onclick="location.href='#fri-section'" style="
             background-color: #FFDDD3;
             border: none;
@@ -145,7 +146,7 @@ layout: default
         onmouseover="this.style.backgroundColor='#d3e6e6'"
         onmouseout="this.style.backgroundColor='#FFDDD3'">
     Jump to Friday
-</button>
+</button> -->
 <button onclick="location.href='#sat-section'"
 style="
             background-color: #FFDDD3;
