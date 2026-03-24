@@ -104,6 +104,13 @@ The list of registered participants for KAUS 2026 (updated on Mar 22, 2026):
   </li>
 
   <li class="participant">
+  <span class="name">Maarit Kärnä</span>
+  <ul class="affiliations">
+    <li>University of Eastern Finland (Finland)</li>
+  </ul>
+  </li>
+
+  <li class="participant">
   <span class="name">Aleksandra Le</span>
   <ul class="affiliations">
     <li>Lund University (Sweden)</li>
