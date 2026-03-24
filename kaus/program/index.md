@@ -22,6 +22,33 @@ layout: kaus-default
     </H4>
     <table>
         <tr>
+            <th style="font-weight: inherit"> 08:30 </th>
+            <th style="font-weight: inherit"> - </th>
+            <th style="font-weight: inherit"> 08:55 </th>
+            <th>
+                <input type="checkbox" id="talk0">
+                <label for="talk0">
+                    Siyu Wang
+                </label>
+            </th>
+        </tr>
+        <tr>
+            <th></th><th></th><th></th>
+            <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
+                <i>
+                    Title
+                </i>
+            </th>
+        </tr>
+        <tr>
+            <th></th><th></th><th></th>
+            <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
+            <p>
+                <strong style="color: #888888;">Abstract.</strong> 
+            </p>
+            </th>
+        </tr>
+<tr>
             <th style="font-weight: inherit"> 09:00 </th>
             <th style="font-weight: inherit"> - </th>
             <th style="font-weight: inherit"> 09:25 </th>
