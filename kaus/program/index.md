@@ -357,7 +357,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th>
                 <input type="checkbox" id="talk11">
                 <label for="talk11">
-                    Johannes Testorf
+                    Atte Pennanen
                 </label>
             </th>
         </tr>
@@ -411,7 +411,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th>
                 <input type="checkbox" id="talk13">
                 <label for="talk13">
-                    Atte Pennanen
+                    Johannes Testorf
                 </label>
             </th>
         </tr>
