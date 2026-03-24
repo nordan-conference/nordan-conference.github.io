@@ -4,15 +4,13 @@ layout: default
 
 # Registration
 
-Registration is closed.
-
 <!--
 All participants are required to complete the registration form no later than March 23, 2026:
 
 <a href="https://registration.contio.fi/uef/Registration/Login?id=10171-T_10171-11706">registration form</a>
 -->
 
-For a list of registered participants, see [Participants](https://nordan-conference.github.io/participants/) subpage.
+Registration is closed. For a list of registered participants, see [Participants](https://nordan-conference.github.io/participants/) subpage.
 
 Participants accompanied by additional persons are kindly requested to contact the organizers in advance to coordinate accommodation and confirm any related excursion arrangements.
 
