@@ -218,7 +218,7 @@ The list of registered participants for Nordan 2026 (updated on Mar 24, 2026):
 
 
  <li class="participant">
-  <span class="name">Annemarie Luger/span>
+  <span class="name">Annemarie Luger</span>
   <ul class="affiliations">
     <li>Stockholm University (Sweden)</li>
   </ul>
