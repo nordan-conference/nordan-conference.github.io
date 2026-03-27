@@ -23,11 +23,14 @@ The easiest way to reach Joensuu is by air. On May 22, Finnair offers a direct f
 </style>
 
 <div class="remark-box">
+  <p>
   <strong>Remark:</strong> There has been an update to how the airport bus service operates in Joensuu.
 Route 4 will now be extended from Onttola to Joensuu Airport on nearly all departures. In addition, Route 6 will serve passengers arriving on flight AY349 and departing on flight AY350. Please note that Route 4 operates strictly according to its published timetable and will not adjust to changes in flight schedules. Timetables can be found in the 
-  <a href="https://joensuu.digitransit.fi/?locale=en">Journey Planner</a>.<br><br>
-
+  <a href="https://joensuu.digitransit.fi/?locale=en">Journey Planner</a>.
+</p>
+  <p>
 Unfortunately, the revised schedules mean that there are no bus connections from the city centre to Joensuu Airport early enough for the flight departing at 05:30 on Monday, 25 May. To address this, we will arrange a shared taxi. More information will be provided later.
+    </p>
 </div>
 
 <!--Upon arrival, a public airport bus (operated by Länsilinjat) provides transportation to the city center, stopping at Koskikatu I. The bus departs approximately 20 minutes after each landing, and will wait for delayed flights for up to 45 minutes. Tickets can be purchased onboard using cash or card.
