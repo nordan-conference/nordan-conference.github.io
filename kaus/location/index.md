@@ -5,7 +5,7 @@ layout: kaus-default
 ## Traveling to and from Joensuu
 Finnair has updated the flight schedule for the Helsinki–Joensuu–Helsinki route. The travel details below reflect the situation as of Feb 14, 2026. For the latest schedules and booking details, please visit the [Finnair](https://www.finnair.com) website.
 
-The easiest way to reach Joensuu is by air. On May 22, Finnair offers a direct flight from Helsinki to Joensuu, departing at 17:00 and arriving at 18:05. For return travel, there are two convenient flight options via Finnair:
+The easiest way to reach Joensuu is by air. On May 22, Finnair offers a direct flight from Helsinki to Joensuu, departing at 17:00 and arriving at 18:05. For return trip from Joensuu to Helsinki, there are two convenient flight options via Finnair:
 - Sunday, May 24, departing from Joensuu at 17:55. This flight allows connection to Stockholm (arrival at 20:25).
 - Monday, May 25, departing from Joensuu at 05:30. This early flight connects to Stockholm (arrival at 07:15), as well as Oslo and Reykjavík (arrival at 07:50).
 
