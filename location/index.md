@@ -29,7 +29,7 @@ Route 4 will now be extended from Onttola to Joensuu Airport on nearly all depar
   <a href="https://joensuu.digitransit.fi/?locale=en">Journey Planner</a>.
 </p>
   <p>
-Unfortunately, the revised schedules mean that there are no bus connections from the city centre to Joensuu Airport early enough for the flight departing at 05:30 on Monday, 25 May. To address this, we will arrange a shared taxi. More information will be provided later.
+Unfortunately, the revised schedules mean that there are no bus connections from the city centre to Joensuu Airport early enough for the flight departing at 05:30 on Monday, May 25. To address this, we will arrange a shared taxi. More information will be provided later.
     </p>
 </div>
 
