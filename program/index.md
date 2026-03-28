@@ -195,7 +195,7 @@ style="
   <div class="mathconf-schedule">
 
     <section class="mathconf-slot mathconf-eating" aria-labelledby="lunch-title">
-  <div class="mathconf-time">19:00 –</div>
+  <div class="mathconf-time">20:00 –</div>
   <h3 id="coffee-title">Welcome dinner</h3>
   <p>Dinner is served at the Scandic Joensuu Hotel.</p>
   </section>
