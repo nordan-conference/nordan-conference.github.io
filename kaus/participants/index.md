@@ -135,6 +135,7 @@ The list of registered participants for KAUS 2026 (updated on Mar 22, 2026):
   <span class="name">Wills Nguyen</span>
   <ul class="affiliations">
     <li>Institute of Mathematics, Physics and Mechanics (Slovenia)</li>
+   <li>University of Ljubljana (Slovenia)</li>
   </ul>
   </li>
 
