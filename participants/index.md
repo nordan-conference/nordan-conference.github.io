@@ -399,13 +399,15 @@ The list of registered participants for Nordan 2026 (updated on Mar 24, 2026):
     <li>Lund University (Sweden)</li>
   </ul>
   </li>
-  
+
+  <!--
   <li class="participant">
   <span class="name">Fanglei Wu</span>
   <ul class="affiliations">
     <li>University of Eastern Finland (Finland)</li>
   </ul>
   </li>
+  -->
 
   <li class="participant">
   <span class="name">Elizabeth Wulcan</span>
