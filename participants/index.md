@@ -56,7 +56,7 @@ layout: default
 </style>
 
 
-The list of registered participants for Nordan 2026 (updated on Mar 24, 2026):
+The list of registered participants for Nordan 2026 (updated on Mar 31, 2026):
 
 <ul class="participant-list">
 
