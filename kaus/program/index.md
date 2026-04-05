@@ -117,7 +117,7 @@ layout: kaus-default
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
-                    On the geometry of unbounded wandering domains
+                    <strong style="color: #888888;">Title. </strong> On the geometry of unbounded wandering domains
                 </i>
             </th>
         </tr>
