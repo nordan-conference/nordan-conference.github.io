@@ -392,7 +392,8 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
-                    On the existence of meromorphic solutions of the complex Schrödinger equation with a $Q$-shift
+                    On the existence of meromorphic solutions of the complex Schrödinger equation with a $Q$-shift<br>
+                    Joint work with R.~Korhonen.
                 </i>
             </th>
         </tr>
@@ -400,7 +401,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #888888;">Abstract. </strong> In this talk, we discuss a class of complex Schr\"{o}dinger equation with a $q$-difference term:
+                <strong style="color: #888888;">Abstract. </strong> In this talk, we discuss a class of complex Schrödinger equation with a $q$-difference term:
 \begin{align}\tag{†}\label{dagger}
 f'(z) = a(z)f(qz) + R(z, f(z)), \quad R(z, f(z)) = \frac{P(z, f(z))}{Q(z, f(z))},
 \end{align}
