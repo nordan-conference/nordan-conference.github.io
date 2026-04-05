@@ -392,7 +392,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
-                    Title
+                    On the existence of meromorphic solutions of the complex Schr\"{o}dinger equation with a $Q$-shift
                 </i>
             </th>
         </tr>
@@ -400,7 +400,13 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #888888;">Abstract.</strong> 
+                <strong style="color: #888888;">Abstract. In this talk, we discuss a class of complex Schr\"{o}dinger equation with a $q$-difference term:
+\begin{align}\tag{†}\label{dagger}
+f'(z) = a(z)f(qz) + R(z, f(z)), \quad R(z, f(z)) = \frac{P(z, f(z))}{Q(z, f(z))},
+\end{align}
+where $a(z) \not\equiv 0$ is a small meromorphic function with respect to $f(z)$, and all the coefficient functions of $R(z, f(z))$ are also small meromorphic functions with respect to $f(z)$. 
+We assume that $q\in\mathbb{C}\setminus \left \{ 0,-1,1 \right \}  $ and that $R(z, f(z))$ is an irreducible rational function in both $f(z)$ and $z$.
+We obtain some necessary conditions for \eqref{dagger} to have meromorphic solutions of zero order and non-constant entire solutions, respectively. In particular, we prove the existence of entire solutions in many cases, study their number, and further investigate the local and global meromorphic solutions to \eqref{dagger}. Additionally, we consider the possible forms of the meromorphic solutions to \eqref{dagger} in certain conditions and examine exponential polynomials as possible solutions of \eqref{dagger}. </strong> 
             </p>
             </th>
         </tr>
