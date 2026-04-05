@@ -392,7 +392,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
-                    On the existence of meromorphic solutions of the complex Schrödinger equation with a $Q$-shift<br>
+                    <strong style="color: #888888;">Title. </strong> On the existence of meromorphic solutions of the complex Schrödinger equation with a $Q$-shift<br>
                     Joint work with R.~Korhonen.
                 </i>
             </th>
