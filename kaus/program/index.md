@@ -249,7 +249,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
-                    Insight into Bellman Algorithm<br>
+                    <strong style="color: #888888;">Title. </strong> Insight into Bellman Algorithm<br>
                     Joint work with F.Wikström.
                 </i>
             </th>
@@ -267,7 +267,7 @@ condition. For the construction of the aforementioned linear elliptic
 PDEs, Bellman principle was utilized as it relates non-linear determi-
 nant of a matrix to its linear trace.
             </p>
-                <p style="text-align: justify; margin: 0;">
+                <p style="text-align: justify; text-indent: 2em; margin: 0;">
 In this talk, I will briefly introduce the algorithm and numerical re-
 sults in order to mainly focus on presenting the proof of convergence
 which explains the numerical observations and illuminates other inter-
