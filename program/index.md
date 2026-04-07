@@ -114,6 +114,7 @@ layout: default
     margin-top: 8px;
     padding: 10px 12px;
 	padding-left: 20px;
+    text-align: justify;
     <!--border-left: 3px solid #000;-->
     background: #fafafa;
     border-radius: 8px;
