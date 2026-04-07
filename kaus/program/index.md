@@ -249,15 +249,29 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
-                    Title
+                    Insight into Bellman Algorithm<br>
+                    Joint work with F.Wikström.
                 </i>
             </th>
         </tr>
         <tr>
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-            <p>
+            <p style="text-align: justify; margin: 0;">
                 <strong style="color: #888888;">Abstract.</strong> 
+                Bellman algorithm is a recently developed algorithm by me
+and my supervisor. It solves a fully non-linear elliptic Monge-Ampere
+equation with a Dirichlet boundary condition by approximating the
+solution with solutions to linear elliptic PDEs with the same boundary
+condition. For the construction of the aforementioned linear elliptic
+PDEs, Bellman principle was utilized as it relates non-linear determi-
+nant of a matrix to its linear trace.
+            </p>
+                <p style="text-align: justify; margin: 0;">
+In this talk, I will briefly introduce the algorithm and numerical re-
+sults in order to mainly focus on presenting the proof of convergence
+which explains the numerical observations and illuminates other inter-
+esting aspects of behaviour of the method.
             </p>
             </th>
         </tr>
