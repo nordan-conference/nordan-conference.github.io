@@ -264,14 +264,11 @@ and my supervisor. It solves a fully non-linear elliptic Monge-Ampere
 equation with a Dirichlet boundary condition by approximating the
 solution with solutions to linear elliptic PDEs with the same boundary
 condition. For the construction of the aforementioned linear elliptic
-PDEs, Bellman principle was utilized as it relates non-linear determi-
-nant of a matrix to its linear trace.
+PDEs, Bellman principle was utilized as it relates non-linear determinant of a matrix to its linear trace.
             </p>
                 <p style="text-align: justify; text-indent: 2em; margin: 0;">
-In this talk, I will briefly introduce the algorithm and numerical re-
-sults in order to mainly focus on presenting the proof of convergence
-which explains the numerical observations and illuminates other inter-
-esting aspects of behaviour of the method.
+In this talk, I will briefly introduce the algorithm and numerical results in order to mainly focus on presenting the proof of convergence
+which explains the numerical observations and illuminates other interesting aspects of behaviour of the method.
             </p>
             </th>
         </tr>
