@@ -235,7 +235,8 @@ style="
       </div>
       <div class="mathconf-divider"></div>
       <div class="mathconf-abstract">
-        <u>Abstract.</u> Br\"{u}ck's conjecture is as follows:
+	  <p>
+        <u>Abstract.</u> Br\"{u}ck's conjecture is as follows:</p>
 <p>
 <strong>Conjecture. </strong><em>
 Let $f$ be a non-constant entire function with hyper-order $\rho_{2}(f) \not\in \mathbb{N}\cup \{\infty\}$. If $f$ and $f'$ share a finite value $\alpha$ CM, resp. a suitable meromorphic function $\alpha$, then there exists $ c \in \mathbb{C}\setminus\{0\}$ such that
