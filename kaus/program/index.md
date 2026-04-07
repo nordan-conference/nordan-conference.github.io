@@ -44,7 +44,7 @@ layout: kaus-default
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #888888;">Abstract.</strong> 
+                <strong style="color: #4aa3b6;">Abstract.</strong> 
             </p>
             </th>
         </tr>
@@ -71,7 +71,7 @@ layout: kaus-default
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #888888;">Abstract.</strong> 
+                <strong style="color: #4aa3b6;">Abstract.</strong> 
             </p>
             </th>
         </tr>
@@ -98,7 +98,7 @@ layout: kaus-default
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #888888;">Abstract.</strong> 
+                <strong style="color: #4aa3b6;">Abstract.</strong> 
             </p>
             </th>
         </tr>
@@ -117,7 +117,7 @@ layout: kaus-default
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
-                    <strong style="color: #888888;">Title. </strong> On the geometry of unbounded wandering domains
+                    <strong style="color: #4aa3b6;">Title. </strong> On the geometry of unbounded wandering domains
                 </i>
             </th>
         </tr>
@@ -125,7 +125,7 @@ layout: kaus-default
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p style="text-align: justify; margin: 0;">
-                <strong style="color: #888888;">Abstract.</strong> In 2021 Boc Thaler showed that any bounded regular open set without holes can be realised as the wandering domain of some entire function. This result was later refined by Martí-Pete, Rempe and Waterman. 
+                <strong style="color: #4aa3b6;">Abstract.</strong> In 2021 Boc Thaler showed that any bounded regular open set without holes can be realised as the wandering domain of some entire function. This result was later refined by Martí-Pete, Rempe and Waterman. 
 The natural question is whether we can obtain a similar result for unbounded sets. 
 Here we run into some technical issues, namely that by just using approximation techniques it is difficult to ensure a function remains injective on an unbounded set. 
 If we instead only care about the approximate shape of a wandering domain, this turns out to not be such a big issue.
@@ -168,7 +168,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #888888;">Abstract.</strong> 
+                <strong style="color: #4aa3b6;">Abstract.</strong> 
             </p>
             </th>
         </tr>
@@ -195,7 +195,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #888888;">Abstract.</strong> 
+                <strong style="color: #4aa3b6;">Abstract.</strong> 
             </p>
             </th>
         </tr>
@@ -222,7 +222,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #888888;">Abstract.</strong> 
+                <strong style="color: #4aa3b6;">Abstract.</strong> 
             </p>
             </th>
         </tr>
@@ -249,7 +249,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
-                    <strong style="color: #888888;">Title. </strong> Insight into Bellman Algorithm<br>
+                    <strong style="color: #4aa3b6;">Title. </strong> Insight into Bellman Algorithm<br>
                     Joint work with F. Wikström.
                 </i>
             </th>
@@ -258,7 +258,7 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p style="text-align: justify; margin: 0;">
-                <strong style="color: #888888;">Abstract.</strong> 
+                <strong style="color: #4aa3b6;">Abstract.</strong> 
                 Bellman algorithm is a recently developed algorithm by me
 and my supervisor. It solves a fully non-linear elliptic Monge-Ampere
 equation with a Dirichlet boundary condition by approximating the
@@ -295,7 +295,7 @@ which explains the numerical observations and illuminates other interesting aspe
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #888888;">Abstract.</strong> 
+                <strong style="color: #4aa3b6;">Abstract.</strong> 
             </p>
             </th>
         </tr>
@@ -322,7 +322,7 @@ which explains the numerical observations and illuminates other interesting aspe
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #888888;">Abstract.</strong> 
+                <strong style="color: #4aa3b6;">Abstract.</strong> 
             </p>
             </th>
         </tr>
@@ -357,7 +357,7 @@ which explains the numerical observations and illuminates other interesting aspe
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #888888;">Abstract.</strong> 
+                <strong style="color: #4aa3b6;">Abstract.</strong> 
             </p>
             </th>
         </tr>
@@ -384,7 +384,7 @@ which explains the numerical observations and illuminates other interesting aspe
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #888888;">Abstract.</strong> 
+                <strong style="color: #4aa3b6;">Abstract.</strong> 
             </p>
             </th>
         </tr>
@@ -403,7 +403,7 @@ which explains the numerical observations and illuminates other interesting aspe
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
-                    <strong style="color: #888888;">Title. </strong> On the existence of meromorphic solutions of the complex Schrödinger equation with a $Q$-shift<br>
+                    <strong style="color: #4aa3b6;">Title. </strong> On the existence of meromorphic solutions of the complex Schrödinger equation with a $Q$-shift<br>
                     Joint work with R. Korhonen.
                 </i>
             </th>
@@ -412,7 +412,7 @@ which explains the numerical observations and illuminates other interesting aspe
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p style="text-align: justify; margin: 0;">
-                <strong style="color: #888888;">Abstract. </strong> In this talk, we discuss a class of complex Schrödinger equation with a $q$-difference term:
+                <strong style="color: #4aa3b6;">Abstract. </strong> In this talk, we discuss a class of complex Schrödinger equation with a $q$-difference term:
 \begin{align}\tag{†}\label{dagger}
 f'(z) = a(z)f(qz) + R(z, f(z)), \quad R(z, f(z)) = \frac{P(z, f(z))}{Q(z, f(z))},
 \end{align}
@@ -445,7 +445,7 @@ We obtain some necessary conditions for \eqref{dagger} to have meromorphic solut
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p>
-                <strong style="color: #888888;">Abstract.</strong> 
+                <strong style="color: #4aa3b6;">Abstract.</strong> 
             </p>
             </th>
         </tr>
