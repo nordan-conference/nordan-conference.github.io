@@ -227,7 +227,7 @@ style="
     <section class="mathconf-slot" aria-labelledby="t1-title">
       <div class="mathconf-time">09:10 – 09:50</div>
       <!--<h3>Talk 1</h3>-->
-      <h2 id="t1-title">Br\"{u}ck's conjecture via linear complex DE:s</h2>
+      <h2 id="t1-title">Br&uuml;ck's conjecture via linear complex DE:s</h2>
       <div class="mathconf-speaker">
         <span class="name">Ilpo Laine</span>
         <span class="affil">University of Eastern Finland (Finland)</span>
