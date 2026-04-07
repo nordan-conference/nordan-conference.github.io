@@ -227,14 +227,25 @@ style="
     <section class="mathconf-slot" aria-labelledby="t1-title">
       <div class="mathconf-time">09:10 – 09:50</div>
       <!--<h3>Talk 1</h3>-->
-      <h2 id="t1-title">Title</h2>
+      <h2 id="t1-title">Br\"{u}ck's conjecture via linear complex DE:s</h2>
       <div class="mathconf-speaker">
         <span class="name">Ilpo Laine</span>
         <span class="affil">University of Eastern Finland (Finland)</span>
       </div>
       <div class="mathconf-divider"></div>
       <div class="mathconf-abstract">
-        <u>Abstract.</u> 
+        <u>Abstract. Br\"{u}ck's conjecture is as follows:
+<p>
+{\rm Conjecture}
+Let $f$ be a non-constant entire function with hyper-order $\rho_{2}(f) \not\in \mathbb{N}\cup \{\infty\}$. If $f$ and $f'$ share a finite value $\alpha$ CM, resp. a suitable meromorphic function $\alpha$, then there exists $ c \in \mathbb{C}\setminus\{0\}$ such that
+$$
+\frac{f'-\alpha}{f-\alpha}=c.
+$$
+</p>
+<p>
+The conjecture holds in a number of special situations as described in a survey paper by Lahiri. In this talk, we show a fairly general situation, where this conjecture fails.</p>
+<p>Joint work with A. El Farissi, R. Dida, M. A. Zemirni.</p>
+</u> 
       </div>
     </section>
 
