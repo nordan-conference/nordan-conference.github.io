@@ -160,15 +160,16 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
-                    Title
+                    <strong style="color: #4aa3b6;">Title. </strong> Counterexamples in Laplace transforms and 
+                    non-uniqueness of solutions for the Cauchy problem of the heat equation
                 </i>
             </th>
         </tr>
         <tr>
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-            <p>
-                <strong style="color: #4aa3b6;">Abstract.</strong> 
+            <p style="text-align: justify; margin: 0;">
+                <strong style="color: #4aa3b6;">Abstract.</strong> The classical uniqueness theorem for the (bilateral) Laplace transform states that if an analytic function has two Laplace representations \(F=\mathcal{L}(f_1)\) and \(F=\mathcal{L}(f_2)\) on overlapping strips, then \(f_1=f_2\) almost everywhere. This may fail if the strips are disjoint, even if \(F\) extends analytically between them. Using an analytic continuation method developed by Harper, we relate the problem of uniqueness of Laplace representation on separate strips to the uniqueness of solutions of the Cauchy problem for the heat equation on the infinite rod. We then adapt methods of holomorphic approximation theory to construct examples of entire functions satisfying \(F=\mathcal{L}(f_1)\) on \(\Re(z)>0\) and \(F=\mathcal{L}(f_2)\) on \(\Re(z)<0\), for which \(f_1-f_2\) is nontrivial on a set of positive Lebesgue measure. In this way, we recover well-known examples of non-uniqueness solutions for the heat equation.
             </p>
             </th>
         </tr>
