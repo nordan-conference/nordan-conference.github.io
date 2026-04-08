@@ -377,7 +377,7 @@ which explains the numerical observations and illuminates other interesting aspe
             <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
                     <strong style="color: #4aa3b6;">Title. </strong> Berezin Transform and Carleson measures<br>
-                    Joint work with Bo He, Zengjian Lou, Jouni R\"atty\"a and Fanglei Wu.
+                    Joint work with Bo He, Zengjian Lou, Jouni Rättyä and Fanglei Wu.
                 </i>
             </th>
         </tr>
