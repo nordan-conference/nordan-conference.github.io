@@ -376,15 +376,16 @@ which explains the numerical observations and illuminates other interesting aspe
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
-                    Title
+                    <strong style="color: #4aa3b6;">Title. </strong> Berezin Transform and Carleson measures<br>
+                    Joint work with Bo He, Zengjian Lou, Jouni R\"atty\"a and Fanglei Wu.
                 </i>
             </th>
         </tr>
         <tr>
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-            <p>
-                <strong style="color: #4aa3b6;">Abstract.</strong> 
+            <p style="text-align: justify; margin: 0;">
+                <strong style="color: #4aa3b6;">Abstract.</strong> For a radial weight \(\omega\), let \(B_{\omega}\) denote the Berezin transform induced by the given weight. We show an interesting connection between the Carleson measures of the weighted Bergman space \(A^p_{\omega}\) and the boundedness of \(B_{\omega}\) in the case of when \(\omega\) is doubling. We also discuss how our results are related to the connection between the Carleson measures of the Hardy space \(H^p\) and the boundedness of the Poisson transform.
             </p>
             </th>
         </tr>
