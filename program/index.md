@@ -371,7 +371,7 @@ The conjecture holds in a number of special situations as described in a survey 
     <!-- Talk 6 -->
     <section class="mathconf-slot" aria-labelledby="t6-title">
       <div class="mathconf-time">10:20 – 11:00</div>
-      <h2 id="t6-title">Title</h2>
+      <h2 id="t6-title">Analytic representation of Buchsbaum-Rim multiplicities</h2>
       <div class="mathconf-speaker">
         <span class="name">Elizabeth Wulcan</span>
         <span class="affil">Chalmers University of Technology (Sweden)</span>
