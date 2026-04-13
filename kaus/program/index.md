@@ -315,15 +315,16 @@ which explains the numerical observations and illuminates other interesting aspe
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
-                    Title
+                    <strong style="color: #4aa3b6;">Title. </strong> Optimal domains of integration operators\\
+                    Joint work with Dr. Antti Perälä
                 </i>
             </th>
         </tr>
         <tr>
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-            <p>
-                <strong style="color: #4aa3b6;">Abstract.</strong> 
+            <p style="text-align: justify; margin: 0;">
+                <strong style="color: #4aa3b6;">Abstract.</strong> This talk focuses on the optimal domains for bounded Volterra integration operators \(T_g\) between distinct Hardy spaces \(H^p\) and \(H^q\) of the unit ball. It is shown that the intersection of the optimal domains is equal to \(H^p\) if \(p> q\), whereas if \(p<q\), we show that this intersection is genuinely larger.
             </p>
             </th>
         </tr>
