@@ -189,15 +189,16 @@ Nevertheless, prescribing the shape of an unbounded wandering domain is not comp
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
-                    Title
+                    <strong style="color: #4aa3b6;">Title. </strong> On the boundary of the Milnor fiber of complex map-germs<br>
+                    Joint work with Aurélio Menegon Neto.
                 </i>
             </th>
         </tr>
         <tr>
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-            <p>
-                <strong style="color: #4aa3b6;">Abstract.</strong> 
+            <p style="text-align: justify; margin: 0;">
+                <strong style="color: #4aa3b6;">Abstract.</strong> We present the notion of a vanishing zone for holomorphic map-germs \(f:(X,0)\rightarrow(\mathbb{C},0)\), where \(X\) is a complex analytic set with an isolated singularity at \(0\). We then establish criteria for the homological equivalence between the boundary of the Milnor fiber of \(f\) and its link, in the case where the singular locus of \(f\) is one-dimensional. Finally, we present hypotheses under which these criteria can be extended to functions defined on analytic sets with non-isolated singularities.
             </p>
             </th>
         </tr>
