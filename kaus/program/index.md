@@ -318,7 +318,7 @@ which explains the numerical observations and illuminates other interesting aspe
             <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
                     <strong style="color: #4aa3b6;">Title. </strong> Optimal domains of integration operators<br>
-                    Joint work with Dr. Antti Perälä
+                    Joint work with Dr. Antti Perälä.
                 </i>
             </th>
         </tr>
