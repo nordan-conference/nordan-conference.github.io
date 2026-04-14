@@ -36,15 +36,16 @@ layout: kaus-default
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
-                    Title
+                    <strong style="color: #4aa3b6;">Title. </strong> Toeplitz operators in analytic tent spaces<br>
+                    Joint work with Yongjiang Duan, Kunyu Guo and Jouni Rättyä.
                 </i>
             </th>
         </tr>
         <tr>
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-            <p>
-                <strong style="color: #4aa3b6;">Abstract.</strong> 
+            <p style="text-align: justify; margin: 0;">
+                <strong style="color: #4aa3b6;">Abstract.</strong> In this talk, we develop a foundational theory of analytic tent spaces. Several technical tools such as maximal theorems, Littlewood-Paley formulas, reproducing kernel estimates, fractional derivative estimates, tent space embedding theorems and duality characterizations are established. Within this framework, we study the Toeplitz operators induced by positive measures.
             </p>
             </th>
         </tr>
