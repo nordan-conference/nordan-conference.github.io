@@ -442,15 +442,16 @@ We obtain some necessary conditions for \eqref{dagger} to have meromorphic solut
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
-                    Title
+                    <strong style="color: #4aa3b6;">Title. </strong>Estimates for the Bergman Kernel Form<br>
+                    Partially based on joint work with Y. He and X. Wang.
                 </i>
             </th>
         </tr>
         <tr>
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-            <p>
-                <strong style="color: #4aa3b6;">Abstract.</strong> 
+            <p style="text-align: justify; margin: 0;">
+                <strong style="color: #4aa3b6;">Abstract.</strong> 	I will discuss the construction of bounds for the Bergman kernel form on Riemann surfaces with bounded Ricci curvature. The main part of the talk will be concerned with the construction of Ohsawa-Takegoshi estimates which will be equivalent to the lower bound in this situation. I will also discuss how one may construct a global upper bound with the use of the Hele-Shaw exponential introduced by Hedenmalm-Shimorin.
             </p>
             </th>
         </tr>
