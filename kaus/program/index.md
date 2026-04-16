@@ -45,7 +45,7 @@ layout: kaus-default
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p style="text-align: justify; margin: 0;">
-                <strong style="color: #4aa3b6;">Abstract.</strong> In this talk, we develop a foundational theory of analytic tent spaces. Several technical tools such as maximal theorems, Littlewood-Paley formulas, reproducing kernel estimates, fractional derivative estimates, tent space embedding theorems and duality characterizations are established. Within this framework, we study the Toeplitz operators induced by positive measures.
+                <strong style="color: #4aa3b6;">Abstract.</strong> This talk concerns analytic tent spaces induced by radial weights admitting certain doubling properties. Several technical tools such as maximal theorems, Littlewood-Paley formulas, reproducing kernel estimates, fractional derivative estimates, tent space embedding theorems and duality characterizations are established. Within this framework, we study the Toeplitz operators induced by positive measures.
             </p>
             </th>
         </tr>
