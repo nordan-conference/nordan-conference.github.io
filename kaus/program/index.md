@@ -291,15 +291,15 @@ which explains the numerical observations and illuminates other interesting aspe
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
-                    Title
+                    <strong style="color: #4aa3b6;">Title. </strong> Holomorphicity of Kobayashi Isometry
                 </i>
             </th>
         </tr>
         <tr>
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-            <p>
-                <strong style="color: #4aa3b6;">Abstract.</strong> 
+            <p style="text-align: justify; margin: 0;">
+                <strong style="color: #4aa3b6;">Abstract.</strong> In this talk, we will discuss the rigidity problem of holomorphicity of Kobayashi isometry. Given an isometry map between two domains in complex Euclidean space with respect to their Kobayashi distance/metric, it is an interesting problem to know when this isometry is holomorphic. We will see through a few examples that Kobayashi isometry need not be holomorphic and mention some important results in this context. In the end, we will show that for the domain diamond \(\triangle=\{|z_1|+|z_2|<1\}\subset \mathbb{C}^2\) and special Carathéodory sets of Tridisc \(D_{a,b}=\{(z,w)\in \mathbb D^2 : |az_1+bz_2-z_1z_2|<|\overline{a}z_2+\overline{b}z_1-1|\}\) for \(\{|a|,|b|,1\}\) forms sides of a triangle, the Kobayashi isometry is indeed holomorphic.
             </p>
             </th>
         </tr>
