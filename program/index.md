@@ -290,7 +290,7 @@ The conjecture holds in a number of special situations as described in a survey 
 This talk explores the interplay between the geometry of a complex continuum and the behavior of these factors. Moving beyond the well-developed theory of real subsets, we will first establish a natural baseline: which complex sets share the asymptotic behavior of the unit disk, where Widom factors converge to 1?</p>
 
 <p>
-We then turn to the extremes. While Widom factors remain uniformly bounded for sets with smooth boundaries, it is a major open problem whether there exists \emph{any} complex continuum where they become unbounded. We will discuss the ongoing search for such a set, examining theoretical lower bounds and the specific fractal geometries that might finally force indefinite growth.
+We then turn to the extremes. While Widom factors remain uniformly bounded for sets with smooth boundaries, it is a major open problem whether there exists <i>any</i> complex continuum where they become unbounded. We will discuss the ongoing search for such a set, examining theoretical lower bounds and the specific fractal geometries that might finally force indefinite growth.
 	</p>
       </div>
       </section>
