@@ -354,15 +354,17 @@ which explains the numerical observations and illuminates other interesting aspe
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
-                    Title
+                    <strong style="color: #4aa3b6;">Title. </strong> Rigidity of CR embeddings of hypersurfaces with non-umbilical points in \(\mathbb{C}^2\) into the sphere in \(\mathbb{C}^3\)
                 </i>
             </th>
         </tr>
         <tr>
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-            <p>
-                <strong style="color: #4aa3b6;">Abstract.</strong> 
+            <p style="text-align: justify; margin: 0;">
+                <strong style="color: #4aa3b6;">Abstract.</strong> Spheres are central objects in Cauchy--Riemann (CR) geometry as model hypersurfaces with rich symmetry groups. In particular, the embeddability of real hypersurfaces into spheres in higher-dimensional complex spaces has been extensively studied.
+
+In this talk, after a brief overview of known results on the existence and uniqueness of embeddings into spheres, we focus on CR embeddings of strictly pseudoconvex connected real hypersurfaces in \(\mathbb{C}^2\) into the sphere in \(\mathbb{C}^3\) and present rigidity results for certain classes of such hypersurfaces with non-umbilical points.
             </p>
             </th>
         </tr>
