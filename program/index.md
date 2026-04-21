@@ -284,7 +284,7 @@ The conjecture holds in a number of special situations as described in a survey 
       </div>
       <div class="mathconf-divider"></div>
       <div class="mathconf-abstract">
-        <p><u>Abstract.</u> The \(n\)-th Chebyshev polynomial of a compact set in the complex plane minimizes the supremum norm on that set. While it is a classical result that the \(n\)-th root of this minimum norm converges to the set's logarithmic capacity, finer asymptotic behavior is captured by "Widom factors"---the ratio of the Chebyshev norm to the \(n\)-th power of the capacity.</p>
+        <p><u>Abstract.</u> The \(n\)-th Chebyshev polynomial of a compact set in the complex plane minimizes the supremum norm on that set. While it is a classical result that the \(n\)-th root of this minimum norm converges to the set's logarithmic capacity, finer asymptotic behavior is captured by "Widom factors"&#8212;the ratio of the Chebyshev norm to the \(n\)-th power of the capacity.</p>
 
 <p>
 This talk explores the interplay between the geometry of a complex continuum and the behavior of these factors. Moving beyond the well-developed theory of real subsets, we will first establish a natural baseline: which complex sets share the asymptotic behavior of the unit disk, where Widom factors converge to 1?</p>
