@@ -277,14 +277,21 @@ The conjecture holds in a number of special situations as described in a survey 
        <!-- Talk 3 -->
     <section class="mathconf-slot" aria-labelledby="t3-title">
       <div class="mathconf-time">11:10 – 11:50</div>
-      <h2 id="t3-title">Title</h2>
+      <h2 id="t3-title">Extremal Polynomials and Complex Continua</h2>
       <div class="mathconf-speaker">
         <span class="name">Jacob Stordal Christiansen</span>
         <span class="affil">Lund University (Sweden)</span>
       </div>
       <div class="mathconf-divider"></div>
       <div class="mathconf-abstract">
-        <u>Abstract.</u> 
+        <p><u>Abstract.</u> The \(n\)-th Chebyshev polynomial of a compact set in the complex plane minimizes the supremum norm on that set. While it is a classical result that the \(n\)-th root of this minimum norm converges to the set's logarithmic capacity, finer asymptotic behavior is captured by "Widom factors"---the ratio of the Chebyshev norm to the \(n\)-th power of the capacity.</p>
+
+<p>
+This talk explores the interplay between the geometry of a complex continuum and the behavior of these factors. Moving beyond the well-developed theory of real subsets, we will first establish a natural baseline: which complex sets share the asymptotic behavior of the unit disk, where Widom factors converge to 1?</p>
+
+<p>
+We then turn to the extremes. While Widom factors remain uniformly bounded for sets with smooth boundaries, it is a major open problem whether there exists \emph{any} complex continuum where they become unbounded. We will discuss the ongoing search for such a set, examining theoretical lower bounds and the specific fractal geometries that might finally force indefinite growth.
+	</p>
       </div>
       </section>
 
