@@ -64,15 +64,17 @@ layout: kaus-default
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
-                    Title
+                    <strong style="color: #4aa3b6;">Title. </strong> On non-autonomous polynomial filled planar
+Julia sets and their Hölder exponents<br>
+                    Joint work with Marta Kosek.
                 </i>
             </th>
         </tr>
         <tr>
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
-            <p>
-                <strong style="color: #4aa3b6;">Abstract.</strong> 
+            <p style="text-align: justify; margin: 0;">
+                <strong style="color: #4aa3b6;">Abstract.</strong> Following the recent work of Kosek and Stawiska (Mathematika 2025), we investigate the Green function of non-autonomous filled Julia sets associated with guided sequences of polynomials. Such sets may be finite, in which case their Green function is not continuous. We provide sufficient conditions ensuring continuity of the Green function, and further establish sufficient conditions for its Hölder continuity. In addition, we present a collection of nontrivial examples of non-autonomous filled Julia sets.
             </p>
             </th>
         </tr>
