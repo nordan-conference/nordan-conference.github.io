@@ -102,7 +102,7 @@ Julia sets and their Hölder exponents<br>
             <th style="font-weight: inherit; padding: 0px 0px 3px 10px">
             <p style="text-align: justify; margin: 0;">
                 <strong style="color: #4aa3b6;">Abstract.</strong> It follows from the Garloff–Wagner theorem that the set of stable polynomials of degree \(n\), denoted by \(\mathcal{H}_n\), i.e., those whose all zeros lie in the left open complex half-plane, with the Hadamard product *, forms an abelian semigroup contained in the abelian group \(\mathbb{R}_n^+\) of polynomials of degree \(n\) with positive real coefficients.</p>
-                <p style="text-align: justify; margin: 0;">
+                <p style="text-align: justify; text-indent: 2em; margin: 0;">
 By the idealizer of the set \(\mathcal{H}_n\), we refer to the largest subsemigroup of \(\mathbb{R}_n^+\) in which \(\mathcal{H}_n\) is an ideal. In this talk, we formulate a conjecture characterizing the idealizer of \(\mathcal{H}_n\) and prove it for \(n \leq 5\). In addition, we show that the proposed condition is necessary for any polynomial to belong to the idealizer and establish, in a distinguished special case, a sufficient condition of a similar nature that supports the conjecture.
             </p>
             </th>
