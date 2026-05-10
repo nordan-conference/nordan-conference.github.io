@@ -356,14 +356,14 @@ We then turn to the extremes. While Widom factors remain uniformly bounded for s
     <section class="mathconf-slot" aria-labelledby="t5-title">
       <div class="mathconf-time">09:10 – 09:50</div>
       <!--<h3>Talk 5</h3>-->
-      <h2 id="t1-title">Title</h2>
+      <h2 id="t1-title">On a random Dirichlet series and integral means spectra</h2>
       <div class="mathconf-speaker">
         <span class="name">Eero Saksman</span>
         <span class="affil">University of Helsinki (Finland)</span>
       </div>
       <div class="mathconf-divider"></div>
       <div class="mathconf-abstract">
-        <u>Abstract.</u> 
+        <u>Abstract.</u> We consider a random Dirichlet series that has some interesting properties with regards to integral means spectrum problems in univalent mapping. The talk is based on collaboration with Bertrand Duplantier (Universite Paris-Saclay, CEA, CRNS) and Veronique Gayrard (Aix Marseille Univ.).
       </div>
     </section>
 
