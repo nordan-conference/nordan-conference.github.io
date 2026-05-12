@@ -305,7 +305,7 @@ We then turn to the extremes. While Widom factors remain uniformly bounded for s
          <!-- Talk 4 -->
     <section class="mathconf-slot" aria-labelledby="t4-title">
       <div class="mathconf-time">14:00 – 14:40</div>
-      <h2 id="t4-title">Title</h2>
+      <h2 id="t4-title">Tame families of Stein manifolds</h2>
       <div class="mathconf-speaker">
 	<span class="name">Álfheiður Edda Sigurðardóttir</span>
 	<span class="affil">Chalmers University of Technology (Sweden)<br>
@@ -313,7 +313,7 @@ We then turn to the extremes. While Widom factors remain uniformly bounded for s
       </div>
       <div class="mathconf-divider"></div>
       <div class="mathconf-abstract">
-        <u>Abstract.</u> 
+        <u>Abstract.</u> We study families of manifolds with a fixed smooth structure but continuously varying complex structures and ask when classical results in complex analysis hold uniformly across the family. We introduce a notion of tameness and show that tameness characterizes when the Oka–Weil approximation theorem behaves continuously with the parameter, as well as global solutions to the Cauchy-Riemann problem. This is joint work with Franc Forstnerič.
       </div>
       </section>
 
