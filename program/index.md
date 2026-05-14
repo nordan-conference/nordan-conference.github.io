@@ -408,14 +408,16 @@ products of generators of \(\mathcal K_x\).
        <!-- Talk 7 -->
     <section class="mathconf-slot" aria-labelledby="t7-title">
       <div class="mathconf-time">11:10 – 11:50</div>
-      <h2 id="t7-title">Title</h2>
+      <h2 id="t7-title">Complete monotonicity and the Gamma function</h2>
       <div class="mathconf-speaker">
         <span class="name">Henrik Laurberg Pedersen</span>
         <span class="affil">University of Copenhagen (Denmark)</span>
       </div>
       <div class="mathconf-divider"></div>
       <div class="mathconf-abstract">
-        <u>Abstract.</u> 
+        <p><u>Abstract.</u> Euler's gamma function appears naturally in many areas of mathematics and monotonicity properties of functions related to the gamma function have attracted the attention of several authors.</p>
+
+<p>In this talk some examples (e.g. for ratios of gamma functions) will be presented in the framework of the completely monotonic functions.</p>
       </div>
       </section>
 
