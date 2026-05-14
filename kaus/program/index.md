@@ -336,17 +336,17 @@ which explains the numerical observations and illuminates other interesting aspe
             </th>
         </tr>
 <tr>
-            <th style="font-weight: inherit"> 15:30 </th>
+            <th style="font-weight: inherit"> 15:00 </th>
             <th style="font-weight: inherit"> - </th>
-            <th style="font-weight: inherit"> 16:00 </th>
+            <th style="font-weight: inherit"> 15:30 </th>
             <th style="font-weight: inherit; padding: 0px 0px 0px 10px;">
                 <i>Break</i>
             </th>
         </tr>
 <tr>
-            <th style="font-weight: inherit"> 16:00 </th>
+            <th style="font-weight: inherit"> 15:30 </th>
             <th style="font-weight: inherit"> - </th>
-            <th style="font-weight: inherit"> 16:25 </th>
+            <th style="font-weight: inherit"> 15:55 </th>
             <th>
                 <input type="checkbox" id="talk10">
                 <label for="talk10">
@@ -373,9 +373,9 @@ In this talk, after a brief overview of known results on the existence and uniqu
             </th>
         </tr>
 <tr>
-            <th style="font-weight: inherit"> 16:30 </th>
+            <th style="font-weight: inherit"> 16:00 </th>
             <th style="font-weight: inherit"> - </th>
-            <th style="font-weight: inherit"> 16:55 </th>
+            <th style="font-weight: inherit"> 16:25 </th>
             <th>
                 <input type="checkbox" id="talk11">
                 <label for="talk11">
@@ -401,9 +401,9 @@ In this talk, after a brief overview of known results on the existence and uniqu
             </th>
         </tr>
         <tr>
-            <th style="font-weight: inherit"> 17:00 </th>
+            <th style="font-weight: inherit"> 16:30 </th>
             <th style="font-weight: inherit"> - </th>
-            <th style="font-weight: inherit"> 17:25 </th>
+            <th style="font-weight: inherit"> 16:55 </th>
             <th>
                 <input type="checkbox" id="talk12">
                 <label for="talk12">
@@ -435,9 +435,9 @@ We obtain some necessary conditions for \eqref{dagger} to have meromorphic solut
             </th>
         </tr>
 <tr>
-            <th style="font-weight: inherit"> 17:30 </th>
+            <th style="font-weight: inherit"> 17:00 </th>
             <th style="font-weight: inherit"> - </th>
-            <th style="font-weight: inherit"> 17:55 </th>
+            <th style="font-weight: inherit"> 17:25 </th>
             <th>
                 <input type="checkbox" id="talk13">
                 <label for="talk13">
