@@ -263,14 +263,30 @@ The conjecture holds in a number of special situations as described in a survey 
     <!-- Talk 2 -->
     <section class="mathconf-slot" aria-labelledby="t2-title">
       <div class="mathconf-time">10:20 – 11:00</div>
-      <h2 id="t2-title">Title</h2>
+      <h2 id="t2-title">Hörmander's existence theory for the
+Cauchy-Riemann equations
+in one complex variable
+with applications to classical problems in
+complex approximation theory</h2>
       <div class="mathconf-speaker">
         <span class="name">Ragnar Sigurðsson</span>
         <span class="affil">University of Iceland (Iceland)</span>
       </div>
       <div class="mathconf-divider"></div>
       <div class="mathconf-abstract">
-        <u>Abstract.</u> 
+        <u>Abstract.</u> Hörmander's existence theory for the solution of the Cauchy-Riemann
+equations is a standard tool in several complex variables for
+constructing holomorphic functions and differential forms of various 
+$L^2$ classes.  The purpose of this talk is 
+to show that Hörmander's theory is in particular a strong tool for 
+constructing holomorphic functions of one complex variable.  
+We do this by proving a version of the Runge theorem where we
+estimate degree of approximating polynomials  and  
+the order of the poles of the approximating rational 
+function in terms of the prescribed error.  
+Furthermore, we are able to construct an approximating 
+rational function, which satisfies a Newton type interpolation 
+conditions at finitely many points.   
       </div>
       </section>
 
