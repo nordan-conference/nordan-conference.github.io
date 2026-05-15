@@ -118,7 +118,8 @@ layout: default
     <!--border-left: 3px solid #000;-->
     background: #fafafa;
     border-radius: 8px;
-	line-height: 120%;
+	line-height: 130%;
+	font-weight: 500;
   }
 
   
