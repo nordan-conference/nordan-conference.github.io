@@ -207,7 +207,7 @@ style="
  <div style="height:30px;"></div>
   
 
-    <h2 id="sat-section">Saturday 23, 2026</h2>
+    <h2 id="sat-section">Saturday, May 23, 2026</h2>
 
   <!--
     <div class="mathconf-meta" aria-label="Event Details">
