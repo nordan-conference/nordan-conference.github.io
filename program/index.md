@@ -337,7 +337,7 @@ We then turn to the extremes. While Widom factors remain uniformly bounded for s
     <section class="mathconf-slot mathconf-break" aria-labelledby="lunch-title">
       <div class="mathconf-time">15:00 – 20:00</div>
       <h3 id="coffee-title">Excursion to Koli National Park</h3>
-      <p>Bus transportation from the Metria building to Koli National Park takes approximately one hour. The return trip will bring participants directly to the Scandic Joensuu Hotel.</p>
+      <p style="line-height: 130%;">Bus transportation from the Metria building to Koli National Park takes approximately one hour. The return trip will bring participants directly to the Scandic Joensuu Hotel.</p>
       </section>
 
          <!-- Excursion (highlighted) -->
