@@ -119,7 +119,7 @@ layout: default
     background: #fafafa;
     border-radius: 8px;
 	line-height: 130%;
-	font-weight: 500;
+	font-weight: 400;
   }
 
   
