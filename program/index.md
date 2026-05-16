@@ -185,7 +185,7 @@ style="
 
  <div style="height:10px;"></div>
 
- <h2 id="fri-section">Friday 22, 2026</h2>
+ <h2 id="fri-section">Friday, May 22, 2026</h2>
 
   <!--
     <div class="mathconf-meta" aria-label="Event Details">
@@ -351,7 +351,7 @@ We then turn to the extremes. While Widom factors remain uniformly bounded for s
 
  <div style="height:30px;"></div>
 
-        <h2 id="sun-section">Sunday 24, 2026</h2>
+        <h2 id="sun-section">Sunday, May 24, 2026</h2>
 
 <!--
     <div class="mathconf-meta" aria-label="Event Details">
