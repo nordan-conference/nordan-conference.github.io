@@ -248,8 +248,7 @@ $$
 </em>
 </p>
 <p>
-The conjecture holds in a number of special situations as described in a survey paper by Lahiri. In this talk, we show a fairly general situation, where this conjecture fails.</p>
-<p>Joint work with A. El Farissi, R. Dida, M. A. Zemirni.</p>
+The conjecture holds in a number of special situations as described in a survey paper by Lahiri. In this talk, we show a fairly general situation, where this conjecture fails. Joint work with A. El Farissi, R. Dida, M. A. Zemirni.</p>
 
       </div>
     </section>
