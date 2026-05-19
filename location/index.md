@@ -21,6 +21,24 @@ The easiest way to reach Joensuu is by air. On May 22, Finnair offers a direct f
   }
 </style>
 
+<style>
+  .remark2-box {
+    background: linear-gradient(135deg, ffb3b3, #ff4d4d);
+    border-left: 6px solid #e6a800;
+    padding: 15px 20px;
+    margin: 20px 0;
+    font-size: 1.05rem;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.15);
+    border-radius: 6px;
+  }
+</style>
+
+<div class="remark2-box">
+  <strong>Remark:</strong> Complimentary bus transportation will be provided from Joensuu Airport to the Scandic Hotel on Friday evening. The bus will depart from the front of the airport terminal once all participants have collected their luggage.
+Our staff will be there to greet you. Look for the signs, you won’t miss them.
+</div>
+
 <div class="remark-box">
   <strong>Remark:</strong> There has been an update to how the airport bus service operates in Joensuu.
 Route 4 will now be extended from Onttola to Joensuu Airport on nearly all departures. In addition, Route 6 will serve passengers arriving on flight AY349 and departing on flight AY350. Please note that Route 4 operates strictly according to its published timetable and will not adjust to changes in flight schedules. Timetables can be found in the 
