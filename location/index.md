@@ -8,6 +8,11 @@ The easiest way to reach Joensuu is by air. On May 22, Finnair offers a direct f
 - Sunday, May 24, departing from Joensuu at 17:55. This flight allows connection to Stockholm (arrival at 20:25).
 - Monday, May 25, departing from Joensuu at 05:30. This early flight connects to Stockholm (arrival at 07:15), as well as Oslo and Reykjavík (arrival at 07:50).
 
+<p>There has been an update to how the airport bus service operates in Joensuu.
+Route 4 will now be extended from Onttola to Joensuu Airport on nearly all departures. In addition, Route 6 will serve passengers arriving on flight AY349 and departing on flight AY350. Please note that Route 4 operates strictly according to its published timetable and will not adjust to changes in flight schedules. Timetables can be found in the 
+  <a href="https://joensuu.digitransit.fi/?locale=en">Journey Planner</a>.
+</p>
+
 <style>
   .remark-box {
     background: linear-gradient(135deg, #ffeb99, #ffd74d);
@@ -27,10 +32,7 @@ The easiest way to reach Joensuu is by air. On May 22, Finnair offers a direct f
 Our staff will be there to greet you. Look for the signs, you won’t miss them.
 </div>
 
-<p>There has been an update to how the airport bus service operates in Joensuu.
-Route 4 will now be extended from Onttola to Joensuu Airport on nearly all departures. In addition, Route 6 will serve passengers arriving on flight AY349 and departing on flight AY350. Please note that Route 4 operates strictly according to its published timetable and will not adjust to changes in flight schedules. Timetables can be found in the 
-  <a href="https://joensuu.digitransit.fi/?locale=en">Journey Planner</a>.
-</p>
+
 
 
 An alternative way to reach Joensuu is by train, which is cheaper but takes a little bit more time. For more information, see the [VR](https://www.vr.fi/en) website.
