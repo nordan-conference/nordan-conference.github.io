@@ -2,6 +2,12 @@
 layout: kaus-default
 ---
 
+# Booklets
+
+<p>Conference handbook (including abstracts): <a href="https://studentuef-my.sharepoint.com/:b:/g/personal/jgrohn_uef_fi/IQAlZWb1I6KUQYefFdz3CR1jAUSJyzJuzS2_O63xWPVe0Zo?e=0pIMXS">pdf-file</a><br>
+Timetable for KAUS 2026: <a href="https://studentuef-my.sharepoint.com/:b:/g/personal/jgrohn_uef_fi/IQA7GaOugHVOQrtSDmA3ObRZAeyADA3pbOboXa2yAslGnCY?e=mamYTY">pdf-file</a></p>
+
+
 # Program
 
 <p>To see titles and abstracts, click the speakers' names.</p>
