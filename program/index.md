@@ -126,7 +126,7 @@ layout: default
 </style>
 
 
-<h1>Conference materials</h1>
+<h1>Booklets</h1>
 
 <p>Conference handbook (including abstracts): <a href="https://studentuef-my.sharepoint.com/:b:/g/personal/jgrohn_uef_fi/IQAlZWb1I6KUQYefFdz3CR1jAUSJyzJuzS2_O63xWPVe0Zo?e=0pIMXS">pdf-file</a></p>
 
