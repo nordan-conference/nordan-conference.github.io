@@ -128,9 +128,8 @@ layout: default
 
 <h1>Booklets</h1>
 
-<p>Conference handbook (including abstracts): <a href="https://studentuef-my.sharepoint.com/:b:/g/personal/jgrohn_uef_fi/IQAlZWb1I6KUQYefFdz3CR1jAUSJyzJuzS2_O63xWPVe0Zo?e=0pIMXS">pdf-file</a></p>
-
-<p>Timetable for Nordan 2026: <a href="https://studentuef-my.sharepoint.com/:b:/g/personal/jgrohn_uef_fi/IQAM_E4alfHeSbXKdSAhaLyPAR8j9-74VW7Ot1eZeRIIO9M?e=t6o2vk">pdf-file</a></p>
+<p>Conference handbook (including abstracts): <a href="https://studentuef-my.sharepoint.com/:b:/g/personal/jgrohn_uef_fi/IQAlZWb1I6KUQYefFdz3CR1jAUSJyzJuzS2_O63xWPVe0Zo?e=0pIMXS">pdf-file</a><br>
+Timetable for Nordan 2026: <a href="https://studentuef-my.sharepoint.com/:b:/g/personal/jgrohn_uef_fi/IQAM_E4alfHeSbXKdSAhaLyPAR8j9-74VW7Ot1eZeRIIO9M?e=t6o2vk">pdf-file</a></p>
 
 <h1>Posters</h1>
 
