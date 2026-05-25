@@ -2,7 +2,7 @@
 layout: kaus-default
 ---
 
-## 2025 Reykjavik, Island
+## 2025 Reykjavík, Iceland
 Organized by Tryggvi Kalman Jónsson (University of Iceland) and Mar Saiz Aparicio (Universitetet i Stavanger).\\
 [Program](2025-kaus-booklet.pdf) \\
 [Photo](KAUS2025.JPG)
