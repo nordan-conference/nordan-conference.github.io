@@ -3,6 +3,8 @@ layout: kaus-default
 ---
 
 ## 2025 Reykjavik, Island
+Organized by Tryggvi Kalman Jónsson (University of Iceland) and Mar Saiz Aparicio (Universitetet i Stavanger).\\
+[Program](2025-kaus-booklet.pdf) 
 
 ## 2024 Östanskär, Sweden
 Organized by Álfheiður Edda Sigurðardóttir (University of Iceland) and Bergur Snorrason (University of Iceland).\\
