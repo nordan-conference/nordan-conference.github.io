@@ -312,7 +312,7 @@ The list of registered participants for Nordan 2026 (updated on Mar 31, 2026):
 
 
   <li class="participant">
-  <span class="name">Kalm Håkan Samuelsson</span>
+  <span class="name">Håkan Samuelsson Kalm</span>
   <ul class="affiliations">
     <li>Chalmers University of Technology (Sweden)</li>
    <li>University of Gothenburg (Sweden)</li>
