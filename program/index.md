@@ -231,7 +231,8 @@ style="
     <section class="mathconf-slot" aria-labelledby="t1-title">
       <div class="mathconf-time">09:10 – 09:50</div>
       <!--<h3>Talk 1</h3>-->
-      <h2 id="t1-title">Br&uuml;ck's conjecture via linear complex DE:s [pdf](slides/Ilpo_Beamer.pdf)</h2>
+      <h2 id="t1-title">Br&uuml;ck's conjecture via linear complex DE:s <a href="https://github.com/nordan-conference/nordan-conference.github.io/blob/08604ef196d862775753b0944391b61892ffa1e0/program/slides/Ilpo_Beamer.pdf">(pdf-file)</a>
+	  </h2>
       <div class="mathconf-speaker">
         <span class="name">Ilpo Laine</span>
         <span class="affil">University of Eastern Finland (Finland)</span>
