@@ -126,8 +126,8 @@ Julia sets and their Hölder exponents<br>
             <th></th><th></th><th></th>
             <th style="font-weight: inherit; padding: 0px 0px 6px 10px">
                 <i>
-                    <strong style="color: #4aa3b6;">Title. </strong> On the geometry of unbounded wandering domains <a href="https://nordan-conference.github.io/kaus/program/slides/Beno_KAUS2026.pdf">(pdf-file)</a>
-                </i>
+                    <strong style="color: #4aa3b6;">Title. </strong> On the geometry of unbounded wandering domains</i> <a href="https://nordan-conference.github.io/kaus/program/slides/Beno_KAUS2026.pdf">(pdf-file)</a>
+                
             </th>
         </tr>
         <tr>
