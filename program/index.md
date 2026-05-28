@@ -324,7 +324,7 @@ We then turn to the extremes. While Widom factors remain uniformly bounded for s
          <!-- Talk 4 -->
     <section class="mathconf-slot" aria-labelledby="t4-title">
       <div class="mathconf-time">14:00 – 14:40</div>
-      <h2 id="t4-title">Tame families of Stein manifolds <a href="https://nordan-conference.github.io/program/slides/Edda_NordanPresentation.pdf">(pdf-file)</h2>
+      <h2 id="t4-title">Tame families of Stein manifolds <a href="https://nordan-conference.github.io/program/slides/Edda_NordanPresentation.pdf">(pdf-file)</a></h2>
       <div class="mathconf-speaker">
 	<span class="name">Álfheiður Edda Sigurðardóttir</span>
 	<span class="affil">Chalmers University of Technology (Sweden)<br>
