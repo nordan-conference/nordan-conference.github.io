@@ -1,14 +1,14 @@
 
 <img src="general26/group.jpg" style="max-width: 800px; width: 100%;" alt="Kuva">
+<br><hr><br>
 
 
-<p>Click the right or left edge of the image to change the picture. The light-colored arrow may be hidden if the image has a light background.</p>
+<p>In the photo carousels below, click the left or right edge of the image to browse through the pictures. Please note that the light-colored arrow may be difficult to see if the image has a light background.</p>
 
 <div style="max-width: 800px; margin: 0 auto;">
 
 <h1 style="margin: 30px 0px 10px 0px">
     Opening words & excursion
-
 </h1>
 
 
