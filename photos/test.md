@@ -42,11 +42,11 @@
         alt="Excursion: Koli"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Excursion: Koli
             </b>
-        </h1>
+        </div>
       </div>
     </div>
   </div>
@@ -90,11 +90,11 @@
         alt="Ilpo Laine"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Ilpo Laine
             </b>
-        </h1>
+        </div>
       </div>
     </div>
     <div class="carousel-item">
@@ -104,11 +104,11 @@
         alt="Ragnar Sigurðsson"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Ragnar Sigurðsson
             </b>
-        </h1>
+        </div>
       </div>
     </div>
     <div class="carousel-item">
@@ -118,11 +118,11 @@
         alt="Jacob Stordal Christiansen"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Jacob Stordal Christiansen
             </b>
-        </h1>
+        </div>
       </div>
     </div>
     <div class="carousel-item">
@@ -132,11 +132,11 @@
         alt="Álfheiður Edda Sigurðardóttir"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Álfheiður Edda Sigurðardóttir
             </b>
-        </h1>
+        </div>
       </div>
     </div>
     <div class="carousel-item">
@@ -146,11 +146,11 @@
         alt="Eero Saksman"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Eero Saksman
             </b>
-        </h1>
+        </div>
       </div>
     </div>
     <div class="carousel-item">
@@ -160,11 +160,11 @@
         alt="Elizabeth Wulcan"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Elizabeth Wulcan
             </b>
-        </h1>
+        </div>
       </div>
     </div>
     <div class="carousel-item">
@@ -174,11 +174,11 @@
         alt="Henrik Laurberg Pedersen"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                Henrik Laurberg Pedersen
             </b>
-        </h1>
+        </div>
       </div>
     </div>
     <div class="carousel-item">
@@ -188,11 +188,11 @@
         alt="Tuyen Trung Truong"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Tuyen Trung Truong
             </b>
-        </h1>
+        </div>
       </div>
     </div>
   </div>
@@ -235,11 +235,11 @@
         alt="Siyu Wang"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                  Siyu Wang
             </b>
-        </h1>
+        </div>
       </div>
     </div>
     <div class="carousel-item">
@@ -249,11 +249,11 @@
         alt="Przemysław Sprus"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Przemysław Sprus
             </b>
-        </h1>
+        </div>
       </div>
     </div>
     <div class="carousel-item">
@@ -263,11 +263,11 @@
         alt="Michał Kudra"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                  Michał Kudra
             </b>
-        </h1>
+        </div>
       </div>
     </div>
     <div class="carousel-item">
@@ -277,11 +277,11 @@
         alt="Beno Učakar"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                  Beno Učakar
             </b>
-        </h1>
+        </div>
       </div>
     </div>
     <div class="carousel-item">
@@ -291,11 +291,11 @@
         alt="João Fontinha"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 João Fontinha 
             </b>
-        </h1>
+        </div>
       </div>
     </div>
     <div class="carousel-item">
@@ -305,11 +305,11 @@
         alt="Benjamin Marim de Moura"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                  Benjamin Marim de Moura
             </b>
-        </h1>
+        </div>
       </div>
     </div>
     <div class="carousel-item">
@@ -319,11 +319,11 @@
         alt="Suprokash Hazra"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Suprokash Hazra
             </b>
-        </h1>
+        </div>
       </div>
     </div>
     <div class="carousel-item">
@@ -333,11 +333,11 @@
         alt="Aleksandra Le"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Aleksandra Le
             </b>
-        </h1>
+        </div>
       </div>
     </div>
     <div class="carousel-item">
@@ -347,11 +347,11 @@
         alt="Anand Chavan"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Anand Chavan
             </b>
-        </h1>
+        </div>
       </div>
     </div>
     <div class="carousel-item">
@@ -361,11 +361,11 @@
         alt="Setareh Eskandari"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Setareh Eskandari
             </b>
-        </h1>
+        </div>
       </div>
     </div>
     <div class="carousel-item">
@@ -375,11 +375,11 @@
         alt="Fani Xerakia"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                  Fani Xerakia
             </b>
-        </h1>
+        </div>
       </div>
     </div>
     <div class="carousel-item">
@@ -389,11 +389,11 @@
         alt="Atte Pennanen"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Atte Pennanen
             </b>
-        </h1>
+        </div>
       </div>
       </div>
      <div class="carousel-item">
@@ -403,11 +403,11 @@
         alt="Johannes Testorf"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Johannes Testorf
             </b>
-        </h1>
+        </div>
       </div>
     </div>     
   </div>
