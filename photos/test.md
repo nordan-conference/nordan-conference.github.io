@@ -28,11 +28,11 @@
         alt="Opening words: Risto Korhonen"
       >
       <div class="carousel-caption d-none d-md-block">
-        <h3 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
+        <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Opening words: Risto Korhonen
             </b>
-        </h3>
+        </div>
       </div>
     </div>
     <div class="carousel-item">
