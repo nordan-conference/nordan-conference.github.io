@@ -1,5 +1,5 @@
 
-<p>Click the right or left edge of the image to change the picture. The white arrow may be hidden if the image has a white background.</p>
+<p>Click the right or left edge of the image to change the picture. The light-colored arrow may be hidden if the image has a light background.</p>
 
 <div style="max-width: 800px; margin: 0 auto;">
 
