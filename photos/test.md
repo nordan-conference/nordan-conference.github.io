@@ -1,6 +1,22 @@
 
-<img src="general26/group.jpg" style="max-width: 900px; width: 100%;" alt="Group photo">
-<br>
+<style>
+.photo-frame {
+  max-width: 900px; 
+  width: 100%;
+  padding: 15px;
+  background: #fff;
+  border: 1px solid #ddd;
+  box-shadow: 
+    0 0 0 5px #f5f5f5,
+    0 0 0 10px #ddd,
+    0 10px 25px rgba(0,0,0,0.3);
+  border-radius: 10px;
+}
+</style>
+
+<img src="general26/group.jpg" class="photo-frame" alt="Group photo">
+
+<br><br>
 <hr />
 <br>
 
