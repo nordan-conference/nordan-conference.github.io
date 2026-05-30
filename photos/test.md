@@ -1,10 +1,14 @@
 
+<img src="general26/group.jpg" style="max-width: 800px; width: 100%;" alt="Kuva">
+
+
 <p>Click the right or left edge of the image to change the picture. The light-colored arrow may be hidden if the image has a light background.</p>
 
 <div style="max-width: 800px; margin: 0 auto;">
 
 <h1 style="margin: 30px 0px 10px 0px">
-    Opening words / excursion / group photo
+    Opening words & excursion
+
 </h1>
 
 
@@ -13,7 +17,6 @@
   <ol class="carousel-indicators">
     <li data-target="#nordan-general" data-slide-to="0" class="active"></li>
     <li data-target="#nordan-general" data-slide-to="1"></li>
-    <li data-target="#nordan-general" data-slide-to="2"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -50,13 +53,6 @@
         src="general26/group.jpg"
         alt="Group photo"
       >
-      <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
-            <b>
-                Group photo
-            </b>
-        </h1>
-      </div>
     </div>
   </div>
   <a class="carousel-control-prev" href="#nordan-general" role="button" data-slide="prev">
