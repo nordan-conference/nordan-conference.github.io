@@ -1,6 +1,8 @@
 
 <img src="general26/group.jpg" style="max-width: 800px; width: 100%;" alt="Kuva">
-<br><hr><br>
+<br>
+---
+<br>
 
 
 <p>In the photo carousels below, click the left or right edge of the image to browse through the pictures. Please note that the light-colored arrow may be difficult to see if the image has a light background.</p>
