@@ -1,10 +1,4 @@
 
----
-layout: default
----
-
-
-
 
 <h1 style="margin: 30px 0px 10px 0px">
     Opening words / excursion / group photo
@@ -62,11 +56,11 @@ layout: default
       </div>
     </div>
   </div>
-  <a class="carousel-control-prev" href="#nordan-speakers" role="button" data-slide="prev">
+  <a class="carousel-control-prev" href="#nordan-general" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#nordan-speakers" role="button" data-slide="next">
+  <a class="carousel-control-next" href="#nordan-general" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
