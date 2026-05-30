@@ -41,7 +41,7 @@
         src="general26/koli.jpg"
         alt="Excursion: Koli"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Excursion: Koli
@@ -89,7 +89,7 @@
         src="nordan26/laine.jpg"
         alt="Ilpo Laine"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Ilpo Laine
@@ -103,7 +103,7 @@
         src="nordan26/sigurdsson.jpg"
         alt="Ragnar Sigurðsson"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Ragnar Sigurðsson
@@ -117,7 +117,7 @@
         src="nordan26/christiansen.jpg"
         alt="Jacob Stordal Christiansen"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Jacob Stordal Christiansen
@@ -131,7 +131,7 @@
         src="nordan26/sigurdardottir.jpg"
         alt="Álfheiður Edda Sigurðardóttir"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Álfheiður Edda Sigurðardóttir
@@ -145,7 +145,7 @@
         src="nordan26/saksman.jpg"
         alt="Eero Saksman"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Eero Saksman
@@ -159,7 +159,7 @@
         src="nordan26/wulcan.jpg"
         alt="Elizabeth Wulcan"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Elizabeth Wulcan
@@ -173,7 +173,7 @@
         src="nordan26/pedersen.jpg"
         alt="Henrik Laurberg Pedersen"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                Henrik Laurberg Pedersen
@@ -187,7 +187,7 @@
         src="nordan26/truong.jpg"
         alt="Tuyen Trung Truong"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Tuyen Trung Truong
@@ -234,7 +234,7 @@
         src="kaus26/siyu.jpg"
         alt="Siyu Wang"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                  Siyu Wang
@@ -248,7 +248,7 @@
         src="kaus26/przemyslaw.jpg"
         alt="Przemysław Sprus"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Przemysław Sprus
@@ -262,7 +262,7 @@
         src="kaus26/michal.jpg"
         alt="Michał Kudra"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                  Michał Kudra
@@ -276,7 +276,7 @@
         src="kaus26/beno.jpg"
         alt="Beno Učakar"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                  Beno Učakar
@@ -290,7 +290,7 @@
         src="kaus26/joao.jpg"
         alt="João Fontinha"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 João Fontinha 
@@ -304,7 +304,7 @@
         src="kaus26/benjamin.jpeg"
         alt="Benjamin Marim de Moura"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                  Benjamin Marim de Moura
@@ -318,7 +318,7 @@
         src="kaus26/suprokash.jpeg"
         alt="Suprokash Hazra"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Suprokash Hazra
@@ -332,7 +332,7 @@
         src="kaus26/aleksandra.jpeg"
         alt="Aleksandra Le"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Aleksandra Le
@@ -346,7 +346,7 @@
         src="kaus26/anand.jpg"
         alt="Anand Chavan"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Anand Chavan
@@ -360,7 +360,7 @@
         src="kaus26/setareh.jpg"
         alt="Setareh Eskandari"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Setareh Eskandari
@@ -374,7 +374,7 @@
         src="kaus26/fani.jpg"
         alt="Fani Xerakia"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                  Fani Xerakia
@@ -388,7 +388,7 @@
         src="kaus26/atte.jpeg"
         alt="Atte Pennanen"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Atte Pennanen
@@ -402,7 +402,7 @@
         src="kaus26/johannes.jpg"
         alt="Johannes Testorf"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Johannes Testorf
