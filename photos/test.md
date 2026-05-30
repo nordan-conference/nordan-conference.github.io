@@ -49,13 +49,6 @@
         </h1>
       </div>
     </div>
-    <div class="carousel-item">
-      <img
-        class="d-block w-100"
-        src="general26/group.jpg"
-        alt="Group photo"
-      >
-    </div>
   </div>
   <a class="carousel-control-prev" href="#nordan-general" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
