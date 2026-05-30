@@ -335,7 +335,7 @@
     <div class="carousel-item">
       <img
         class="d-block w-100"
-        src="kaus26/aleksandra.jpg"
+        src="kaus26/aleksandra.jpeg"
         alt="Aleksandra Le"
       >
       <div class="carousel-caption d-none d-md-block">
