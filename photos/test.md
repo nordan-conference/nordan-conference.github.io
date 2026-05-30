@@ -1,7 +1,7 @@
 
 <style>
 .photo-frame {
-  max-width: 900px; 
+  max-width: 800px; 
   width: 100%;
   padding: 15px;
   background: #fff;
