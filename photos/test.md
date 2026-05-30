@@ -1,7 +1,7 @@
 
 <img src="general26/group.jpg" style="max-width: 800px; width: 100%;" alt="Kuva">
 <br>
----
+<hr />
 <br>
 
 
