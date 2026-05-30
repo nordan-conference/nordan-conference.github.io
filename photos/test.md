@@ -27,7 +27,7 @@
         src="general26/opening.jpg"
         alt="Opening words: Risto Korhonen"
       >
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-block">
         <div style="color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; ">
             <b>
                 Opening words: Risto Korhonen
