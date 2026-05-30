@@ -1,4 +1,7 @@
 
+<p>Click the right or left edge of the image to change the picture. The white arrow may be hidden if the image has a white background.</p>
+
+<div style="max-width: 800px; margin: 0 auto;">
 
 <h1 style="margin: 30px 0px 10px 0px">
     Opening words / excursion / group photo
@@ -427,3 +430,4 @@
   </a>
 </div>
 
+</div>
